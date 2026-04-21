@@ -441,5 +441,49 @@
       "time": "17:30",
       "note": "INCHEON ASIAD MAIN STADIUM"
     }
+  ],
+  "2026-05-13": [
+    {
+      "title": "💎 JAPAN FANMEETING 'YAKUSOKU约定'",
+      "type": "fan",
+      "members": [
+        "all"
+      ],
+      "time": "16:30",
+      "note": "东京巨蛋"
+    }
+  ],
+  "2026-05-14": [
+    {
+      "title": "💎 JAPAN FANMEETING 'YAKUSOKU约定'",
+      "type": "fan",
+      "members": [
+        "all"
+      ],
+      "time": "15:30",
+      "note": "东京巨蛋"
+    }
+  ],
+  "2026-05-23": [
+    {
+      "title": "💎 JAPAN FANMEETING 'YAKUSOKU约定'",
+      "type": "fan",
+      "members": [
+        "all"
+      ],
+      "time": "16:30",
+      "note": "京瓷巨蛋"
+    }
+  ],
+  "2026-05-24": [
+    {
+      "title": "💎 JAPAN FANMEETING 'YAKUSOKU约定'",
+      "type": "fan",
+      "members": [
+        "all"
+      ],
+      "time": "15:30",
+      "note": "京瓷巨蛋"
+    }
   ]
 }
