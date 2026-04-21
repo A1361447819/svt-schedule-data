@@ -119,16 +119,6 @@
       ],
       "time": "",
       "note": "大邱 EXCO East Wing Hall"
-    },
-    {
-      "title": "⚔️🍊 DxS SERENADE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "大邱"
     }
   ],
   "2026-05-31": [
@@ -141,16 +131,6 @@
       ],
       "time": "",
       "note": "大邱 EXCO East Wing Hall"
-    },
-    {
-      "title": "⚔️🍊 DxS SERENADE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "大邱"
     }
   ],
   "2026-06-06": [
@@ -163,16 +143,6 @@
       ],
       "time": "",
       "note": "澳门 THE VENETIAN ARENA"
-    },
-    {
-      "title": "⚔️🍊 DxS SERENADE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "澳门"
     }
   ],
   "2026-07-25": [
@@ -185,16 +155,6 @@
       ],
       "time": "",
       "note": "高雄 KAOHSIUNG ARENA"
-    },
-    {
-      "title": "⚔️🍊 DxS SERENADE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "高雄"
     }
   ],
   "2026-04-20": [
@@ -289,52 +249,6 @@
       "note": ""
     }
   ],
-  "2026-06-20": [
-    {
-      "title": "🍒🐰🦌 CARAT LAND",
-      "type": "fan",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-06-21": [
-    {
-      "title": "🍒🐰🦌 CARAT LAND",
-      "type": "fan",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-06-07": [
     {
       "title": "⚔️🍊 澳门 → 首尔",
@@ -359,97 +273,7 @@
       "note": ""
     }
   ],
-  "2026-05-25": [
-    {
-      "title": "🍒🐰🦌 日本 → 韩国",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-05-23": [
-    {
-      "title": "🍒🐰🦌 大阪 FM",
-      "type": "fan",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-05-24": [
-    {
-      "title": "🍒🐰🦌 大阪 FM",
-      "type": "fan",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-05-22": [
-    {
-      "title": "🍒🐰🦌 韩国 → 日本",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    },
     {
       "title": "⚔️🍊 第18届 Seoul Jazz Festival",
       "type": "concert",
@@ -495,27 +319,6 @@
     }
   ],
   "2026-05-15": [
-    {
-      "title": "🍒🐰🦌 日本 → 韩国",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "jeonghan",
-        "joshua",
-        "jun",
-        "hoshi",
-        "wonwoo",
-        "woozi",
-        "dk",
-        "mingyu",
-        "the8",
-        "seungkwan",
-        "vernon",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    },
     {
       "title": "🐶 东京 → 高雄",
       "type": "airport",
