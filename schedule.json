@@ -179,6 +179,24 @@
       ],
       "time": "17:30",
       "note": "K Arena 横滨"
+    },
+    {
+      "title": "🐸 直播",
+      "type": "vlive",
+      "members": [
+        "the8"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🦦 keyvitup_inkode TikTok",
+      "type": "tiktok",
+      "members": [
+        "dino"
+      ],
+      "time": "",
+      "note": "KEYVITUP Challenge"
     }
   ],
   "2027-03-15": [
@@ -590,7 +608,7 @@
       "members": [
         "mingyu"
       ],
-      "time": "",
+      "time": "21:00",
       "note": "생일 축하해요!"
     }
   ],
