@@ -19,6 +19,16 @@
       ],
       "time": "08:30",
       "note": "奥林匹克公园SOMA美术馆旁的雕塑公园"
+    },
+    {
+      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+      "type": "concert",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": "高雄"
     }
   ],
   "2026-04-17": [
@@ -64,6 +74,15 @@
       ],
       "time": "",
       "note": "仁川 INSPIRE ARENA"
+    },
+    {
+      "title": "🐻‍❄️ 《寂静的朋友》相关访谈",
+      "type": "variety",
+      "members": [
+        "vernon"
+      ],
+      "time": "",
+      "note": ""
     }
   ],
   "2026-04-29": [
@@ -100,6 +119,16 @@
       ],
       "time": "",
       "note": "大邱 EXCO East Wing Hall"
+    },
+    {
+      "title": "⚔️🍊 DxS SERENADE",
+      "type": "concert",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "大邱"
     }
   ],
   "2026-05-31": [
@@ -112,6 +141,16 @@
       ],
       "time": "",
       "note": "大邱 EXCO East Wing Hall"
+    },
+    {
+      "title": "⚔️🍊 DxS SERENADE",
+      "type": "concert",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "大邱"
     }
   ],
   "2026-06-06": [
@@ -124,6 +163,16 @@
       ],
       "time": "",
       "note": "澳门 THE VENETIAN ARENA"
+    },
+    {
+      "title": "⚔️🍊 DxS SERENADE",
+      "type": "concert",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "澳门"
     }
   ],
   "2026-07-25": [
@@ -136,6 +185,16 @@
       ],
       "time": "",
       "note": "高雄 KAOHSIUNG ARENA"
+    },
+    {
+      "title": "⚔️🍊 DxS SERENADE",
+      "type": "concert",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "高雄"
     }
   ],
   "2026-04-20": [
@@ -160,6 +219,471 @@
       ],
       "time": "17:30",
       "note": "K Arena 横滨"
+    }
+  ],
+  "2027-03-15": [
+    {
+      "title": "🐯 结束服役",
+      "type": "other",
+      "members": [
+        "hoshi"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2027-03-14": [
+    {
+      "title": "🍚 结束服役",
+      "type": "other",
+      "members": [
+        "woozi"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2027-01-02": [
+    {
+      "title": "🐈‍⬛ 结束服役",
+      "type": "other",
+      "members": [
+        "wonwoo"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-07-26": [
+    {
+      "title": "⚔️🍊 高雄 → 首尔",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-07-24": [
+    {
+      "title": "⚔️🍊 首尔 → 高雄",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-06-25": [
+    {
+      "title": "🐰 结束服役",
+      "type": "other",
+      "members": [
+        "jeonghan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-06-20": [
+    {
+      "title": "🍒🐰🦌 CARAT LAND",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-06-21": [
+    {
+      "title": "🍒🐰🦌 CARAT LAND",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-06-07": [
+    {
+      "title": "⚔️🍊 澳门 → 首尔",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-06-05": [
+    {
+      "title": "⚔️🍊 首尔 → 澳门",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-25": [
+    {
+      "title": "🍒🐰🦌 日本 → 韩国",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-23": [
+    {
+      "title": "🍒🐰🦌 大阪 FM",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-24": [
+    {
+      "title": "🍒🐰🦌 大阪 FM",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-22": [
+    {
+      "title": "🍒🐰🦌 韩国 → 日本",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "⚔️🍊 第18届 Seoul Jazz Festival",
+      "type": "concert",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-21": [
+    {
+      "title": "🐶 日本 Isaac Toast 活动",
+      "type": "collab",
+      "members": [
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-17": [
+    {
+      "title": "🐶 高雄 → 首尔",
+      "type": "airport",
+      "members": [
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-16": [
+    {
+      "title": "🐶 士力架活动",
+      "type": "collab",
+      "members": [
+        "mingyu"
+      ],
+      "time": "",
+      "note": "中国台湾"
+    }
+  ],
+  "2026-05-15": [
+    {
+      "title": "🍒🐰🦌 日本 → 韩国",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐶 东京 → 高雄",
+      "type": "airport",
+      "members": [
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-13": [
+    {
+      "title": "🍒🐰🦌 东京 FM",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-14": [
+    {
+      "title": "🍒🐰🦌 东京 FM",
+      "type": "fan",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-11": [
+    {
+      "title": "🍒🐰🦌 韩国 → 日本",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "jeonghan",
+        "joshua",
+        "jun",
+        "hoshi",
+        "wonwoo",
+        "woozi",
+        "dk",
+        "mingyu",
+        "the8",
+        "seungkwan",
+        "vernon",
+        "dino"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-05-01": [
+    {
+      "title": "⚔️🍊 日本 → 韩国",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-04-28": [
+    {
+      "title": "⚔️🍊 韩国 → 日本",
+      "type": "airport",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-04-27": [
+    {
+      "title": "🍒🐶 高雄 → 首尔",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "⚔️🍊 DXS 东京线下签售",
+      "type": "fan",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    }
+  ],
+  "2026-04-25": [
+    {
+      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+      "type": "concert",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": "高雄"
+    }
+  ],
+  "2026-04-24": [
+    {
+      "title": "🍊 LIKE SPRING",
+      "type": "release",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+      "type": "concert",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": "高雄"
+    }
+  ],
+  "2026-04-23": [
+    {
+      "title": "🍒🐶 韩国 → 中国",
+      "type": "airport",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
     }
   ]
 }
