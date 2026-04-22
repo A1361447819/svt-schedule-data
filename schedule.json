@@ -167,6 +167,16 @@
       ],
       "time": "17:30",
       "note": "K Arena 横滨"
+    },
+    {
+      "title": "⚔️🍊 乐队老师更新",
+      "type": "collab",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "乐队老师更新"
     }
   ],
   "2026-04-21": [
@@ -197,6 +207,107 @@
       ],
       "time": "",
       "note": "KEYVITUP Challenge"
+    },
+    {
+      "title": "🐶🍒 官推更新 CXM",
+      "type": "official",
+      "members": [
+        "mingyu",
+        "scoups"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐯 ins更新",
+      "type": "ins",
+      "members": [
+        "hoshi"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐯 仁川机场到达",
+      "type": "airport",
+      "members": [
+        "hoshi"
+      ],
+      "time": "",
+      "note": "仁川机场"
+    },
+    {
+      "title": "⚔️ ins更新",
+      "type": "ins",
+      "members": [
+        "dk"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🍊 GUMMY X SEUNGKWAN '봄처럼 넌' Live Clip Spoiler",
+      "type": "other",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "Gummy更新"
+    },
+    {
+      "title": "💎 SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #1",
+      "type": "official",
+      "members": [
+        "all"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐸 wvs更新",
+      "type": "wvs",
+      "members": [
+        "the8"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐸 ins story更新",
+      "type": "ins",
+      "members": [
+        "the8"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "⚔️🍊 piqstudio更新",
+      "type": "other",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "piqstudio"
+    },
+    {
+      "title": "🍊 ins更新",
+      "type": "ins",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐱 仁川机场出发",
+      "type": "airport",
+      "members": [
+        "jun"
+      ],
+      "time": "",
+      "note": "仁川机场 回国录节目"
     }
   ],
   "2027-03-15": [
@@ -654,6 +765,28 @@
       ],
       "time": "",
       "note": "생일 축하해요!"
+    }
+  ],
+  "2020-04-26": [
+    {
+      "title": "⚔️🍊 乐队老师更新",
+      "type": "other",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "⚔️🍊 乐队老师更新",
+      "type": "collab",
+      "members": [
+        "dk",
+        "seungkwan"
+      ],
+      "time": "",
+      "note": ""
     }
   ]
 }
