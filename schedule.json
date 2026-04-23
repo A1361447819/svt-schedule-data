@@ -537,15 +537,6 @@
   ],
   "2026-04-24": [
     {
-      "title": "🍊 LIKE SPRING",
-      "type": "release",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
       "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
       "type": "concert",
       "members": [
@@ -562,6 +553,15 @@
         "seungkwan"
       ],
       "time": "22:10",
+      "note": ""
+    },
+    {
+      "title": "🍊 《Like Spring》音源发行",
+      "type": "release",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "17:00",
       "note": ""
     }
   ],
