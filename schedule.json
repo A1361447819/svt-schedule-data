@@ -360,60 +360,12 @@
       "note": ""
     }
   ],
-  "2026-07-26": [
-    {
-      "title": "⚔️🍊 高雄 → 首尔",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-07-24": [
-    {
-      "title": "⚔️🍊 首尔 → 高雄",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-06-25": [
     {
       "title": "🐰 结束服役",
       "type": "other",
       "members": [
         "jeonghan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-06-07": [
-    {
-      "title": "⚔️🍊 澳门 → 首尔",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-06-05": [
-    {
-      "title": "⚔️🍊 首尔 → 澳门",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
       ],
       "time": "",
       "note": ""
@@ -442,17 +394,6 @@
       "note": ""
     }
   ],
-  "2026-05-17": [
-    {
-      "title": "🐶 高雄 → 首尔",
-      "type": "airport",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-05-16": [
     {
       "title": "🐶 士力架活动",
@@ -464,28 +405,7 @@
       "note": "中国台湾"
     }
   ],
-  "2026-05-15": [
-    {
-      "title": "🐶 东京 → 高雄",
-      "type": "airport",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-05-01": [
-    {
-      "title": "⚔️🍊 日本 → 韩国",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
     {
       "title": "🐸 第十五届咪豆音乐节",
       "type": "concert",
@@ -496,29 +416,7 @@
       "note": ""
     }
   ],
-  "2026-04-28": [
-    {
-      "title": "⚔️🍊 韩国 → 日本",
-      "type": "airport",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
   "2026-04-27": [
-    {
-      "title": "🍒🐶 高雄 → 首尔",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
     {
       "title": "⚔️🍊 DXS 东京线下签售",
       "type": "fan",
