@@ -12,15 +12,6 @@
   ],
   "2026-04-26": [
     {
-      "title": "🐯 活动",
-      "type": "other",
-      "members": [
-        "hoshi"
-      ],
-      "time": "08:30",
-      "note": "奥林匹克公园SOMA美术馆旁的雕塑公园"
-    },
-    {
       "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
       "type": "concert",
       "members": [
@@ -29,18 +20,18 @@
       ],
       "time": "",
       "note": "高雄"
+    },
+    {
+      "title": "🐯 活动",
+      "type": "other",
+      "members": [
+        "hoshi"
+      ],
+      "time": "08:30",
+      "note": "奥林匹克公园SOMA美术馆旁的雕塑公园"
     }
   ],
   "2026-04-17": [
-    {
-      "title": "🍊 偏食餐厅",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "18:00",
-      "note": "YouTube Pixid"
-    },
     {
       "title": "⚔️🍊 [SERENADE] ON STAGE",
       "type": "concert",
@@ -50,6 +41,15 @@
       ],
       "time": "",
       "note": "仁川 INSPIRE ARENA"
+    },
+    {
+      "title": "🍊 偏食餐厅",
+      "type": "variety",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "18:00",
+      "note": "YouTube Pixid"
     }
   ],
   "2026-04-18": [
@@ -210,32 +210,23 @@
       "note": "K Arena 横滨"
     },
     {
-      "title": "🐸 微博直播",
-      "type": "vlive",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🦦 keyvitup_inkode TikTok",
-      "type": "tiktok",
-      "members": [
-        "dino"
-      ],
-      "time": "",
-      "note": "KEYVITUP Challenge"
-    },
-    {
-      "title": "🐶🍒 官推更新 CXM",
+      "title": "🍒🐶 官推更新 CXM",
       "type": "official",
       "members": [
-        "mingyu",
-        "scoups"
+        "scoups",
+        "mingyu"
       ],
       "time": "",
       "note": ""
+    },
+    {
+      "title": "🐱 仁川机场出发",
+      "type": "airport",
+      "members": [
+        "jun"
+      ],
+      "time": "",
+      "note": "仁川机场 回国录节目"
     },
     {
       "title": "🐯 ins更新",
@@ -265,18 +256,21 @@
       "note": ""
     },
     {
-      "title": "🍊 GUMMY X SEUNGKWAN '봄처럼 넌' Live Clip Spoiler",
+      "title": "⚔️🍊 朴圭瑛更新合照",
       "type": "other",
       "members": [
+        "dk",
         "seungkwan"
       ],
       "time": "",
-      "note": "Gummy更新"
+      "note": ""
     },
     {
-      "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #1",
-      "type": "official",
-      "members": [],
+      "title": "🐸 微博直播",
+      "type": "vlive",
+      "members": [
+        "the8"
+      ],
       "time": "",
       "note": ""
     },
@@ -299,6 +293,15 @@
       "note": ""
     },
     {
+      "title": "🍊 GUMMY X SEUNGKWAN '봄처럼 넌' Live Clip Spoiler",
+      "type": "other",
+      "members": [
+        "seungkwan"
+      ],
+      "time": "",
+      "note": "Gummy更新"
+    },
+    {
       "title": "🍊 ins更新",
       "type": "ins",
       "members": [
@@ -308,21 +311,18 @@
       "note": ""
     },
     {
-      "title": "🐱 仁川机场出发",
-      "type": "airport",
+      "title": "🦦 keyvitup_inkode TikTok",
+      "type": "tiktok",
       "members": [
-        "jun"
+        "dino"
       ],
       "time": "",
-      "note": "仁川机场 回国录节目"
+      "note": "KEYVITUP Challenge"
     },
     {
-      "title": "⚔️🍊 朴圭瑛更新合照",
-      "type": "other",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
+      "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #1",
+      "type": "official",
+      "members": [],
       "time": "",
       "note": ""
     }
@@ -584,6 +584,43 @@
       "note": ""
     },
     {
+      "title": "🍒 ins story更新",
+      "type": "ins",
+      "members": [
+        "scoups"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🍒 wvs更新",
+      "type": "wvs",
+      "members": [
+        "scoups"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🍒 ins更新",
+      "type": "ins",
+      "members": [
+        "scoups"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🍒🐶 NOA风间诺亚更新合照",
+      "type": "other",
+      "members": [
+        "scoups",
+        "mingyu"
+      ],
+      "time": "",
+      "note": "CXM"
+    },
+    {
       "title": "🐱 长沙→广州",
       "type": "airport",
       "members": [
@@ -591,23 +628,6 @@
       ],
       "time": "",
       "note": "长沙→广州"
-    },
-    {
-      "title": "🐶🍒 NOA风间诺亚更新合照",
-      "type": "other",
-      "members": [
-        "mingyu",
-        "scoups"
-      ],
-      "time": "",
-      "note": "CXM"
-    },
-    {
-      "title": "[INSIDE SEVENTEEN] CXM [DOUBLE UP] LIVE PARTY BEHIND #1",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
     },
     {
       "title": "🐱 大疆Ronin更新《捕风追影》幕后",
@@ -619,35 +639,12 @@
       "note": ""
     },
     {
-      "title": "🐸 安邸AD更新 米兰设计周包里都有什么",
+      "title": "⚔️🍊🦦 斯凯奇更新",
       "type": "other",
       "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": "米兰设计周"
-    },
-    {
-      "title": "🍒 ins story更新",
-      "type": "ins",
-      "members": [
-        "scoups"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "[PREVIEW] SEVENTEEN WORLD TOUR [NEW_] SPOT #2",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒 wvs更新",
-      "type": "wvs",
-      "members": [
-        "scoups"
+        "dk",
+        "seungkwan",
+        "dino"
       ],
       "time": "",
       "note": ""
@@ -662,15 +659,13 @@
       "note": ""
     },
     {
-      "title": "⚔️🍊🦦 斯凯奇更新",
-      "type": "official",
+      "title": "🐸 安邸AD更新 米兰设计周包里都有什么",
+      "type": "other",
       "members": [
-        "dk",
-        "seungkwan",
-        "dino"
+        "the8"
       ],
       "time": "",
-      "note": ""
+      "note": "米兰设计周"
     },
     {
       "title": "🐸 XCSS更新米兰设计周",
@@ -680,6 +675,24 @@
       ],
       "time": "",
       "note": "米兰设计周"
+    },
+    {
+      "title": "🐸 wvs更新",
+      "type": "wvs",
+      "members": [
+        "the8"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐸 ins更新",
+      "type": "ins",
+      "members": [
+        "the8"
+      ],
+      "time": "",
+      "note": ""
     },
     {
       "title": "🍊 The Seasons节目先行公开 胜宽X夏贤尚 - Popcorn",
@@ -701,36 +714,9 @@
     },
     {
       "title": "🍊 Bibidi Babidi Boo预告",
-      "type": "release",
+      "type": "variety",
       "members": [
         "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 wvs更新",
-      "type": "wvs",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 ins更新",
-      "type": "ins",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒 ins更新",
-      "type": "ins",
-      "members": [
-        "scoups"
       ],
       "time": "",
       "note": ""
@@ -741,6 +727,20 @@
       "members": [
         "seungkwan"
       ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "[INSIDE SEVENTEEN] CXM [DOUBLE UP] LIVE PARTY BEHIND #1",
+      "type": "official",
+      "members": [],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "[PREVIEW] SEVENTEEN WORLD TOUR [NEW_] SPOT #2",
+      "type": "official",
+      "members": [],
       "time": "",
       "note": ""
     },
@@ -950,15 +950,6 @@
   ],
   "2027-02-18": [
     {
-      "title": "🐻‍❄️ 崔瀚率 生日",
-      "type": "birthday",
-      "members": [
-        "vernon"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    },
-    {
       "title": "⚔️ 李硕珉生日",
       "type": "birthday",
       "members": [
@@ -966,6 +957,15 @@
       ],
       "time": "",
       "note": ""
+    },
+    {
+      "title": "🐻‍❄️ 崔瀚率 生日",
+      "type": "birthday",
+      "members": [
+        "vernon"
+      ],
+      "time": "",
+      "note": "생일 축하해요!"
     }
   ],
   "2027-02-11": [
@@ -1003,19 +1003,20 @@
   ],
   "2026-04-22": [
     {
-      "title": "🐶 雀巢咖啡HK更新",
-      "type": "other",
+      "title": "🍒🐶 日本→韩国",
+      "type": "airport",
       "members": [
+        "scoups",
         "mingyu"
       ],
       "time": "",
-      "note": ""
+      "note": "金浦机场"
     },
     {
-      "title": "⚔️ ins story更新",
-      "type": "ins",
+      "title": "🦌 realbarrier更新",
+      "type": "other",
       "members": [
-        "dk"
+        "joshua"
       ],
       "time": "",
       "note": ""
@@ -1039,6 +1040,24 @@
       "note": ""
     },
     {
+      "title": "🐱 杨迪更新《心愿便利贴》",
+      "type": "variety",
+      "members": [
+        "jun"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "⚔️ ins story更新",
+      "type": "ins",
+      "members": [
+        "dk"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
       "title": "⚔️ wvs更新",
       "type": "wvs",
       "members": [
@@ -1048,9 +1067,20 @@
       "note": ""
     },
     {
-      "title": "SEVENTEEN's SNAPSHOOT EP.88 老大老幺组的可爱花絮",
-      "type": "official",
-      "members": [],
+      "title": "🐶 雀巢咖啡HK更新",
+      "type": "other",
+      "members": [
+        "mingyu"
+      ],
+      "time": "",
+      "note": ""
+    },
+    {
+      "title": "🐶 士力架更新",
+      "type": "other",
+      "members": [
+        "mingyu"
+      ],
       "time": "",
       "note": ""
     },
@@ -1073,32 +1103,6 @@
       "note": ""
     },
     {
-      "title": "SEVENTEEN WORLD TOUR [NEW_] (FOCUS)",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐱 杨迪更新《心愿便利贴》",
-      "type": "variety",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒🐶 日本→韩国",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "金浦机场"
-    },
-    {
       "title": "🦦 miim更新",
       "type": "other",
       "members": [
@@ -1108,20 +1112,16 @@
       "note": ""
     },
     {
-      "title": "🐶 士力架更新",
-      "type": "other",
-      "members": [
-        "mingyu"
-      ],
+      "title": "SEVENTEEN's SNAPSHOOT EP.88 老大老幺组的可爱花絮",
+      "type": "official",
+      "members": [],
       "time": "",
       "note": ""
     },
     {
-      "title": "🦌 realbarrier更新",
-      "type": "other",
-      "members": [
-        "joshua"
-      ],
+      "title": "SEVENTEEN WORLD TOUR [NEW_] (FOCUS)",
+      "type": "official",
+      "members": [],
       "time": "",
       "note": ""
     },
