@@ -1,1022 +1,1041 @@
 {
-  "2026-05-02": [
-    {
-      "title": "🐸 第十五届咪豆音乐节",
-      "type": "concert",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
+  "version": 2,
+  "events": {
+    "2026-05-02": [
+      {
+        "title": "🐸 第十五届咪豆音乐节",
+        "type": "concert",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-04-26": [
+      {
+        "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+        "type": "concert",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "高雄"
+      },
+      {
+        "title": "🐯 活动",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "08:30",
+        "note": "奥林匹克公园SOMA美术馆旁的雕塑公园"
+      }
+    ],
+    "2026-04-17": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "仁川 INSPIRE ARENA"
+      },
+      {
+        "title": "🍊 偏食餐厅",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": "YouTube Pixid"
+      }
+    ],
+    "2026-04-18": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "仁川 INSPIRE ARENA"
+      }
+    ],
+    "2026-04-19": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "仁川 INSPIRE ARENA"
+      },
+      {
+        "title": "🐻‍❄️ 《寂静的朋友》GV",
+        "type": "collab",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-04-29": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
+      }
+    ],
+    "2026-04-30": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
+      },
+      {
+        "title": "🍊 Bibidi Babidi Boo 播出",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": "申惟 英宰"
+      }
+    ],
+    "2026-05-30": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "大邱 EXCO East Wing Hall"
+      }
+    ],
+    "2026-05-31": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "大邱 EXCO East Wing Hall"
+      },
+      {
+        "title": "🐶🍒 ASIA TOP吉隆坡音乐节",
+        "type": "concert",
+        "members": [
+          "mingyu",
+          "scoups"
+        ],
+        "time": "",
+        "note": "Sepang International Circuit, Malaysia"
+      }
+    ],
+    "2026-06-06": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "澳门 THE VENETIAN ARENA"
+      }
+    ],
+    "2026-07-25": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "高雄 KAOHSIUNG ARENA"
+      }
+    ],
+    "2026-04-20": [
+      {
+        "title": "🍒🐶 CROSS GENERATION LIVE",
+        "type": "concert",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "17:30",
+        "note": "K Arena 横滨"
+      },
+      {
+        "title": "⚔️🍊 乐队老师更新",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "乐队老师更新"
+      }
+    ],
+    "2026-04-21": [
+      {
+        "title": "🍒🐶 CROSS GENERATION LIVE",
+        "type": "concert",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "17:30",
+        "note": "K Arena 横滨"
+      },
+      {
+        "title": "🍒🐶 官推更新 CXM",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 韩国→长沙",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": "仁川机场 回国录节目"
+      },
+      {
+        "title": "🐯 ins更新",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 美国→韩国",
+        "type": "airport",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": "仁川机场"
+      },
+      {
+        "title": "⚔️ ins更新",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 朴圭瑛更新合照",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博直播",
+        "type": "vlive",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 wvs更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins story更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 GUMMY X SEUNGKWAN '봄처럼 넌' Live Clip Spoiler",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "Gummy更新"
+      },
+      {
+        "title": "🍊 ins更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 keyvitup_inkode TikTok",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "KEYVITUP Challenge"
+      },
+      {
+        "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #1",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2027-03-15": [
+      {
+        "title": "🐯 结束服役",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2027-03-14": [
+      {
+        "title": "🍚 结束服役",
+        "type": "other",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2027-01-02": [
+      {
+        "title": "🐈‍⬛ 结束服役",
+        "type": "other",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-25": [
+      {
+        "title": "🐰 结束服役",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-05-22": [
+      {
+        "title": "⚔️🍊 第18届 Seoul Jazz Festival",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-05-21": [
+      {
+        "title": "🐶 日本 Isaac Toast 活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-05-16": [
+      {
+        "title": "🐶 士力架活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": "中国台湾"
+      }
+    ],
+    "2026-05-01": [
+      {
+        "title": "🐸 第十五届咪豆音乐节",
+        "type": "concert",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-04-27": [
+      {
+        "title": "⚔️🍊 DXS 东京线下签售",
+        "type": "fan",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-04-25": [
+      {
+        "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+        "type": "concert",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "高雄"
+      }
+    ],
+    "2026-04-24": [
+      {
+        "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
+        "type": "concert",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "高雄"
+      },
+      {
+        "title": "🍊 The Seasons 播出",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "22:10",
+        "note": ""
+      },
+      {
+        "title": "🍊 《Like Spring》音源发行",
+        "type": "release",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
+    ],
+    "2026-04-23": [
+      {
+        "title": "🍒🐶 韩国 → 中国台湾",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 ins story更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 ins更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 NOA风间诺亚更新合照",
+        "type": "other",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "CXM"
+      },
+      {
+        "title": "🐱 长沙→广州",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": "长沙→广州"
+      },
+      {
+        "title": "🐱 大疆Ronin更新《捕风追影》幕后",
+        "type": "other",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 ins更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 安邸AD更新 米兰设计周包里都有什么",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "米兰设计周"
+      },
+      {
+        "title": "🐸 XCSS更新米兰设计周",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "米兰设计周"
+      },
+      {
+        "title": "🐸 wvs更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 The Seasons节目先行公开 胜宽X夏贤尚 - Popcorn",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Gummy更新 GUMMY X SEUNGKWAN《Like Spring》Live Clip Teaser",
+        "type": "release",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Bibidi Babidi Boo预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[INSIDE SEVENTEEN] CXM [DOUBLE UP] LIVE PARTY BEHIND #1",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[PREVIEW] SEVENTEEN WORLD TOUR [NEW_] SPOT #2",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #2",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-21": [
+      {
+        "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
+        "type": "fan",
+        "members": [],
+        "time": "17:30",
+        "note": "INCHEON ASIAD MAIN STADIUM"
+      }
+    ],
+    "2026-06-20": [
+      {
+        "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
+        "type": "fan",
+        "members": [],
+        "time": "17:30",
+        "note": "INCHEON ASIAD MAIN STADIUM"
+      }
+    ],
+    "2026-05-13": [
+      {
+        "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
+        "type": "fan",
+        "members": [],
+        "time": "16:30",
+        "note": "东京巨蛋"
+      }
+    ],
+    "2026-05-14": [
+      {
+        "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
+        "type": "fan",
+        "members": [],
+        "time": "15:30",
+        "note": "东京巨蛋"
+      }
+    ],
+    "2026-05-23": [
+      {
+        "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
+        "type": "fan",
+        "members": [],
+        "time": "16:30",
+        "note": "京瓷巨蛋"
+      }
+    ],
+    "2026-05-24": [
+      {
+        "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
+        "type": "fan",
+        "members": [],
+        "time": "15:30",
+        "note": "京瓷巨蛋"
+      }
+    ],
+    "2026-08-08": [
+      {
+        "title": "🍒 崔胜澈 生日",
+        "type": "birthday",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-10-04": [
+      {
+        "title": "🐰 尹净汉 生日",
+        "type": "birthday",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-12-30": [
+      {
+        "title": "🦌 洪知秀 生日",
+        "type": "birthday",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-06-10": [
+      {
+        "title": "🐱 文俊辉 生日",
+        "type": "birthday",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-06-15": [
+      {
+        "title": "🐯 权顺荣 生日",
+        "type": "birthday",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-07-17": [
+      {
+        "title": "🐈‍⬛ 全圆佑 生日",
+        "type": "birthday",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-11-22": [
+      {
+        "title": "🍚 李知勋 生日",
+        "type": "birthday",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-02-18": [
+      {
+        "title": "⚔️ 李硕珉 生日",
+        "type": "birthday",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      },
+      {
+        "title": "🐻‍❄️ 崔瀚率生日",
+        "type": "birthday",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-04-06": [
+      {
+        "title": "🐶 金珉奎 生日",
+        "type": "birthday",
+        "members": [
+          "mingyu"
+        ],
+        "time": "21:00",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2026-11-07": [
+      {
+        "title": "🐸 徐明浩 生日",
+        "type": "birthday",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2027-01-16": [
+      {
+        "title": "🍊 夫胜宽 生日",
+        "type": "birthday",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2027-02-18": [
+      {
+        "title": "⚔️ 李硕珉生日",
+        "type": "birthday",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 崔瀚率 生日",
+        "type": "birthday",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2027-02-11": [
+      {
+        "title": "🦦 李灿 生日",
+        "type": "birthday",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "생일 축하해요!"
+      }
+    ],
+    "2020-04-26": [
+      {
+        "title": "⚔️🍊 乐队老师更新",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 乐队老师更新",
+        "type": "collab",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-04-22": [
+      {
+        "title": "🍒🐶 日本→韩国",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "金浦机场"
+      },
+      {
+        "title": "🦌 realbarrier更新",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 hi6录制",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 hi6更新《心愿便利贴》路透",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 杨迪更新《心愿便利贴》",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ ins story更新",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 雀巢咖啡HK更新",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 米兰设计周 - 看展",
+        "type": "collab",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "米兰"
+      },
+      {
+        "title": "🍊 The Seasons更新现场照",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 miim更新",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "SEVENTEEN's SNAPSHOOT EP.88 老大老幺组的可爱花絮",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "SEVENTEEN WORLD TOUR [NEW_] (FOCUS)",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "GOING ZIP EP.6 奔跑玩耍时最开心的幼稚鬼SEVENTEEN合集😆",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ]
+  },
+  "customTypes": {
+    "cumodrg1j7": {
+      "n": "品牌相关",
+      "i": "🔖",
+      "kw": []
+    },
+    "other": {
+      "i": "⚪️"
     }
-  ],
-  "2026-04-26": [
-    {
-      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
-      "type": "concert",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "高雄"
-    },
-    {
-      "title": "🐯 活动",
-      "type": "other",
-      "members": [
-        "hoshi"
-      ],
-      "time": "08:30",
-      "note": "奥林匹克公园SOMA美术馆旁的雕塑公园"
+  },
+  "typeMods": {
+    "other": {
+      "i": "⚪️"
     }
-  ],
-  "2026-04-17": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "仁川 INSPIRE ARENA"
-    },
-    {
-      "title": "🍊 偏食餐厅",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "18:00",
-      "note": "YouTube Pixid"
-    }
-  ],
-  "2026-04-18": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "仁川 INSPIRE ARENA"
-    }
-  ],
-  "2026-04-19": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "仁川 INSPIRE ARENA"
-    },
-    {
-      "title": "🐻‍❄️ 《寂静的朋友》GV",
-      "type": "collab",
-      "members": [
-        "vernon"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-04-29": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
-    }
-  ],
-  "2026-04-30": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
-    },
-    {
-      "title": "🍊 Bibidi Babidi Boo 播出",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "18:00",
-      "note": "申惟 英宰"
-    }
-  ],
-  "2026-05-30": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "大邱 EXCO East Wing Hall"
-    }
-  ],
-  "2026-05-31": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "大邱 EXCO East Wing Hall"
-    },
-    {
-      "title": "🐶🍒 ASIA TOP吉隆坡音乐节",
-      "type": "concert",
-      "members": [
-        "mingyu",
-        "scoups"
-      ],
-      "time": "",
-      "note": "Sepang International Circuit, Malaysia"
-    }
-  ],
-  "2026-06-06": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "澳门 THE VENETIAN ARENA"
-    }
-  ],
-  "2026-07-25": [
-    {
-      "title": "⚔️🍊 [SERENADE] ON STAGE",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "高雄 KAOHSIUNG ARENA"
-    }
-  ],
-  "2026-04-20": [
-    {
-      "title": "🍒🐶 CROSS GENERATION LIVE",
-      "type": "concert",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "17:30",
-      "note": "K Arena 横滨"
-    },
-    {
-      "title": "⚔️🍊 乐队老师更新",
-      "type": "other",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "乐队老师更新"
-    }
-  ],
-  "2026-04-21": [
-    {
-      "title": "🍒🐶 CROSS GENERATION LIVE",
-      "type": "concert",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "17:30",
-      "note": "K Arena 横滨"
-    },
-    {
-      "title": "🍒🐶 官推更新 CXM",
-      "type": "official",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐱 韩国→长沙",
-      "type": "airport",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": "仁川机场 回国录节目"
-    },
-    {
-      "title": "🐯 ins更新",
-      "type": "ins",
-      "members": [
-        "hoshi"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐯 美国→韩国",
-      "type": "airport",
-      "members": [
-        "hoshi"
-      ],
-      "time": "",
-      "note": "仁川机场"
-    },
-    {
-      "title": "⚔️ ins更新",
-      "type": "ins",
-      "members": [
-        "dk"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "⚔️🍊 朴圭瑛更新合照",
-      "type": "other",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 微博直播",
-      "type": "vlive",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 wvs更新",
-      "type": "wvs",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 ins story更新",
-      "type": "ins",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍊 GUMMY X SEUNGKWAN '봄처럼 넌' Live Clip Spoiler",
-      "type": "other",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "Gummy更新"
-    },
-    {
-      "title": "🍊 ins更新",
-      "type": "ins",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🦦 keyvitup_inkode TikTok",
-      "type": "tiktok",
-      "members": [
-        "dino"
-      ],
-      "time": "",
-      "note": "KEYVITUP Challenge"
-    },
-    {
-      "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #1",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2027-03-15": [
-    {
-      "title": "🐯 结束服役",
-      "type": "other",
-      "members": [
-        "hoshi"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2027-03-14": [
-    {
-      "title": "🍚 结束服役",
-      "type": "other",
-      "members": [
-        "woozi"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2027-01-02": [
-    {
-      "title": "🐈‍⬛ 结束服役",
-      "type": "other",
-      "members": [
-        "wonwoo"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-06-25": [
-    {
-      "title": "🐰 结束服役",
-      "type": "other",
-      "members": [
-        "jeonghan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-05-22": [
-    {
-      "title": "⚔️🍊 第18届 Seoul Jazz Festival",
-      "type": "concert",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-05-21": [
-    {
-      "title": "🐶 日本 Isaac Toast 活动",
-      "type": "collab",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-05-16": [
-    {
-      "title": "🐶 士力架活动",
-      "type": "collab",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": "中国台湾"
-    }
-  ],
-  "2026-05-01": [
-    {
-      "title": "🐸 第十五届咪豆音乐节",
-      "type": "concert",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-04-27": [
-    {
-      "title": "⚔️🍊 DXS 东京线下签售",
-      "type": "fan",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-04-25": [
-    {
-      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
-      "type": "concert",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "高雄"
-    }
-  ],
-  "2026-04-24": [
-    {
-      "title": "🍒🐶 CXM DOUBLE UP LIVE PARTY",
-      "type": "concert",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "高雄"
-    },
-    {
-      "title": "🍊 The Seasons 播出",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "22:10",
-      "note": ""
-    },
-    {
-      "title": "🍊 《Like Spring》音源发行",
-      "type": "release",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "17:00",
-      "note": ""
-    }
-  ],
-  "2026-04-23": [
-    {
-      "title": "🍒🐶 韩国 → 中国台湾",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒 ins story更新",
-      "type": "ins",
-      "members": [
-        "scoups"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒 wvs更新",
-      "type": "wvs",
-      "members": [
-        "scoups"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒 ins更新",
-      "type": "ins",
-      "members": [
-        "scoups"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍒🐶 NOA风间诺亚更新合照",
-      "type": "other",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "CXM"
-    },
-    {
-      "title": "🐱 长沙→广州",
-      "type": "airport",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": "长沙→广州"
-    },
-    {
-      "title": "🐱 大疆Ronin更新《捕风追影》幕后",
-      "type": "other",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "⚔️🍊🦦 斯凯奇更新",
-      "type": "other",
-      "members": [
-        "dk",
-        "seungkwan",
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐶 ins更新",
-      "type": "ins",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 安邸AD更新 米兰设计周包里都有什么",
-      "type": "other",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": "米兰设计周"
-    },
-    {
-      "title": "🐸 XCSS更新米兰设计周",
-      "type": "official",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": "米兰设计周"
-    },
-    {
-      "title": "🐸 wvs更新",
-      "type": "wvs",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 ins更新",
-      "type": "ins",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍊 The Seasons节目先行公开 胜宽X夏贤尚 - Popcorn",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍊 Gummy更新 GUMMY X SEUNGKWAN《Like Spring》Live Clip Teaser",
-      "type": "release",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍊 Bibidi Babidi Boo预告",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🍊 wvs更新",
-      "type": "wvs",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "[INSIDE SEVENTEEN] CXM [DOUBLE UP] LIVE PARTY BEHIND #1",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "[PREVIEW] SEVENTEEN WORLD TOUR [NEW_] SPOT #2",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "SEVENTEEN WORLD TOUR [NEW_] Preview Cuts #2",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-06-21": [
-    {
-      "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
-      "type": "fan",
-      "members": [],
-      "time": "17:30",
-      "note": "INCHEON ASIAD MAIN STADIUM"
-    }
-  ],
-  "2026-06-20": [
-    {
-      "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
-      "type": "fan",
-      "members": [],
-      "time": "17:30",
-      "note": "INCHEON ASIAD MAIN STADIUM"
-    }
-  ],
-  "2026-05-13": [
-    {
-      "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
-      "type": "fan",
-      "members": [],
-      "time": "16:30",
-      "note": "东京巨蛋"
-    }
-  ],
-  "2026-05-14": [
-    {
-      "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
-      "type": "fan",
-      "members": [],
-      "time": "15:30",
-      "note": "东京巨蛋"
-    }
-  ],
-  "2026-05-23": [
-    {
-      "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
-      "type": "fan",
-      "members": [],
-      "time": "16:30",
-      "note": "京瓷巨蛋"
-    }
-  ],
-  "2026-05-24": [
-    {
-      "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
-      "type": "fan",
-      "members": [],
-      "time": "15:30",
-      "note": "京瓷巨蛋"
-    }
-  ],
-  "2026-08-08": [
-    {
-      "title": "🍒 崔胜澈 生日",
-      "type": "birthday",
-      "members": [
-        "scoups"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-10-04": [
-    {
-      "title": "🐰 尹净汉 生日",
-      "type": "birthday",
-      "members": [
-        "jeonghan"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-12-30": [
-    {
-      "title": "🦌 洪知秀 生日",
-      "type": "birthday",
-      "members": [
-        "joshua"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-06-10": [
-    {
-      "title": "🐱 文俊辉 生日",
-      "type": "birthday",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-06-15": [
-    {
-      "title": "🐯 权顺荣 生日",
-      "type": "birthday",
-      "members": [
-        "hoshi"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-07-17": [
-    {
-      "title": "🐈‍⬛ 全圆佑 生日",
-      "type": "birthday",
-      "members": [
-        "wonwoo"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-11-22": [
-    {
-      "title": "🍚 李知勋 生日",
-      "type": "birthday",
-      "members": [
-        "woozi"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-02-18": [
-    {
-      "title": "⚔️ 李硕珉 生日",
-      "type": "birthday",
-      "members": [
-        "dk"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    },
-    {
-      "title": "🐻‍❄️ 崔瀚率生日",
-      "type": "birthday",
-      "members": [
-        "vernon"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-04-06": [
-    {
-      "title": "🐶 金珉奎 生日",
-      "type": "birthday",
-      "members": [
-        "mingyu"
-      ],
-      "time": "21:00",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2026-11-07": [
-    {
-      "title": "🐸 徐明浩 生日",
-      "type": "birthday",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2027-01-16": [
-    {
-      "title": "🍊 夫胜宽 生日",
-      "type": "birthday",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2027-02-18": [
-    {
-      "title": "⚔️ 李硕珉生日",
-      "type": "birthday",
-      "members": [
-        "dk"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐻‍❄️ 崔瀚率 生日",
-      "type": "birthday",
-      "members": [
-        "vernon"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2027-02-11": [
-    {
-      "title": "🦦 李灿 生日",
-      "type": "birthday",
-      "members": [
-        "dino"
-      ],
-      "time": "",
-      "note": "생일 축하해요!"
-    }
-  ],
-  "2020-04-26": [
-    {
-      "title": "⚔️🍊 乐队老师更新",
-      "type": "other",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "⚔️🍊 乐队老师更新",
-      "type": "collab",
-      "members": [
-        "dk",
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    }
-  ],
-  "2026-04-22": [
-    {
-      "title": "🍒🐶 日本→韩国",
-      "type": "airport",
-      "members": [
-        "scoups",
-        "mingyu"
-      ],
-      "time": "",
-      "note": "金浦机场"
-    },
-    {
-      "title": "🦌 realbarrier更新",
-      "type": "other",
-      "members": [
-        "joshua"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐱 hi6录制",
-      "type": "variety",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐱 hi6更新《心愿便利贴》路透",
-      "type": "variety",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐱 杨迪更新《心愿便利贴》",
-      "type": "variety",
-      "members": [
-        "jun"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "⚔️ ins story更新",
-      "type": "ins",
-      "members": [
-        "dk"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "⚔️ wvs更新",
-      "type": "wvs",
-      "members": [
-        "dk"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐶 雀巢咖啡HK更新",
-      "type": "other",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐶 士力架更新",
-      "type": "other",
-      "members": [
-        "mingyu"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🐸 米兰设计周 - 看展",
-      "type": "collab",
-      "members": [
-        "the8"
-      ],
-      "time": "",
-      "note": "米兰"
-    },
-    {
-      "title": "🍊 The Seasons更新现场照",
-      "type": "variety",
-      "members": [
-        "seungkwan"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "🦦 miim更新",
-      "type": "other",
-      "members": [
-        "dino"
-      ],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "SEVENTEEN's SNAPSHOOT EP.88 老大老幺组的可爱花絮",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "SEVENTEEN WORLD TOUR [NEW_] (FOCUS)",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    },
-    {
-      "title": "GOING ZIP EP.6 奔跑玩耍时最开心的幼稚鬼SEVENTEEN合集😆",
-      "type": "official",
-      "members": [],
-      "time": "",
-      "note": ""
-    }
-  ]
+  },
+  "updatedAt": "2026-04-25T03:09:10.705Z"
 }
