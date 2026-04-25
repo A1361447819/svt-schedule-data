@@ -454,6 +454,62 @@
         "note": "高雄"
       },
       {
+        "title": "🍒🐶 官推更新 CXM",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 ins story更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 SeoulJazzFest更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "首尔爵士音乐节艺人问答Q&A"
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 isaactoast更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins story更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 The Seasons 播出",
         "type": "variety",
         "members": [
@@ -463,12 +519,75 @@
         "note": ""
       },
       {
-        "title": "🍊 《Like Spring》音源发行",
+        "title": "🍊 Like Spring 音源发行",
         "type": "release",
         "members": [
           "seungkwan"
         ],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🍊 官推更新 The Seasons 成始璄的耳膜男友",
+        "type": "official",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Genie更新 GUMMY X 胜宽《Like Spring》独家花絮照",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Stone Music更新 Gummy和胜宽《Like Spring》发行问候",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins story更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Verdy更新 Verdy韩国展览",
+        "type": "cumodrg1j7",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -1020,6 +1139,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-10": [
+      {
+        "title": "🦌 realbarrier 日本东京见面会",
+        "type": "fan",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "东京 250人"
+      }
     ]
   },
   "customTypes": {
@@ -1037,5 +1167,5 @@
       "i": "⚪️"
     }
   },
-  "updatedAt": "2026-04-25T03:09:10.705Z"
+  "updatedAt": "2026-04-25T03:14:58.697Z"
 }
