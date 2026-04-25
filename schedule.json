@@ -474,7 +474,7 @@
       },
       {
         "title": "⚔️🍊 SeoulJazzFest更新",
-        "type": "official",
+        "type": "other",
         "members": [
           "dk",
           "seungkwan"
@@ -510,7 +510,7 @@
         "note": ""
       },
       {
-        "title": "🍊 The Seasons 播出",
+        "title": "🍊 《The Seasons》播出",
         "type": "variety",
         "members": [
           "seungkwan"
@@ -519,7 +519,7 @@
         "note": ""
       },
       {
-        "title": "🍊 Like Spring 音源发行",
+        "title": "🍊 《Like Spring》音源发行",
         "type": "release",
         "members": [
           "seungkwan"
@@ -659,7 +659,7 @@
       },
       {
         "title": "⚔️🍊🦦 斯凯奇更新",
-        "type": "other",
+        "type": "cumodrg1j7",
         "members": [
           "dk",
           "seungkwan",
@@ -714,7 +714,7 @@
         "note": ""
       },
       {
-        "title": "🍊 The Seasons节目先行公开 胜宽X夏贤尚 - Popcorn",
+        "title": "🍊 《The Seasons》节目先行公开 胜宽X夏贤尚 - Popcorn",
         "type": "variety",
         "members": [
           "seungkwan"
@@ -732,7 +732,7 @@
         "note": ""
       },
       {
-        "title": "🍊 Bibidi Babidi Boo预告",
+        "title": "🍊 《Bibidi Babidi Boo》预告",
         "type": "variety",
         "members": [
           "seungkwan"
@@ -1021,7 +1021,7 @@
       },
       {
         "title": "🦌 realbarrier更新",
-        "type": "other",
+        "type": "cumodrg1j7",
         "members": [
           "joshua"
         ],
@@ -1075,7 +1075,7 @@
       },
       {
         "title": "🐶 雀巢咖啡HK更新",
-        "type": "other",
+        "type": "cumodrg1j7",
         "members": [
           "mingyu"
         ],
@@ -1084,7 +1084,7 @@
       },
       {
         "title": "🐶 士力架更新",
-        "type": "other",
+        "type": "cumodrg1j7",
         "members": [
           "mingyu"
         ],
@@ -1098,7 +1098,7 @@
           "the8"
         ],
         "time": "",
-        "note": "米兰"
+        "note": ""
       },
       {
         "title": "🍊 The Seasons更新现场照",
@@ -1167,5 +1167,5 @@
       "i": "⚪️"
     }
   },
-  "updatedAt": "2026-04-25T03:14:58.697Z"
+  "updatedAt": "2026-04-25T03:25:16.954Z"
 }
