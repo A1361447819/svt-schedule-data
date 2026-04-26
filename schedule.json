@@ -134,14 +134,14 @@
     ],
     "2026-05-31": [
       {
-        "title": "🐶🍒 ASIA TOP吉隆坡音乐节",
+        "title": "🍒🐶 ASIA TOP吉隆坡音乐节",
         "type": "concert",
         "members": [
-          "mingyu",
-          "scoups"
+          "scoups",
+          "mingyu"
         ],
         "time": "",
-        "note": "Sepang International Circuit, Malaysia"
+        "note": "Sepang International Circuit, Malaysia CXM"
       },
       {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
@@ -1296,5 +1296,5 @@
       "i": "⚪️"
     }
   },
-  "updatedAt": "2026-04-25T17:14:19.709Z"
+  "updatedAt": "2026-04-26T01:12:10.327Z"
 }
