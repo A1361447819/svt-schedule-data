@@ -1401,6 +1401,28 @@
         "time": "",
         "note": "Forever 17"
       }
+    ],
+    "2026-04-28": [
+      {
+        "title": "🍊 《孤独的粉丝见面会》第1部",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "16:00",
+        "note": ""
+      }
+    ],
+    "2026-05-05": [
+      {
+        "title": "🍊 《孤独的粉丝见面会》第2部",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "16:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -1429,5 +1451,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-04-27T01:48:51.039Z"
+  "updatedAt": "2026-04-27T03:54:51.556Z"
 }
