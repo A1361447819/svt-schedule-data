@@ -531,6 +531,61 @@
     ],
     "2026-04-27": [
       {
+        "title": "🍒🐶 日本→韩国",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": "CXM"
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #31",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 直播",
+        "type": "vlive",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新 路易威登相关",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "XCSS更新，路易威登相关"
+      },
+      {
+        "title": "🐸 路易威登更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "路易威登官方更新"
+      },
+      {
+        "title": "🐶 WVS更新",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 DXS 东京线下签售",
         "type": "fan",
         "members": [
@@ -539,6 +594,69 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "⚔️🍊 日推更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS 迷你1辑《Serenade》发售纪念签售会"
+      },
+      {
+        "title": "⚔️🍊 韩国→日本",
+        "type": "airport",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS"
+      },
+      {
+        "title": "⚔️ WVS更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 룩백lkbk更新 《孤独的粉丝见面会》先公开",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "룩백lkbk更新，《孤独的粉丝见面会》先公开"
+      },
+      {
+        "title": "🍊 WVS更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Vernon 野村训市更新 与佐野玲於合影",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": "野村训市更新，和佐野玲於的合影"
+      },
+      {
+        "title": "SEVENTEEN's SNAPSHOOT EP.89 从衣柜中登场的小可爱们",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": "Catch Catch Challenge behind"
       }
     ],
     "2026-04-25": [
@@ -1451,5 +1569,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-04-27T03:54:51.556Z"
+  "updatedAt": "2026-04-27T16:50:24.334Z"
 }
