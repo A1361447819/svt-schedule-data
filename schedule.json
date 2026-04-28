@@ -200,6 +200,15 @@
     ],
     "2026-04-29": [
       {
+        "title": "🐸 新歌 TEASER",
+        "type": "release",
+        "members": [
+          "the8"
+        ],
+        "time": "10:00",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
         "type": "concert",
         "members": [
@@ -526,6 +535,24 @@
           "the8"
         ],
         "time": "19:20-19:50",
+        "note": ""
+      },
+      {
+        "title": "🐸 新歌音源上线",
+        "type": "release",
+        "members": [
+          "the8"
+        ],
+        "time": "00:00",
+        "note": "全平台上线"
+      },
+      {
+        "title": "🐸 新歌概念视频上线",
+        "type": "release",
+        "members": [
+          "the8"
+        ],
+        "time": "10:08",
         "note": ""
       }
     ],
@@ -1569,5 +1596,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-04-27T16:51:25.384Z"
+  "updatedAt": "2026-04-28T12:12:39.230Z"
 }
