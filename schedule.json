@@ -200,12 +200,57 @@
     ],
     "2026-04-29": [
       {
+        "title": "🦌 ESQUIRE JAPAN 六月刊",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "JOSHUA × ESQUIRE JAPAN × Audemars Piguet"
+      },
+      {
         "title": "🐸 新歌 TEASER",
         "type": "release",
         "members": [
           "the8"
         ],
         "time": "10:00",
+        "note": ""
+      },
+      {
+        "title": "🐸 抖音更新",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "新歌Teaser"
+      },
+      {
+        "title": "🐸 Weverse更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Moncler活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS/INS Story更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
         "note": ""
       },
       {
@@ -217,6 +262,100 @@
         ],
         "time": "",
         "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
+      },
+      {
+        "title": "⚔️🦦 soundcat_custom_gallery更新",
+        "type": "other",
+        "members": [
+          "dk",
+          "dino"
+        ],
+        "time": "",
+        "note": "新耳返"
+      },
+      {
+        "title": "⚔️🍊 日推更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS千叶DAY1"
+      },
+      {
+        "title": "⚔️🍊 官方INS更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS"
+      },
+      {
+        "title": "🍊 Weverse更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ SBEDT更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS Story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 直播",
+        "type": "vlive",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Weverse更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 INS Story更新",
+        "type": "ins",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": "V8"
       }
     ],
     "2026-04-30": [
@@ -1708,5 +1847,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-04-29T01:15:12.299Z"
+  "updatedAt": "2026-04-30T03:23:39.730Z"
 }
