@@ -843,6 +843,51 @@
     ],
     "2026-05-01": [
       {
+        "title": "🍒 Esquire Thailand五月刊封面",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "BOSS × SCOUPS × Esquire Thailand"
+      },
+      {
+        "title": "🍒 jim moore更新合影",
+        "type": "other",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "GQ创意总监"
+      },
+      {
+        "title": "🐱 INS Story更新",
+        "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS Story更新",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛ WVS五月生日祝福",
+        "type": "wvs",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 第十五届咪豆音乐节",
         "type": "concert",
         "members": [
@@ -867,6 +912,98 @@
           "the8"
         ],
         "time": "10:08",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS Story更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 抖音更新",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "咪豆音乐节"
+      },
+      {
+        "title": "⚔️🍊 乐队老师更新",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 日本→韩国",
+        "type": "airport",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS Story更新",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Verdy更新",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS Story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -2022,5 +2159,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-01T07:31:49.237Z"
+  "updatedAt": "2026-05-01T18:30:03.370Z"
 }
