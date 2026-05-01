@@ -360,6 +360,106 @@
     ],
     "2026-04-30": [
       {
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 esquirejapan更新六月刊封面拍摄现场花絮",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Esquire Japan采访",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "JOSHUA独家分享给Esquire Japan的话"
+      },
+      {
+        "title": "🐯 鸡龙台部队开放活动",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ billboard更新",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": "What Would You Queue with SEVENTEEN'S V8"
+      },
+      {
+        "title": "🐸 韩国→中国",
+        "type": "airport",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新 咪豆音乐节",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 直播",
+        "type": "vlive",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Isaac Toast更新幕后花絮漫画",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 ins更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Isaac Toast更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
         "type": "concert",
         "members": [
@@ -370,6 +470,54 @@
         "note": "千叶 Makuhari Messe International Exhibition Hall 4-6"
       },
       {
+        "title": "⚔️ BANDLUCY_mystic更新",
+        "type": "tiktok",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": "ALL AGES Challenge"
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Tiktok更新 电波电波Challenge",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS"
+      },
+      {
+        "title": "⚔️🍊 日推更新 千叶DAY2",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 官方ins更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "DXS"
+      },
+      {
         "title": "🍊 《Bibidi Babidi Boo》播出",
         "type": "variety",
         "members": [
@@ -377,6 +525,33 @@
         ],
         "time": "18:00",
         "note": "申惟 英宰"
+      },
+      {
+        "title": "🍊 amoebakorea更新《Like Spring》 幕后花絮",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 官推更新 Bibidi Babidi Boo",
+        "type": "official",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-30": [
@@ -1847,5 +2022,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-04-30T03:23:39.730Z"
+  "updatedAt": "2026-05-01T06:13:41.875Z"
 }
