@@ -2254,6 +2254,125 @@
         "time": "20:10",
         "note": ""
       }
+    ],
+    "2026-05-03": [
+      {
+        "title": "🍒 Esquire Thailand 五月刊",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "Esquire Thailand"
+      },
+      {
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 wvs更新",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 中国→韩国",
+        "type": "airport",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "中国→韩国"
+      },
+      {
+        "title": "🐸 ins更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 wvs更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 咪豆音乐节更新",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "咪豆音乐节"
+      },
+      {
+        "title": "🐸 抖音更新",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "XCSS"
+      },
+      {
+        "title": "🐸 si.won12（舞者朋友）更新合影",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "si.won12"
+      },
+      {
+        "title": "🍊 ins更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Cortis更新 REDRED Challenge",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": "Cortis"
+      },
+      {
+        "title": "🦦 PLAVE更新 BornSavage Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "plave_official"
+      }
     ]
   },
   "customTypes": {
@@ -2287,5 +2406,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-03T03:23:34.746Z"
+  "updatedAt": "2026-05-03T19:31:14.238Z"
 }
