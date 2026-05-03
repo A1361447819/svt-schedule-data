@@ -3,12 +3,120 @@
   "events": {
     "2026-05-02": [
       {
+        "title": "🍒 《Esquire Thailand》五月刊",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "Esquire Thailand更新"
+      },
+      {
+        "title": "🐱 《你好星期六》下期预告",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 第十五届咪豆音乐节",
         "type": "concert",
         "members": [
           "the8"
         ],
         "time": "20:20-21:00",
+        "note": ""
+      },
+      {
+        "title": "🐸 咪豆音乐节更新DAY1",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 imalphamail/awkpak更新合影",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "《不见了》"
+      },
+      {
+        "title": "🐸 awkpak更新《不见了》概念短片剧照",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "awkpak创意总监"
+      },
+      {
+        "title": "🐸 XCSS更新 咪豆音乐节DAY1",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins story更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 更新微博私信回复",
+        "type": "cumog3kj6q",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 ins更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Isaac Toast更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ ins story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《Bonjour面包店》Cast合影",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -2179,5 +2287,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-02T15:01:00.700Z"
+  "updatedAt": "2026-05-03T03:23:34.746Z"
 }
