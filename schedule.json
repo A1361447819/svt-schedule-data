@@ -2398,6 +2398,18 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-07": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "THE VENETIAN ARENA, 澳门"
+      }
     ]
   },
   "customTypes": {
@@ -2431,5 +2443,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T17:55:01.701Z"
+  "updatedAt": "2026-05-04T17:57:32.965Z"
 }
