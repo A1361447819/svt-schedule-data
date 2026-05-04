@@ -2266,7 +2266,7 @@
     ],
     "2026-05-03": [
       {
-        "title": "🍒 Esquire Thailand 五月刊",
+        "title": "🍒 《Esquire Thailand》五月刊",
         "type": "magazine",
         "members": [
           "scoups"
@@ -2385,7 +2385,7 @@
     ],
     "2026-05-04": [
       {
-        "title": "🍒 Esquire Thailand 五月刊视频",
+        "title": "🍒 《Esquire Thailand》五月刊视频",
         "type": "magazine",
         "members": [
           "scoups"
@@ -2398,6 +2398,15 @@
         "type": "wvs",
         "members": [
           "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 [哈尼来囧] 一日碎片🐰",
+        "type": "official",
+        "members": [
+          "jeonghan"
         ],
         "time": "",
         "note": ""
@@ -2421,6 +2430,24 @@
         "note": ""
       },
       {
+        "title": "🐯 WVS更新",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 咪豆音乐节更新",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 ins更新",
         "type": "ins",
         "members": [
@@ -2439,7 +2466,7 @@
         "note": ""
       },
       {
-        "title": "🍊ins更新",
+        "title": "🍊 ins story更新",
         "type": "ins",
         "members": [
           "seungkwan"
@@ -2480,5 +2507,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T17:18:22.459Z"
+  "updatedAt": "2026-05-04T17:21:47.456Z"
 }
