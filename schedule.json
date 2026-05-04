@@ -2235,13 +2235,13 @@
     ],
     "2026-05-05": [
       {
-        "title": "🐯 《ROK-REPO : 跆拳道示范团》 篇",
-        "type": "shoot",
+        "title": "🐯 ROK-REPO : 跆拳道示范团篇",
+        "type": "other",
         "members": [
           "hoshi"
         ],
-        "time": "16：00（KST）",
-        "note": ""
+        "time": "16:00",
+        "note": "ROK_ARMY更新"
       },
       {
         "title": "🍊 《孤独的粉丝见面会》第2部",
@@ -2394,15 +2394,6 @@
         "note": "Esquire Thailand X S.COUPS X BOSS"
       },
       {
-        "title": "🐰 하니왔쫑 哈尼来囧 一日碎片🐰",
-        "type": "wvs",
-        "members": [
-          "jeonghan"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐱 中国→韩国",
         "type": "airport",
         "members": [
@@ -2419,15 +2410,6 @@
         ],
         "time": "",
         "note": ""
-      },
-      {
-        "title": "🐯 《ROK-REPO : 跆拳道示范团》 篇",
-        "type": "shoot",
-        "members": [
-          "hoshi"
-        ],
-        "time": "",
-        "note": "ROK_ARMY 更新，5/5 16:00(CST)播出"
       },
       {
         "title": "🐶 ins更新",
@@ -2489,5 +2471,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T13:14:54.070Z"
+  "updatedAt": "2026-05-04T13:15:49.592Z"
 }
