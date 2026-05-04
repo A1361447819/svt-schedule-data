@@ -252,60 +252,6 @@
         "note": ""
       }
     ],
-    "2026-04-17": [
-      {
-        "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
-        "type": "concert",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": "仁川 INSPIRE ARENA"
-      },
-      {
-        "title": "🍊 《偏食餐厅》播出",
-        "type": "variety",
-        "members": [
-          "seungkwan"
-        ],
-        "time": "18:00",
-        "note": "YouTube Pixid"
-      }
-    ],
-    "2026-04-18": [
-      {
-        "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
-        "type": "concert",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": "仁川 INSPIRE ARENA"
-      }
-    ],
-    "2026-04-19": [
-      {
-        "title": "⚔️🍊 DXS [SERENADE] ON STAGE",
-        "type": "concert",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": "仁川 INSPIRE ARENA"
-      },
-      {
-        "title": "🐻‍❄️ 《寂静的朋友》GV",
-        "type": "collab",
-        "members": [
-          "vernon"
-        ],
-        "time": "",
-        "note": ""
-      }
-    ],
     "2026-04-29": [
       {
         "title": "🦌 ESQUIRE JAPAN 六月刊",
@@ -718,28 +664,6 @@
         ],
         "time": "",
         "note": "高雄 KAOHSIUNG ARENA"
-      }
-    ],
-    "2026-04-20": [
-      {
-        "title": "🍒🐶 CROSS GENERATION LIVE",
-        "type": "concert",
-        "members": [
-          "scoups",
-          "mingyu"
-        ],
-        "time": "17:30",
-        "note": "K Arena 横滨"
-      },
-      {
-        "title": "⚔️🍊 乐队老师更新",
-        "type": "other",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": "DXS"
       }
     ],
     "2026-04-21": [
@@ -2507,5 +2431,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T17:22:41.614Z"
+  "updatedAt": "2026-05-04T17:55:01.701Z"
 }
