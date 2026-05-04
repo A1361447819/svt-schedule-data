@@ -2236,12 +2236,12 @@
     "2026-05-05": [
       {
         "title": "🐯 ROK-REPO : 跆拳道示范团 篇",
-        "type": "shoot",
+        "type": "other",
         "members": [
           "hoshi"
         ],
-        "time": "16：00（KST）",
-        "note": ""
+        "time": "15:00",
+        "note": "ROK_ARMY 更新"
       },
       {
         "title": "🍊 《孤独的粉丝见面会》第2部",
@@ -2421,15 +2421,6 @@
         "note": ""
       },
       {
-        "title": "🐯 ROK-REPO : 跆拳道示范团 篇",
-        "type": "shoot",
-        "members": [
-          "hoshi"
-        ],
-        "time": "",
-        "note": "ROK_ARMY 更新，5/5 16:00(CST)播出"
-      },
-      {
         "title": "🐶 ins更新",
         "type": "ins",
         "members": [
@@ -2489,5 +2480,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T13:57:00.274Z"
+  "updatedAt": "2026-05-04T17:18:22.459Z"
 }
