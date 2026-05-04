@@ -2373,6 +2373,33 @@
         "time": "",
         "note": "plave_official"
       }
+    ],
+    "2026-05-04": [
+      {
+        "title": "🐱中国→韩国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊ins更新",
+        "type": "ins",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -2406,5 +2433,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-03T19:33:39.666Z"
+  "updatedAt": "2026-05-04T02:16:44.763Z"
 }
