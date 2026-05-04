@@ -2396,7 +2396,9 @@
       {
         "title": "🍊ins更新",
         "type": "ins",
-        "members": [],
+        "members": [
+          "seungkwan"
+        ],
         "time": "",
         "note": ""
       }
@@ -2433,5 +2435,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-04T02:17:39.499Z"
+  "updatedAt": "2026-05-04T02:18:23.964Z"
 }
