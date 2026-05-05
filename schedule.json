@@ -2201,8 +2201,17 @@
         "members": [
           "hoshi"
         ],
-        "time": "15:00",
+        "time": "16:00",
         "note": "ROK_ARMY 更新"
+      },
+      {
+        "title": "🐯 儿童节纪念青瓦台演出",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": "青瓦台"
       },
       {
         "title": "🐸 wvs 更新",
@@ -2578,5 +2587,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-05T19:17:25.482Z"
+  "updatedAt": "2026-05-05T19:21:03.458Z"
 }
