@@ -2557,13 +2557,49 @@
         "note": "Esquire Philippines X S.COUPS - BOSS"
       },
       {
+        "title": "🍒 INS Story更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 Esquire Malaysia 五月刊封面",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "Esquire Malaysia X S.COUPS X BOSS"
+      },
+      {
+        "title": "🐱 官推更新",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 微博更新",
+        "type": "cumog3kj6q",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 自动回复更新",
         "type": "cumog3kj6q",
         "members": [
           "the8"
         ],
         "time": "",
-        "note": ""
+        "note": "「欢迎来到这个夏天」"
       },
       {
         "title": "🍊 斯凯奇更新 ​​​",
@@ -2579,6 +2615,33 @@
         "type": "ins",
         "members": [
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS Story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -2627,5 +2690,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-06T06:32:14.948Z"
+  "updatedAt": "2026-05-06T18:46:41.826Z"
 }
