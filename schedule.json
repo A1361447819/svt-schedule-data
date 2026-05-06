@@ -2160,13 +2160,13 @@
     "2026-05-05": [
       {
         "title": "🍒🐶 2026 ASIATOP MUSIC FESTIVAL 宣传",
-        "type": "other",
+        "type": "official",
         "members": [
           "scoups",
           "mingyu"
         ],
         "time": "",
-        "note": "CXM"
+        "note": ""
       },
       {
         "title": "🍒 Esquire Thailand 采访更新",
@@ -2201,17 +2201,8 @@
         "members": [
           "hoshi"
         ],
-        "time": "16:00",
+        "time": "15:00",
         "note": "ROK_ARMY 更新"
-      },
-      {
-        "title": "🐯 儿童节纪念青瓦台演出",
-        "type": "other",
-        "members": [
-          "hoshi"
-        ],
-        "time": "",
-        "note": "青瓦台"
       },
       {
         "title": "🐸 wvs 更新",
@@ -2249,15 +2240,6 @@
         ],
         "time": "",
         "note": ""
-      },
-      {
-        "title": "🐸 微博自动回复更新",
-        "type": "cumog3kj6q",
-        "members": [
-          "the8"
-        ],
-        "time": "",
-        "note": "欢迎来到这个夏天"
       },
       {
         "title": "⚔️ wvs更新",
@@ -2555,15 +2537,42 @@
         "note": "THE VENETIAN ARENA, 澳门"
       }
     ],
-    "2026-05-07": [
+    "2026-05-06": [
       {
-        "title": "🦌 Billboard《Take Us Out》",
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 JOSHUA  Takes Us Out",
         "type": "variety",
         "members": [
           "joshua"
         ],
-        "time": "00:00",
-        "note": "SEVENTEEN成员JOSHUA💎🤭 带我们去了首尔的鱼市场🐟"
+        "time": "5/7 0:00(CST)",
+        "note": "billboard更新"
+      },
+      {
+        "title": "🐸 自动回复更新",
+        "type": "cumog3kj6q",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 斯凯奇更新 ​​​",
+        "type": "cumodrg1j7",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ]
   },
@@ -2598,5 +2607,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-06T02:08:43.098Z"
+  "updatedAt": "2026-05-06T04:15:06.291Z"
 }
