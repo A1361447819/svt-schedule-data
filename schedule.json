@@ -2671,6 +2671,17 @@
         "time": "0:00",
         "note": "SEVENTEEN成员JOSHUA💎🤭 带我们去了首尔的鱼市场🐟"
       }
+    ],
+    "2026-05-08": [
+      {
+        "title": "🦦 《Bonjour面包店》",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "15:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -2704,5 +2715,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-06T18:50:14.378Z"
+  "updatedAt": "2026-05-07T05:04:05.423Z"
 }
