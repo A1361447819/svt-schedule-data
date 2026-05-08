@@ -1693,6 +1693,15 @@
     ],
     "2026-05-14": [
       {
+        "title": "🍊 Bibidi Babidi Boo",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": "嘉宾 定延 志效"
+      },
+      {
         "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
         "type": "fan",
         "members": [],
@@ -2672,6 +2681,24 @@
     ],
     "2026-05-07": [
       {
+        "title": "🍒 Esquire Korea 6月电子刊",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": "Esquire Korea X S.COUPS X BOSS"
+      },
+      {
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 billboard 《Takes Us Out》",
         "type": "variety",
         "members": [
@@ -2679,6 +2706,104 @@
         ],
         "time": "0:00",
         "note": "SEVENTEEN成员JOSHUA💎🤭 带我们去了首尔的鱼市场🐟"
+      },
+      {
+        "title": "🦌 itstetrisbish更新合影",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 wvs更新",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 army_rok更新",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": "一等兵权顺荣的HOSHI TAMTAM"
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 #V8HUNT",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins story更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Bibidi Babidi Boo预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 wvs更新",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "💎出道4000天纪念直播",
+        "type": "vlive",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-08": [
@@ -2724,5 +2849,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-07T05:12:11.706Z"
+  "updatedAt": "2026-05-08T02:27:39.053Z"
 }
