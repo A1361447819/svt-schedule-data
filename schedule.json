@@ -2806,12 +2806,121 @@
     ],
     "2026-05-08": [
       {
+        "title": "🍒 ins更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 ins story更新",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 billboard更新Head to Head with Billboard.",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 pusspussmag更新",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "pusspussmag"
+      },
+      {
+        "title": "🦌 wvs更新",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 wvs更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Cortis更新TNT Challenge",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Esquire Korea[小夜曲] ON STAGE幕后专访",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 《Bonjour面包店》",
         "type": "variety",
         "members": [
           "dino"
         ],
         "time": "15:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 wvs更新",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 Bonjour面包店",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 CoupangPlay更新《Bonjour面包店》剧照",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ]
@@ -2847,5 +2956,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-08T09:03:02.043Z"
+  "updatedAt": "2026-05-09T03:54:54.651Z"
 }
