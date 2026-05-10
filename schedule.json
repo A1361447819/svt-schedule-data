@@ -2923,6 +2923,64 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-09": [
+      {
+        "title": "🍒 ins story更新",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 wvs更新",
+        "type": "wvs",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 wvs更新",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ SBEDT更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 azarine更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -2956,5 +3014,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-09T03:55:58.056Z"
+  "updatedAt": "2026-05-10T10:41:16.379Z"
 }
