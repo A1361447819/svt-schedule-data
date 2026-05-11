@@ -3048,6 +3048,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-08-03": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album '吉BOARD'",
+        "type": "comeback",
+        "members": [
+          "dino"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -3081,5 +3092,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-11T07:07:52.966Z"
+  "updatedAt": "2026-05-11T07:09:03.360Z"
 }
