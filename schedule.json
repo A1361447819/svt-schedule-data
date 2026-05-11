@@ -3010,6 +3010,44 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-11": [
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #33",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 #Picheolin",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 周一邀请嘉宾 '兴致'守护者客串铁人的突袭专访",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "Picheolin 1st Mini Album '吉BOARD' \n2026.08.03 6PM (KST) / 5AM (ET)"
+      },
+      {
+        "title": "🦦 ins story更新",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -3043,5 +3081,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-11T07:03:40.661Z"
+  "updatedAt": "2026-05-11T07:07:52.966Z"
 }
