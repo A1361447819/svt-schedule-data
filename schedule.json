@@ -2981,6 +2981,35 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-10": [
+      {
+        "title": "🐶 INS更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS Story更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -3014,5 +3043,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-10T10:41:16.379Z"
+  "updatedAt": "2026-05-11T07:03:40.661Z"
 }
