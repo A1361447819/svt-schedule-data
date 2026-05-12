@@ -3013,10 +3013,60 @@
     ],
     "2026-05-11": [
       {
+        "title": "🍒🐸🐶 韩国→日本",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "the8",
+          "mingyu",
+          "dk",
+          "seungkwan",
+          "vernon"
+        ],
+        "time": "",
+        "note": "金浦机场"
+      },
+      {
         "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #33",
         "type": "official",
         "members": [
           "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 TWS更新YouYou Challenge",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins story更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 姐姐ins更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -3031,7 +3081,7 @@
         "note": ""
       },
       {
-        "title": "🦦 周一邀请嘉宾 '兴致'守护者客串铁人的突袭专访",
+        "title": "🦦 周一邀请嘉宾 「兴致」守护者客串铁人的突袭专访",
         "type": "official",
         "members": [
           "dino"
@@ -3042,6 +3092,15 @@
       {
         "title": "🦦 ins story更新",
         "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 客串铁人「兴致」守护者客串铁人的突袭专访Behind the Scenes",
+        "type": "official",
         "members": [
           "dino"
         ],
@@ -3092,5 +3151,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-11T07:09:03.360Z"
+  "updatedAt": "2026-05-12T02:22:51.266Z"
 }
