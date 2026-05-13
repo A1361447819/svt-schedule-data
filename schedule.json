@@ -1684,6 +1684,15 @@
     ],
     "2026-05-13": [
       {
+        "title": "⚔️ WVS更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ 《B tv李东镇的Piarchia》",
         "type": "variety",
         "members": [
@@ -1698,6 +1707,13 @@
         "members": [],
         "time": "16:30",
         "note": "东京巨蛋"
+      },
+      {
+        "title": "Ice Cream with MINITEEN 🍨",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-14": [
@@ -3304,5 +3320,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-13T05:22:33.832Z"
+  "updatedAt": "2026-05-13T05:23:55.694Z"
 }
