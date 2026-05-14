@@ -1684,7 +1684,25 @@
     ],
     "2026-05-13": [
       {
-        "title": "⚔️ WVS更新",
+        "title": "🐱 ins更新",
+        "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 抖音更新",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "《不见了》Live Clip"
+      },
+      {
+        "title": "⚔️ wvs更新",
         "type": "wvs",
         "members": [
           "dk"
@@ -1702,21 +1720,76 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ 官推更新 B tv李东镇的Piarchia",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 2026 JAPAN FANMEETING 'YAKUSOKU' in TOKYO DOME Day 1",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": "TOKYO DOME"
+      },
+      {
         "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
         "type": "fan",
         "members": [],
         "time": "16:30",
         "note": "东京巨蛋"
-      },
-      {
-        "title": "Ice Cream with MINITEEN 🍨",
-        "type": "official",
-        "members": [],
-        "time": "",
-        "note": ""
       }
     ],
     "2026-05-14": [
+      {
+        "title": "🐱 官推更新",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影频道融媒体中心更新",
+        "type": "other",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": "俊辉邀大家相约哈尔滨成龙电影周"
+      },
+      {
+        "title": "🐸 THE 8 Digital Single '不见了 (Love is gone)' Live Clip",
+        "type": "release",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Tiktok更新",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "👉🍕🍊👈"
+      },
+      {
+        "title": "⚔️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
       {
         "title": "🍊 Bibidi Babidi Boo",
         "type": "variety",
@@ -1725,6 +1798,40 @@
         ],
         "time": "18:00",
         "note": "嘉宾 定延 志效"
+      },
+      {
+        "title": "🍊 官推更新 bibidi babidi boo",
+        "type": "official",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 wvs更新",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 CoupangPlay更新",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "《Bonjour面包店》宣传"
+      },
+      {
+        "title": "官推更新 2026 JAPAN FANMEETING 'YAKUSOKU' in TOKYO DOME Day 2",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": "TOKYO DOME"
       },
       {
         "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
@@ -3320,5 +3427,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-13T05:23:55.694Z"
+  "updatedAt": "2026-05-14T19:25:59.230Z"
 }
