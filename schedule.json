@@ -3475,6 +3475,17 @@
         "time": "9:00",
         "note": ""
       }
+    ],
+    "2026-05-29": [
+      {
+        "title": "🦌 《K-POPS!》合作原声带《One More Dance (with JOSHUA and Corbyn Besson)》",
+        "type": "release",
+        "members": [
+          "joshua"
+        ],
+        "time": "12:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -3508,5 +3519,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-15T03:36:40.536Z"
+  "updatedAt": "2026-05-15T05:05:59.971Z"
 }
