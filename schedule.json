@@ -880,13 +880,56 @@
     ],
     "2026-05-16": [
       {
-        "title": "🐶 士力架活动",
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 ins更新",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 中国台湾士力架活动",
         "type": "collab",
         "members": [
           "mingyu"
         ],
         "time": "15:00",
-        "note": "中国台湾"
+        "note": ""
+      },
+      {
+        "title": "⚔️ 斯凯奇更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 CoupangPlay更新《Bonjour面包店》剧照",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "INSIDE SEVENTEEN - SEVENTEEN WORLD TOUR [NEW_] BEHIND #5",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-01": [
@@ -1731,6 +1774,15 @@
       {
         "title": "🐻‍❄️ 官推更新 B tv李东镇的Piarchia",
         "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Verdy更新合影",
+        "type": "other",
         "members": [
           "vernon"
         ],
@@ -3418,6 +3470,30 @@
     ],
     "2026-05-15": [
       {
+        "title": "🍒🦌🐱 日本→韩国",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "joshua",
+          "jun",
+          "the8",
+          "dk",
+          "seungkwan",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Anderson .Paak更新合作曲预告",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "《K-POPS!》原声带专辑合作曲 One More Dance (with JOSHUA and Corbyn Besson) 预告"
+      },
+      {
         "title": "🐸 《安邸AD》5月刊封面",
         "type": "magazine",
         "members": [
@@ -3427,12 +3503,99 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ 官推更新 #V8HUNT",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 日本→中国台湾",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bibidi babidi boo 未公开",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "[未公开]从彩排开始就进行气势对决的打歌节目幕后"
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ ins更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ SEVENTEEN&ILLIT更新PUMP It's Me Challenge",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 《Bonjour面包店》",
         "type": "variety",
         "members": [
           "dino"
         ],
         "time": "15:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 #Bonjour面包店",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Cosmopolitan Korea 6月刊封面",
+        "type": "magazine",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官方ins更新 This tiny light is burning✨",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官方ins更新🕺🕺🕺🎶",
+        "type": "official",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -3486,6 +3649,30 @@
         "time": "12:00",
         "note": ""
       }
+    ],
+    "2026-07-24": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE - 高雄",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "KAOHSIUNG ARENA"
+      }
+    ],
+    "2026-07-26": [
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE - 高雄",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "KAOHSIUNG ARENA"
+      }
     ]
   },
   "customTypes": {
@@ -3519,5 +3706,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-16T03:33:52.378Z"
+  "updatedAt": "2026-05-16T19:02:16.340Z"
 }
