@@ -3601,7 +3601,25 @@
     ],
     "2026-05-18": [
       {
-        "title": "🐸 《安邸AD》5月刊封面",
+        "title": "🐸 安邸AD 5月刊封面 Teaser视频2",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "10:08",
+        "note": ""
+      },
+      {
+        "title": "🐸 安邸AD 5月刊封面 Teaser视频3",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "10:30",
+        "note": ""
+      },
+      {
+        "title": "🐸 安邸AD 5月刊封面 正式封面",
         "type": "magazine",
         "members": [
           "the8"
@@ -3610,7 +3628,16 @@
         "note": ""
       },
       {
-        "title": "🐸 《安邸AD》5月刊封面",
+        "title": "🐸 安邸AD 5月刊封面 动态封面",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "11:15",
+        "note": ""
+      },
+      {
+        "title": "🐸 安邸AD 5月刊封面 内页组",
         "type": "magazine",
         "members": [
           "the8"
@@ -3619,7 +3646,7 @@
         "note": ""
       },
       {
-        "title": "🐸 《安邸AD》5月刊封面",
+        "title": "🐸 安邸AD 5月刊封面 正片视频",
         "type": "magazine",
         "members": [
           "the8"
@@ -3630,12 +3657,21 @@
     ],
     "2026-05-19": [
       {
-        "title": "🐸 《安邸AD》5月刊封面",
+        "title": "🐸 安邸AD 5月刊封面 封面故事",
         "type": "magazine",
         "members": [
           "the8"
         ],
-        "time": "9:00",
+        "time": "09:00",
+        "note": ""
+      },
+      {
+        "title": "🐸 安邸AD 5月刊封面 观后感视频",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "09:00",
         "note": ""
       }
     ],
@@ -3706,5 +3742,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-16T19:02:51.198Z"
+  "updatedAt": "2026-05-16T19:51:23.011Z"
 }
