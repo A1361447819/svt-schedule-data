@@ -1954,6 +1954,15 @@
     ],
     "2026-05-23": [
       {
+        "title": "🐱 你好星期六",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "20:10",
+        "note": ""
+      },
+      {
         "title": "JAPAN FANMEETING 'YAKUSOKU约定'",
         "type": "fan",
         "members": [],
@@ -3903,5 +3912,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-18T09:34:58.312Z"
+  "updatedAt": "2026-05-18T09:36:57.824Z"
 }
