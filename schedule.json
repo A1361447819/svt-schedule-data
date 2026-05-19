@@ -876,15 +876,6 @@
     ],
     "2026-05-21": [
       {
-        "title": "🍒 COUPLAY直播（预计）",
-        "type": "vlive",
-        "members": [
-          "scoups"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐶 日本 Isaac Toast 活动",
         "type": "collab",
         "members": [
@@ -3967,6 +3958,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-20": [
+      {
+        "title": "🍒 COUPLAY直播",
+        "type": "vlive",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -4000,5 +4002,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-19T05:16:23.887Z"
+  "updatedAt": "2026-05-19T12:47:21.752Z"
 }
