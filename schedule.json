@@ -876,12 +876,131 @@
     ],
     "2026-05-21": [
       {
+        "title": "🐰 ins更新",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 韩国→中国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 日本 Isaac Toast 活动",
         "type": "collab",
         "members": [
           "mingyu"
         ],
         "time": "16:40",
+        "note": ""
+      },
+      {
+        "title": "🐶 韩国→日本",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 I.O.I更新 Suddenly Challenge",
+        "type": "tiktok",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 ins story更新",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 首尔爵士音乐节彩排",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 官方ins story更新",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bibidi babidi boo预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "嘉宾采源 恩採"
+      },
+      {
+        "title": "🍊 Billlie更新 WORK Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins story更新",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ wvs更新",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Cosmopolitan Korea 6月刊内页",
+        "type": "magazine",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -4130,5 +4249,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-21T11:21:30.594Z"
+  "updatedAt": "2026-05-21T18:30:00.110Z"
 }
