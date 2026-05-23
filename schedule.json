@@ -2064,12 +2064,108 @@
     ],
     "2026-05-23": [
       {
+        "title": "🍒 wvs更新",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌🐶🍊 WVS直播",
+        "type": "wvs",
+        "members": [
+          "joshua",
+          "mingyu",
+          "seungkwan",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 你好星期六",
         "type": "variety",
         "members": [
           "jun"
         ],
         "time": "20:10",
+        "note": ""
+      },
+      {
+        "title": "🐱 你好星期六 相关照片",
+        "type": "cumog3kj6q",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 你好星期六 cut",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ILLIT更新 It's Me Challenge",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架PH更新",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Peder更新",
+        "type": "ins",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 fastpaper/W Korea更新 后台采访",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 爵士音乐节",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 Jazzy day🎷",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
         "note": ""
       },
       {
@@ -4249,5 +4345,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-21T18:30:00.110Z"
+  "updatedAt": "2026-05-23T21:26:13.254Z"
 }
