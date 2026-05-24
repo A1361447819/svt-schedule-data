@@ -879,7 +879,7 @@
         "note": ""
       },
       {
-        "title": "🐱 中国→韩国",
+        "title": "🐱 中国→日本",
         "type": "airport",
         "members": [
           "jun"
@@ -915,6 +915,15 @@
         "note": ""
       },
       {
+        "title": "🐯 原州联合体育大会",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 ins story更新",
         "type": "ins",
         "members": [
@@ -942,16 +951,7 @@
         "note": ""
       },
       {
-        "title": "🐶 Issac Toast更新",
-        "type": "cumodrg1j7",
-        "members": [
-          "mingyu"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
-        "title": "⚔️🍊 第18届 Seoul Jazz Festival",
+        "title": "⚔️🍊 第18届 首尔爵士音乐节",
         "type": "concert",
         "members": [
           "dk",
@@ -993,6 +993,13 @@
         "type": "variety",
         "members": [],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "十五夜更新《出差沟通之神》幕后照📸",
+        "type": "variety",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -4477,5 +4484,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-23T21:34:04.799Z"
+  "updatedAt": "2026-05-24T06:53:29.007Z"
 }
