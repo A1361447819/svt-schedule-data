@@ -4469,6 +4469,28 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-25": [
+      {
+        "title": "🐱 EVELOM伊芙珑 悬念预热",
+        "type": "cumodrg1j7",
+        "members": [
+          "jun"
+        ],
+        "time": "10:00",
+        "note": ""
+      }
+    ],
+    "2026-05-27": [
+      {
+        "title": "🐱 EVELOM伊芙珑 官宣",
+        "type": "cumodrg1j7",
+        "members": [
+          "jun"
+        ],
+        "time": "10:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -4502,5 +4524,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-24T07:08:14.541Z"
+  "updatedAt": "2026-05-24T07:12:53.049Z"
 }
