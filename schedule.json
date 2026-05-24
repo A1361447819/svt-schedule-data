@@ -989,6 +989,15 @@
         "note": ""
       },
       {
+        "title": "🦦 ins story更新",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "出差沟通之神 SEVENTEEN团结大会 第一期",
         "type": "variety",
         "members": [],
@@ -2214,7 +2223,7 @@
         "note": ""
       },
       {
-        "title": "🐱 你好星期六",
+        "title": "🐱 《你好星期六》",
         "type": "variety",
         "members": [
           "jun"
@@ -2223,7 +2232,7 @@
         "note": ""
       },
       {
-        "title": "🐱 你好星期六 相关照片",
+        "title": "🐱 《你好星期六》 相关照片📸",
         "type": "cumog3kj6q",
         "members": [
           "jun"
@@ -2232,7 +2241,7 @@
         "note": ""
       },
       {
-        "title": "🐱 你好星期六 cut",
+        "title": "🐱 《你好星期六》小鸡舞",
         "type": "variety",
         "members": [
           "jun"
@@ -2259,7 +2268,7 @@
         "note": ""
       },
       {
-        "title": "⚔️🍊 Peder更新",
+        "title": "⚔️🍊 Peder更新合影📸",
         "type": "ins",
         "members": [
           "dk",
@@ -2270,7 +2279,7 @@
       },
       {
         "title": "⚔️🍊 fastpaper/W Korea更新 后台采访",
-        "type": "concert",
+        "type": "other",
         "members": [
           "dk",
           "seungkwan"
@@ -2279,7 +2288,7 @@
         "note": ""
       },
       {
-        "title": "⚔️🍊 爵士音乐节",
+        "title": "⚔️🍊 官方ins更新 首尔爵士音乐节",
         "type": "official",
         "members": [
           "dk",
@@ -4484,5 +4493,5 @@
       "n": "粉丝活动/签售/见面会"
     }
   },
-  "updatedAt": "2026-05-24T06:53:29.007Z"
+  "updatedAt": "2026-05-24T06:58:38.051Z"
 }
