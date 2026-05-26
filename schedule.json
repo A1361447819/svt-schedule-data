@@ -2872,6 +2872,15 @@
         "note": ""
       },
       {
+        "title": "💎 官推更新 [17'S]给克拉们准备的礼物 🎁",
+        "type": "official",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍒 wvs更新「11周年..感慨万千呢…用我最擅长的事 让我最爱的克拉们 今后变得更加幸福！❤️」",
         "type": "wvs",
         "members": [
@@ -2945,6 +2954,24 @@
       {
         "title": "🐱 抖音更新 11ᵗʰ🎂",
         "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 wb更新🏰🧙🏻💎",
+        "type": "cumog3kj6q",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 ins更新 🏰🧙🏻💎",
+        "type": "ins",
         "members": [
           "jun"
         ],
@@ -3061,8 +3088,26 @@
         "note": ""
       },
       {
+        "title": "⚔️ ins更新 纽特 斯卡曼德ꔛ",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 wvs更新「克拉们…我们出道11周年了呢…真的能走到这一步 真的全是托了克拉们的福」",
         "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins更新 小宽狼",
+        "type": "ins",
         "members": [
           "seungkwan"
         ],
@@ -5039,5 +5084,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-26T19:53:30.634Z"
+  "updatedAt": "2026-05-26T19:57:12.990Z"
 }
