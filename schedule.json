@@ -2211,18 +2211,6 @@
         "note": ""
       },
       {
-        "title": "🦌🐶🍊 WVS直播",
-        "type": "wvs",
-        "members": [
-          "joshua",
-          "mingyu",
-          "seungkwan",
-          "vernon"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐱 《你好星期六》",
         "type": "variety",
         "members": [
@@ -2263,6 +2251,18 @@
         "type": "tiktok",
         "members": [
           "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶🦌🍊 WVS直播",
+        "type": "vlive",
+        "members": [
+          "mingyu",
+          "joshua",
+          "seungkwan",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -4761,5 +4761,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-26T01:02:13.085Z"
+  "updatedAt": "2026-05-26T04:49:39.013Z"
 }
