@@ -2827,8 +2827,44 @@
         "note": "Forever 17"
       },
       {
-        "title": "💎 HAPPY SEVENTEEN's DAY!",
+        "title": "💎 WVS更新 HAPPY SEVENTEEN's DAY!",
         "type": "official",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "💎 WVS更新 HAPPY_SEVENTEEN_DAY 🩷",
+        "type": "official",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "💎 WVS更新 [FOR CARAT] HAPPY SVT DAY 💘💎 11th Anniversary of Debut!",
+        "type": "official",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "💎 纪念出道11周年 SEVENTEEN向联合国教科文组织捐款",
+        "type": "other",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "💎 出道十一周年定期聚会直播📸",
+        "type": "vlive",
         "members": [
           "all"
         ],
@@ -2845,7 +2881,51 @@
         "note": ""
       },
       {
+        "title": "🍒🦌🐱 SEVENTEEN十一周年定期聚会直播",
+        "type": "vlive",
+        "members": [
+          "scoups",
+          "joshua",
+          "jun",
+          "the8",
+          "mingyu",
+          "dk",
+          "seungkwan",
+          "vernon",
+          "dino"
+        ],
+        "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🍒 INS更新 💎🤍",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 wvs更新「11年里用同样的心意一起走过来 一心一意地爱着我们 珍惜我们 为我们应援 谢谢」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Ins story更新 11 years down, a lifetime ahead 🩵我爱你们💎",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 wvs回复更新",
         "type": "wvs",
         "members": [
           "joshua"
@@ -2863,8 +2943,35 @@
         "note": ""
       },
       {
+        "title": "🐱 抖音更新 11ᵗʰ🎂",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 wvs更新「11年来一直陪伴着我们 真心地感谢你们 虎浪嘿🐯🧡」",
         "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 Ins story更新HAPPY SEVENTEEN'S DAY!",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 ins story更新❤️",
+        "type": "ins",
         "members": [
           "hoshi"
         ],
@@ -2890,6 +2997,34 @@
         "note": ""
       },
       {
+        "title": "🐸 wvs更新 📸",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins story更新 💎❤️",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 微博明星更新V8 IN WEIBO",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 士力架更新 珉奎的出道11週年三連拍",
         "type": "cumodrg1j7",
         "members": [
@@ -2901,6 +3036,15 @@
       {
         "title": "🐶 wvs更新「SEVENTEEN 11周年快乐 成员们辛苦了 我爱你们💋」",
         "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "cumodrg1j7",
         "members": [
           "mingyu"
         ],
@@ -2941,13 +3085,6 @@
           "dino"
         ],
         "time": "",
-        "note": ""
-      },
-      {
-        "title": "SEVENTEEN十一周年定期聚会直播",
-        "type": "vlive",
-        "members": [],
-        "time": "17:00",
         "note": ""
       }
     ],
@@ -4902,5 +5039,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-26T19:40:57.038Z"
+  "updatedAt": "2026-05-26T19:53:30.634Z"
 }
