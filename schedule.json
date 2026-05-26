@@ -4629,6 +4629,23 @@
         "note": ""
       },
       {
+        "title": "🍒🦌🐱 日本→韩国",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "joshua",
+          "jun",
+          "the8",
+          "mingyu",
+          "dk",
+          "seungkwan",
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰 官推更新 净汉30日倒计时挑战",
         "type": "official",
         "members": [
@@ -4761,5 +4778,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-26T04:56:49.379Z"
+  "updatedAt": "2026-05-26T04:57:22.815Z"
 }
