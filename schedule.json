@@ -2277,6 +2277,15 @@
         "note": ""
       },
       {
+        "title": "🐶 士力架更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 Peder更新合影📸",
         "type": "ins",
         "members": [
@@ -2391,6 +2400,15 @@
         "type": "official",
         "members": [
           "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 宗家更新宗家辛奇百科",
+        "type": "cumodrg1j7",
+        "members": [
+          "hoshi"
         ],
         "time": "",
         "note": ""
@@ -4602,12 +4620,96 @@
     ],
     "2026-05-25": [
       {
+        "title": "🍒 ins story更新 💪🏻",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 官推更新 净汉30日倒计时挑战",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 EVELOM伊芙珑 悬念预热",
         "type": "cumodrg1j7",
         "members": [
           "jun"
         ],
         "time": "10:00",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #35",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Verdy更新📸",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 wvs更新「锵~ 下次再见 克拉们」Setlog",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 wvs更新 「画质好低呢 .. 实在找不到解决方法」Setlog",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ins story更新 Setlog",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官方更新 Thinkin' about CARAT💎",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官方更新 💍🤙",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "出差沟通之神: SEVENTEEN团结大会 第2集预告",
+        "type": "variety",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -4659,5 +4761,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-24T18:04:20.867Z"
+  "updatedAt": "2026-05-26T01:02:13.085Z"
 }
