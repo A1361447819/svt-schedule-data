@@ -2845,35 +2845,8 @@
         "note": ""
       },
       {
-        "title": "💎 WVS更新 [FOR CARAT] HAPPY SVT DAY 💘💎 11th Anniversary of Debut!",
-        "type": "official",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "💎 纪念出道11周年 SEVENTEEN向联合国教科文组织捐款",
         "type": "other",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
-        "title": "💎 出道十一周年定期聚会直播📸",
-        "type": "vlive",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
-        "title": "💎 官推更新 [17'S]给克拉们准备的礼物 🎁",
-        "type": "official",
         "members": [
           "all"
         ],
@@ -3129,6 +3102,20 @@
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]给克拉们准备的礼物 🎁",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "WVS更新 [FOR CARAT] HAPPY SVT DAY 💘💎 11th Anniversary of Debut!",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -5084,5 +5071,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-26T19:57:12.990Z"
+  "updatedAt": "2026-05-27T05:12:48.608Z"
 }
