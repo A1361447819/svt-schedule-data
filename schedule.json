@@ -4664,6 +4664,15 @@
         "note": ""
       },
       {
+        "title": "🦌 VOGUE VACATION 第二站：山谷假日 九寨沟・日赛谷",
+        "type": "collab",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "出差沟通之神 SEVENTEEN团结大会 第二期",
         "type": "variety",
         "members": [],
@@ -5025,12 +5034,76 @@
     ],
     "2026-05-27": [
       {
-        "title": "🐱 EVELOM伊芙珑 官宣",
+        "title": "🍒 WVS回复知勋「想见你呢」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 VOGUE VACATION活动官宣",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 EVE LOM伊芙珑更新 品牌大使官宣",
         "type": "cumodrg1j7",
         "members": [
           "jun"
         ],
-        "time": "10:00",
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 EVE LOM伊芙珑品牌大使官宣",
+        "type": "cumog3kj6q",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新 MINGYU的SNICKERS快問快答時間",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「Sonny ggyuyes 幸福的11周年」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 pederelias更新 backstage vibes",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS回复知勋「想见你」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
         "note": ""
       }
     ]
@@ -5071,5 +5144,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-27T17:38:09.702Z"
+  "updatedAt": "2026-05-27T17:40:03.331Z"
 }
