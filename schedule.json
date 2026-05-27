@@ -5044,7 +5044,7 @@
       },
       {
         "title": "🦌 VOGUE VACATION活动官宣",
-        "type": "magazine",
+        "type": "other",
         "members": [
           "joshua"
         ],
@@ -5144,5 +5144,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-27T17:40:03.331Z"
+  "updatedAt": "2026-05-27T19:04:42.441Z"
 }
