@@ -5115,6 +5115,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-05-28": [
+      {
+        "title": "🍊 《bibidi babidi boo》",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -5153,5 +5164,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-28T01:21:24.070Z"
+  "updatedAt": "2026-05-28T10:01:33.070Z"
 }
