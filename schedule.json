@@ -617,7 +617,7 @@
     ],
     "2026-05-30": [
       {
-        "title": "🐯 跆拳道演出",
+        "title": "🐯 跆拳道示范团演出",
         "type": "other",
         "members": [
           "hoshi"
@@ -5397,5 +5397,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "[网页]deepseek-v4-flash"
   },
-  "updatedAt": "2026-05-29T02:46:17.515Z"
+  "updatedAt": "2026-05-29T02:51:40.360Z"
 }
