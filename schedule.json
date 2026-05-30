@@ -617,6 +617,124 @@
     ],
     "2026-05-30": [
       {
+        "title": "🍒🐶 韩国→吉隆坡",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 官方更新 #VOGUE VACATION",
+        "type": "official",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 官推更新 260529 #VogueVacation",
+        "type": "official",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 孔雪儿更新 和孔雪儿、周洁琼合影📸",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新「☁️」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「Shua的setlog ☁️」",
+        "type": "cumoiwkt6l",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 中国→韩国",
+        "type": "airport",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 周洁琼更新合影📸",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 演员鹤秋更新合影📸",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 VOGUE更新 VOGUE VACATION晚宴时刻",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Vogueplus更新 VOGUE VACATION采访",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 VOGUE更新 VOGUE VACATION「风」",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 EVE LOM伊芙珑更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 跆拳道示范团演出",
         "type": "other",
         "members": [
@@ -624,6 +742,24 @@
         ],
         "time": "14:00",
         "note": "国立中央博物馆 露天广场"
+      },
+      {
+        "title": "🐯 WVS更新「克拉们 今天也来应援真的非常感谢！」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「A late April post」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
       },
       {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE - 大邱",
@@ -634,6 +770,35 @@
         ],
         "time": "",
         "note": "大邱 EXCO East Wing Hall"
+      },
+      {
+        "title": "⚔️ WVS更新「大邱 还活着呢💟」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 官推更新 #SERENADE ON STAGE 大邱DAY1",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 TikTok更新 #SERENADE ON STAGE 大邱",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-31": [
@@ -5599,5 +5764,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-30T08:45:48.252Z"
+  "updatedAt": "2026-05-30T18:53:03.785Z"
 }
