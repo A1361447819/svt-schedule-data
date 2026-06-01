@@ -813,6 +813,152 @@
         "note": "Sepang International Circuit, Malaysia CXM"
       },
       {
+        "title": "🍒 WVS更新 「CXM活动结束了 这段时间真的非常幸福」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 官推更新 260531 #AsiaTopinMY AsiaTopLive",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 妹妹更新 📸",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 RealBarrier更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS更新「Vogue Vacation」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「一次很特别的山谷假日」",
+        "type": "cumoiwkt6l",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 ins story转发 《无敌陆军》Official Performance Film",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 army_rok更新《无敌陆军》Official Performance Film",
+        "type": "release",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 2026一心跆拳道大赛开幕式表演日程公开",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 宗家更新 宗家辛奇百科",
+        "type": "cumodrg1j7",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博更新「五月的🔚」",
+        "type": "cumog3kj6q",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 官方更新 THE 8咪豆音乐节南京站幕后纪录",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「今天就来好好享受一番吧 ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「Let’s go See ya」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「👟#Dior」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 官推更新 #SERENADE ON STAGE 大邱DAY2",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE - 大邱",
         "type": "concert",
         "members": [
@@ -821,6 +967,35 @@
         ],
         "time": "16:00",
         "note": "大邱 EXCO East Wing Hall"
+      },
+      {
+        "title": "⚔️🍊 TikTok更新「道兼米的Bboo护（保护）天使」",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 TikTok更新「克拉们 我爱你们!」",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-06": [
@@ -5726,6 +5901,29 @@
         "time": "13:00",
         "note": ""
       }
+    ],
+    "2026-06-13": [
+      {
+        "title": "🐯 2026 一心跆拳道大赛开幕式表演",
+        "type": "concert",
+        "members": [
+          "hoshi"
+        ],
+        "time": "08:30",
+        "note": "大邱室内体育馆 Daegu Stadium"
+      }
+    ],
+    "2026-06-01": [
+      {
+        "title": "🍒🐶 WVS直播预告",
+        "type": "vlive",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -5764,5 +5962,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-05-31T04:14:59.743Z"
+  "updatedAt": "2026-06-01T19:20:44.101Z"
 }
