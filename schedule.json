@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "events": {
     "2026-05-02": [
       {
@@ -6116,7 +6116,8 @@
   "apiCfg": {
     "url": "https://xn--vduyey89e.com",
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
-    "model": "量gemini-2.5-flash"
+    "model": "量gemini-2.5-flash",
+    "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-01T19:33:00.200Z"
+  "updatedAt": "2026-06-01T21:06:26.161Z"
 }
