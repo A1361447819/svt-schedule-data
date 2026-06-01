@@ -5915,11 +5915,167 @@
     ],
     "2026-06-01": [
       {
-        "title": "🍒🐶 WVS直播预告",
+        "title": "🍒🐶 WVS直播",
         "type": "vlive",
         "members": [
           "scoups",
           "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「马上就开哦 克拉们稍微等我一下下呀」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「珉奎说按这里的时间7点开始哟」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 INS更新「CXM FOREVER」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「Challenge太可惜啦 因为要上舞台了」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 INS更新「live fast die slow」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS回复珉奎「快起来 金珉奎 我饿了 ㅡㅡ」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新 [H.B.D] MESSAGE FOR JUNE CARAT",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 《Numéro TOKYO》9月刊封面官宣",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "Numéro TOKYO × JOSHUA × 尚美巴黎"
+      },
+      {
+        "title": "🐱 云归喜事更新 六一物料",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 云归喜事更新「我是工作狂 我不过六一」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #36",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 TWS更新 All the Possibilities Challenge",
+        "type": "tiktok",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 UNOVE更新",
+        "type": "cumodrg1j7",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 TikTok更新「以为我唱不了吗？」",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 [GOING Picheolin] 客串铁人的’兴致’",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 #兴致满满的Picheolin",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-07-28": [
+      {
+        "title": "🦌 《Numéro TOKYO》9月刊封面",
+        "type": "magazine",
+        "members": [
+          "joshua"
         ],
         "time": "",
         "note": ""
@@ -5962,5 +6118,5 @@
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
     "model": "量gemini-2.5-flash"
   },
-  "updatedAt": "2026-06-01T19:20:44.101Z"
+  "updatedAt": "2026-06-01T19:33:00.200Z"
 }
