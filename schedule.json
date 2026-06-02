@@ -6093,11 +6093,11 @@
         "note": ""
       },
       {
-        "title": "🐻‍❄️🐸 《Phone A Fangirl》节目出演官宣",
+        "title": "🐸🐻‍❄️ 《Phone A Fangirl》节目出演官宣",
         "type": "variety",
         "members": [
-          "vernon",
-          "the8"
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -6158,5 +6158,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T03:45:39.959Z"
+  "updatedAt": "2026-06-02T03:45:57.823Z"
 }
