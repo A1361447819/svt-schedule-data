@@ -6116,6 +6116,15 @@
         "note": ""
       },
       {
+        "title": "🦌 VOGUE更新「换个角度看 #VOGUE VACATION 🤍」",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 EVE LOM伊芙珑直播预告",
         "type": "brand",
         "members": [
@@ -6225,5 +6234,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T09:27:12.934Z"
+  "updatedAt": "2026-06-02T09:50:07.403Z"
 }
