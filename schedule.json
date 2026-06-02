@@ -6113,8 +6113,17 @@
         "note": ""
       },
       {
-        "title": "🦦 cosmopolitankorea更新COVER STORY with DINO",
+        "title": "🦦 cosmopolitankorea更新 COVER STORY with DINO",
         "type": "magazine",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS STORY转发 Cosmopolitan Korea",
+        "type": "insstory",
         "members": [
           "dino"
         ],
@@ -6168,5 +6177,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T05:19:18.825Z"
+  "updatedAt": "2026-06-02T06:11:01.710Z"
 }
