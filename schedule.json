@@ -5460,6 +5460,13 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "GGOING ZIP EP.10 SEVENTEEN‘永不停歇’的KTV合集🎤🎵",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-05-25": [
@@ -5654,6 +5661,13 @@
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "GGOING ZIP EP.11 🫶今天也没能比SEVENTEEN更爱SEVENTEEN🫶 关系超好的SEVENTEEN合集",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -6195,5 +6209,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T07:57:23.902Z"
+  "updatedAt": "2026-06-02T08:12:05.191Z"
 }
