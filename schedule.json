@@ -6093,6 +6093,15 @@
         "note": ""
       },
       {
+        "title": "🦌 Vogueplus更新「VOGUE VACATION - TEMP CHECK🌿」",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ 《Phone A Fangirl》节目出演官宣",
         "type": "variety",
         "members": [
@@ -6177,5 +6186,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T06:11:01.710Z"
+  "updatedAt": "2026-06-02T06:12:09.595Z"
 }
