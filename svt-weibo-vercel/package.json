@@ -1,0 +1,12 @@
+{
+  "name": "svt-weibo-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weibo proxy backend for SVT calendar.",
+  "scripts": {
+    "test": "node test-local.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
