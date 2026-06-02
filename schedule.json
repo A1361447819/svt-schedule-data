@@ -6199,6 +6199,24 @@
         "note": ""
       },
       {
+        "title": "🦦 官推更新「客串铁人追寻兴致与Trot vibe的旅程仍在继续✨」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 [GOING Picheolin] 客串铁人的'Trot Vibe'",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "Coex Festival更新 祝贺Coex开业40周年",
         "type": "other",
         "members": [],
@@ -6234,5 +6252,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T09:50:07.403Z"
+  "updatedAt": "2026-06-02T16:09:49.949Z"
 }
