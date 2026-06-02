@@ -6103,6 +6103,16 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 高阳 演出指南",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 cosmopolitankorea更新COVER STORY with DINO",
         "type": "magazine",
         "members": [
@@ -6158,5 +6168,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T03:45:57.823Z"
+  "updatedAt": "2026-06-02T05:19:18.825Z"
 }
