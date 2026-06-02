@@ -6080,6 +6080,37 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-02": [
+      {
+        "title": "🍒🐶 马来西亚→韩国",
+        "type": "airport",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 《Phone A Fangirl》节目出演官宣",
+        "type": "other",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 cosmopolitankorea更新COVER STORY with DINO",
+        "type": "magazine",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {
@@ -6127,5 +6158,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T03:37:14.309Z"
+  "updatedAt": "2026-06-02T03:39:31.992Z"
 }
