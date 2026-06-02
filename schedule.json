@@ -6179,6 +6179,22 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 INS更新 「@ cosmopolitankorea」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "Coex Festival更新 祝贺Coex开业40周年",
+        "type": "other",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-05": [
@@ -6209,5 +6225,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T08:12:05.191Z"
+  "updatedAt": "2026-06-02T09:27:12.934Z"
 }
