@@ -6265,8 +6265,35 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY转发 「soon #V8」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「克拉们 今天一天也辛苦了呢~~」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ 《Halmyungsoo》节目通话cut",
         "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS STORY转发 「soon #V8」",
+        "type": "ins",
         "members": [
           "vernon"
         ],
@@ -6307,5 +6334,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-03T13:37:01.452Z"
+  "updatedAt": "2026-06-03T15:17:39.427Z"
 }
