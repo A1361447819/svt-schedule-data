@@ -6234,6 +6234,17 @@
         "time": "19:00",
         "note": "EVE LOM 天猫抖音及京东官方旗舰店"
       }
+    ],
+    "2026-06-03": [
+      {
+        "title": "🐻‍❄️ 《Halmyungsoo》节目通话cut",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -6252,5 +6263,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-02T16:09:49.949Z"
+  "updatedAt": "2026-06-03T11:56:51.339Z"
 }
