@@ -5848,6 +5848,24 @@
     ],
     "2026-06-04": [
       {
+        "title": "🍒 INS评论硕珉「ㅋㅋㅋㅋ很有趣」",
+        "type": "other",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 [哈尼来囧] 开启净汉的30天倒计时挑战",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 arenakorea/mensfolio/voguekorea更新采访",
         "type": "other",
         "members": [
@@ -5886,6 +5904,15 @@
       {
         "title": "🦌 INS STORY转发 爱宝乐园定期聚会📸",
         "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 jangdukhwa（摄影师）更新 Vogue Singapore相关",
+        "type": "other",
         "members": [
           "joshua"
         ],
@@ -5974,6 +6001,15 @@
         "note": ""
       },
       {
+        "title": "🐶 CK活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": "CALVIN KLEIN原宿旗舰店"
+      },
+      {
         "title": "⚔️ INS更新 爱宝乐园定期聚会合影📸",
         "type": "ins",
         "members": [
@@ -6020,8 +6056,26 @@
         "note": "嘉宾 申留真"
       },
       {
+        "title": "🍊 WVS更新「晚安 克拉们🥰 Biong」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ Sofia更新「等我长大后，我也想成为像瀚率那样的人。」",
         "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS story更新 2026首尔摄影节展览",
+        "type": "ins",
         "members": [
           "vernon"
         ],
@@ -6045,6 +6099,15 @@
         ],
         "time": "",
         "note": "Rain账号更新"
+      },
+      {
+        "title": "🦦 mushvenom更新合影📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-11": [
@@ -6535,5 +6598,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T12:14:39.831Z"
+  "updatedAt": "2026-06-04T16:08:06.719Z"
 }
