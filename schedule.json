@@ -5920,6 +5920,15 @@
         "note": ""
       },
       {
+        "title": "🐯 INS STORY更新「Go up」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 INS STORY转发 爱宝乐园定期聚会📸",
         "type": "ins",
         "members": [
@@ -6497,6 +6506,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-11": [
+      {
+        "title": "🍊 《Bibbidi Bobbidi Boo》EP. 14",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -6515,5 +6535,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T11:10:34.619Z"
+  "updatedAt": "2026-06-04T12:14:39.831Z"
 }
