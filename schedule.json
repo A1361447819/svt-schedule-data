@@ -5848,10 +5848,73 @@
     ],
     "2026-06-04": [
       {
+        "title": "🦌 arenakorea/mensfolio/voguekorea更新采访",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 积家采访",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 积家官网更新 画报大图📸",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS&积家更新 揭晓全新品牌挚友JOSHUA",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS STORY转发 爱宝乐园定期聚会📸",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 韩国→中国",
         "type": "airport",
         "members": [
           "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新 爱宝乐园定期聚会📸",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": "图一：硕顺"
+      },
+      {
+        "title": "🐯 INS STORY转发 爱宝乐园定期聚会📸「💖🩵」",
+        "type": "ins",
+        "members": [
+          "hoshi"
         ],
         "time": "",
         "note": ""
@@ -5939,6 +6002,15 @@
         "note": ""
       },
       {
+        "title": "🍊 bibidi babidi boo下期预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "嘉宾 申留真"
+      },
+      {
         "title": "🐻‍❄️ Sofia更新「等我长大后，我也想成为像瀚率那样的人。」",
         "type": "other",
         "members": [
@@ -5946,6 +6018,24 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「大家来找茬🎠」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Rain更新 FEEL IT Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "Rain账号更新"
       }
     ],
     "2026-07-11": [
@@ -6425,5 +6515,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T10:49:49.188Z"
+  "updatedAt": "2026-06-04T11:10:34.619Z"
 }
