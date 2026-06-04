@@ -1008,6 +1008,16 @@
         ],
         "time": "",
         "note": "澳门 THE VENETIAN ARENA"
+      },
+      {
+        "title": "⚔️🍊 DxS [SERENADE] ON STAGE - JAPAN全曲无删减版播出",
+        "type": "variety",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-25": [
@@ -5848,6 +5858,15 @@
     ],
     "2026-06-04": [
       {
+        "title": "🐱 韩国→中国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 《Teach Me Baby》公开",
         "type": "variety",
         "members": [
@@ -5857,10 +5876,92 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY转发 爱宝乐园定期聚会📸",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 韩国→日本",
         "type": "airport",
         "members": [
           "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 UNOVE更新「𝗞𝗡𝗢𝗖𝗞 𝗞𝗡𝗢𝗖𝗞 ...✊」",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY转发 爱宝乐园定期聚会📸「🖤」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS评论硕珉「ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS更新 爱宝乐园定期聚会合影📸",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「DxS 澳门 ON STAGE Dress Code」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 tbschannel更新「距离DxS [SERENADE] ON STAGE - JAPAN全曲无删减版播出还有2日」",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY转发 爱宝乐园定期聚会📸",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Sofia更新「等我长大后，我也想成为像瀚率那样的人。」",
+        "type": "other",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -6343,5 +6444,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T02:30:04.169Z"
+  "updatedAt": "2026-06-04T07:47:31.720Z"
 }
