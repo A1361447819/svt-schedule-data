@@ -1008,16 +1008,6 @@
         ],
         "time": "",
         "note": "澳门 THE VENETIAN ARENA"
-      },
-      {
-        "title": "⚔️🍊 DxS [SERENADE] ON STAGE - JAPAN全曲无删减版播出",
-        "type": "variety",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": ""
       }
     ],
     "2026-07-25": [
@@ -6444,5 +6434,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T07:47:31.720Z"
+  "updatedAt": "2026-06-04T07:47:48.120Z"
 }
