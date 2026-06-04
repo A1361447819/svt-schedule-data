@@ -5855,6 +5855,15 @@
         ],
         "time": "17:00",
         "note": ""
+      },
+      {
+        "title": "🐶 韩国→日本",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-11": [
@@ -6334,5 +6343,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-03T15:17:39.427Z"
+  "updatedAt": "2026-06-04T02:30:04.169Z"
 }
