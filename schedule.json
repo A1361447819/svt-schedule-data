@@ -5857,15 +5857,6 @@
         "note": ""
       },
       {
-        "title": "🐸 《Teach Me Baby》公开",
-        "type": "variety",
-        "members": [
-          "the8"
-        ],
-        "time": "17:00",
-        "note": ""
-      },
-      {
         "title": "🐸 INS STORY转发 爱宝乐园定期聚会📸",
         "type": "ins",
         "members": [
@@ -6434,5 +6425,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-04T07:47:48.120Z"
+  "updatedAt": "2026-06-04T10:49:49.188Z"
 }
