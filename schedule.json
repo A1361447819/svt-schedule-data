@@ -6553,6 +6553,15 @@
         "note": ""
       },
       {
+        "title": "🦌 INS STORY转发 积家",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 EVE LOM伊芙珑直播",
         "type": "brand",
         "members": [
@@ -6612,6 +6621,15 @@
         "members": [
           "the8",
           "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ins story转发 BOOMPALA Challenge",
+        "type": "ins",
+        "members": [
+          "the8"
         ],
         "time": "",
         "note": ""
@@ -6818,5 +6836,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-06T08:35:54.915Z"
+  "updatedAt": "2026-06-06T08:42:13.957Z"
 }
