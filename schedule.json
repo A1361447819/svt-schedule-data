@@ -1046,6 +1046,15 @@
         "note": ""
       },
       {
+        "title": "🐶 INS STORY转发Calvin Klein",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 tbschannel更新「DxS [SERENADE] ON STAGE - JAPAN无删减完整版首播」",
         "type": "other",
         "members": [
@@ -1106,6 +1115,15 @@
       {
         "title": "🦦 Cosmopolitan Korea采访 SEVENTEEN DINO&Picheolin",
         "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS STORY转发cosmokorea采访",
+        "type": "ins",
         "members": [
           "dino"
         ],
@@ -6883,5 +6901,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-06T15:58:56.182Z"
+  "updatedAt": "2026-06-06T16:00:56.505Z"
 }
