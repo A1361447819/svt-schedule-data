@@ -1037,16 +1037,6 @@
         "note": ""
       },
       {
-        "title": "⚔️🍊 [SERENADE] ON STAGE - 澳门",
-        "type": "concert",
-        "members": [
-          "dk",
-          "seungkwan"
-        ],
-        "time": "",
-        "note": "澳门 THE VENETIAN ARENA"
-      },
-      {
         "title": "⚔️🍊 tbschannel更新「DxS [SERENADE] ON STAGE - JAPAN无删减完整版首播」",
         "type": "other",
         "members": [
@@ -1055,6 +1045,16 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "⚔️🍊 [SERENADE] ON STAGE - 澳门",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "18:00",
+        "note": "澳门 THE VENETIAN ARENA"
       },
       {
         "title": "🍊 WVS更新「晚安 小拉们🥰」",
@@ -4008,7 +4008,7 @@
           "dk",
           "seungkwan"
         ],
-        "time": "",
+        "time": "18:00",
         "note": "THE VENETIAN ARENA, 澳门"
       }
     ],
@@ -6836,5 +6836,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-06T08:42:13.957Z"
+  "updatedAt": "2026-06-06T08:52:01.693Z"
 }
