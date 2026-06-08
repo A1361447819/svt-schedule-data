@@ -6322,11 +6322,11 @@
     ],
     "2026-07-12": [
       {
-        "title": "🐻‍❄️🐸 VERNON THE 8 [V8] LIVE - 高阳",
+        "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 高阳",
         "type": "concert",
         "members": [
-          "vernon",
-          "the8"
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": "KINTEX HALL 1"
@@ -6334,11 +6334,11 @@
     ],
     "2026-07-18": [
       {
-        "title": "🐻‍❄️🐸 VERNON THE 8 [V8] LIVE - 香港",
+        "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 香港",
         "type": "concert",
         "members": [
-          "vernon",
-          "the8"
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": "ASIAWORLD-EXPO HALL 10"
@@ -6346,11 +6346,11 @@
     ],
     "2026-07-19": [
       {
-        "title": "🐻‍❄️🐸 VERNON THE 8 [V8] LIVE - 香港",
+        "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 香港",
         "type": "concert",
         "members": [
-          "vernon",
-          "the8"
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": "ASIAWORLD-EXPO HALL 10"
@@ -7012,7 +7012,7 @@
       },
       {
         "title": "🐸🐻‍❄️ 1st Mini Album《V8》发售纪念SPECIAL FAN PARTY活动公告",
-        "type": "other",
+        "type": "official",
         "members": [
           "the8",
           "vernon"
@@ -7114,5 +7114,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-08T16:28:13.444Z"
+  "updatedAt": "2026-06-08T16:29:23.355Z"
 }
