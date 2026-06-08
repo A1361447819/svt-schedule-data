@@ -5556,24 +5556,14 @@
     ],
     "2026-06-29": [
       {
-        "title": "🐸🐻‍❄️ V8回归",
+        "title": "🐸🐻‍❄️ V8 1st Mini Album #V8 发行",
         "type": "comeback",
         "members": [
           "the8",
           "vernon"
         ],
-        "time": "",
+        "time": "17:00",
         "note": ""
-      },
-      {
-        "title": "🐸🐻‍❄️ V8 1st Mini Album #V8 发行",
-        "type": "release",
-        "members": [
-          "the8",
-          "vernon"
-        ],
-        "time": "18:00",
-        "note": "KST"
       }
     ],
     "2026-05-20": [
@@ -6988,5 +6978,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-08T02:19:58.654Z"
+  "updatedAt": "2026-06-08T03:43:23.413Z"
 }
