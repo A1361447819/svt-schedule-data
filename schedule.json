@@ -6972,6 +6972,130 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-08": [
+      {
+        "title": "🦌 Esquire HK 更新 采访",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 EVE LOM伊芙珑更新",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #37",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Will Not Fear更新",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 1st Mini Album《V8》发售纪念SPECIAL FAN PARTY活动公告",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 中国澳门→韩国",
+        "type": "airport",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「克拉们啊 ㅎㅎㅎ 我到韩国了😊😊」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 I.O.I更新 Suddenly Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新 「🫂」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新「兴奋/混乱的时期 😵」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-07-05": [
+      {
+        "title": "🐸🐻‍❄️ 1st Mini Album《V8》发售纪念SPECIAL FAN PARTY",
+        "type": "fan",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "18:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -6985,10 +7109,10 @@
     }
   ],
   "apiCfg": {
-    "url": "https://xn--vduyey89e.com",
+    "url": "https://xn--vduyey89e.com/v1",
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
-    "model": "量gemini-2.5-flash",
+    "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-08T16:02:08.809Z"
+  "updatedAt": "2026-06-08T16:28:13.444Z"
 }
