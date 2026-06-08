@@ -6960,6 +6960,18 @@
         "time": "18:00",
         "note": ""
       }
+    ],
+    "2026-06-09": [
+      {
+        "title": "🐸🐻‍❄️ V8 next gear...",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -6978,5 +6990,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-08T03:43:23.413Z"
+  "updatedAt": "2026-06-08T16:02:08.809Z"
 }
