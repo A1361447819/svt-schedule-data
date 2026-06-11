@@ -7241,6 +7241,16 @@
     ],
     "2026-06-11": [
       {
+        "title": "🐸🐻‍❄️ V8 next gear...",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 《Bibbidi Bobbidi Boo》EP. 14",
         "type": "variety",
         "members": [
@@ -7467,5 +7477,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-11T03:04:20.917Z"
+  "updatedAt": "2026-06-11T03:08:25.628Z"
 }
