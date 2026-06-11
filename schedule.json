@@ -3294,6 +3294,16 @@
         ],
         "time": "",
         "note": "생일 축하해요!"
+      },
+      {
+        "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 香港",
+        "type": "concert",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "19:00",
+        "note": "ASIAWORLD-EXPO HALL 10"
       }
     ],
     "2026-11-22": [
@@ -7242,12 +7252,53 @@
     ],
     "2026-06-09": [
       {
-        "title": "🐸🐻‍❄️ V8 next gear...",
+        "title": "🦌 小红书更新「⏳」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 HYBE_MERCH更新 HAPPY JUN DAY BIRTHDAY MERCH ver.5",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ peek at 𝗩𝟴",
         "type": "official",
         "members": [
           "the8",
           "vernon"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架PH更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[INSIDE SEVENTEEN] CxM CROSS GENERATION LIVE BEHIND",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "HYBE_MERCH更新「蹦蹦 is ready for CARAT LAND」",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -7416,5 +7467,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-11T03:00:20.433Z"
+  "updatedAt": "2026-06-11T03:04:04.399Z"
 }
