@@ -7441,10 +7441,10 @@
     ],
     "2026-07-09": [
       {
-        "title": "💎 《Bibbidi Babidi Boo》SEVENTEEN专场",
+        "title": "🍊 《Bibbidi Babidi Boo》SEVENTEEN专场",
         "type": "variety",
         "members": [
-          "all"
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -7467,5 +7467,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-11T03:04:04.399Z"
+  "updatedAt": "2026-06-11T03:04:20.917Z"
 }
