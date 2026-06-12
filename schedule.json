@@ -7279,6 +7279,24 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY转发V8概念照",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY转发𝗥𝗔𝗧𝗦 𝗡𝗘𝗦𝗧 Wasted Youth",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 士力架更新",
         "type": "brand",
         "members": [
@@ -7322,6 +7340,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🍊 INS STORY转发「ITZY冲呀！」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-09": [
@@ -7346,6 +7373,16 @@
       {
         "title": "🐸🐻‍❄️ peek at 𝗩𝟴",
         "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 微博转发「𝗩𝟴👀🎬🛞」",
+        "type": "weibo",
         "members": [
           "the8",
           "vernon"
@@ -7584,5 +7621,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-12T09:35:17.524Z"
+  "updatedAt": "2026-06-12T09:40:37.423Z"
 }
