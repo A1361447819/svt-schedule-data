@@ -7241,11 +7241,48 @@
     ],
     "2026-06-11": [
       {
-        "title": "🐸🐻‍❄️ V8 next gear...",
+        "title": "🐱 EVE LOM伊芙珑更新",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 이찬민更新合影",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新「𝗥𝗔𝗧𝗦 𝗡𝗘𝗦𝗧 Wasted Youth」",
         "type": "official",
         "members": [
           "the8",
           "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新概念照 𝗥𝗔𝗧𝗦 𝗡𝗘𝗦𝗧",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
         ],
         "time": "",
         "note": ""
@@ -7257,6 +7294,33 @@
           "seungkwan"
         ],
         "time": "18:00",
+        "note": ""
+      },
+      {
+        "title": "🍊 ITZY更新与申留真合影",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 ITZY更新 Motto Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 官推更新[17'S 胜宽] #夫胜宽的bibidi babidi boo",
+        "type": "official",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -7459,6 +7523,49 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-12": [
+      {
+        "title": "🐯 官方更新 HAPPY HOSHI DAY BIRTHDAY MERCH ver.5",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新「RATS NEST Wasted Youth」",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS头像更新",
+        "type": "wvs",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-16": [
+      {
+        "title": "🐸🐻‍❄️ V8 next gear...",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -7477,5 +7584,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-11T03:08:25.628Z"
+  "updatedAt": "2026-06-12T09:35:17.524Z"
 }
