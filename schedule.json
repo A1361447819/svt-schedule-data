@@ -4404,7 +4404,7 @@
         "note": ""
       },
       {
-        "title": "🐸 INS STORY转发 set the 𝗩𝟴",
+        "title": "🐸 INS STORY转发「set the 𝗩𝟴」",
         "type": "ins",
         "members": [
           "the8"
@@ -4447,6 +4447,15 @@
         "members": [
           "dk",
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS转发「set the 𝗩𝟴」",
+        "type": "ins",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -7278,6 +7287,15 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ INS转发「soon #V8」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 LESSERAFIM更新 BOOMPALA Challenge",
         "type": "tiktok",
         "members": [
@@ -7771,5 +7789,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-13T18:20:35.724Z"
+  "updatedAt": "2026-06-13T18:25:02.693Z"
 }
