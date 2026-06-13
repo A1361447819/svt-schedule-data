@@ -3283,6 +3283,15 @@
         ],
         "time": "",
         "note": "생일 축하해요!"
+      },
+      {
+        "title": "🍊 Boo斯特拉直播",
+        "type": "vlive",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-17": [
@@ -6658,6 +6667,24 @@
     ],
     "2026-06-13": [
       {
+        "title": "🦌 小红书更新「D-7下周见 !」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 三木更新ZIGI-ZIGI-ZIGI Challenge",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 2026 一心跆拳道大赛开幕式表演",
         "type": "concert",
         "members": [
@@ -6665,6 +6692,25 @@
         ],
         "time": "08:30",
         "note": "大邱室内体育馆 Daegu Stadium"
+      },
+      {
+        "title": "🐯 WVS更新「克拉们今天也来应援 谢谢大家♥️」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 WVS更新「‘Seoul Jazz Festival 2026’ Photo Sketch」",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-01": [
@@ -7563,8 +7609,35 @@
     ],
     "2026-06-12": [
       {
+        "title": "🍒 WVS更新「下周要做COUPLAY啦~~~」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新「D-8」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 官方更新 HAPPY HOSHI DAY BIRTHDAY MERCH ver.5",
         "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 一心跆拳道大会彩排",
+        "type": "concert",
         "members": [
           "hoshi"
         ],
@@ -7590,6 +7663,43 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🐸 ILLIT更新 It's Me Challenge Behind",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "ILLIT账号更新"
+      },
+      {
+        "title": "🐸🐶 《虽没菜》节目预告",
+        "type": "variety",
+        "members": [
+          "the8",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架tw更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS简介更新「17 → 17 V8」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-16": [
@@ -7601,6 +7711,29 @@
           "vernon"
         ],
         "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-14": [
+      {
+        "title": "🍊 WVS更新「明天起床跑完行程后 会播Boo斯特拉哦!!」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-26": [
+      {
+        "title": "🐸🐶 《虽没菜》播出",
+        "type": "variety",
+        "members": [
+          "the8",
+          "mingyu"
+        ],
+        "time": "18:00",
         "note": ""
       }
     ]
@@ -7621,5 +7754,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-12T09:40:37.423Z"
+  "updatedAt": "2026-06-13T18:16:16.080Z"
 }
