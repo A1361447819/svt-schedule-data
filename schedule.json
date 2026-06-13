@@ -7675,12 +7675,12 @@
       },
       {
         "title": "🐸 ILLIT更新 It's Me Challenge Behind",
-        "type": "tiktok",
+        "type": "other",
         "members": [
           "the8"
         ],
         "time": "",
-        "note": "ILLIT账号更新"
+        "note": ""
       },
       {
         "title": "🐸🐶 《虽没菜》节目预告",
@@ -7763,5 +7763,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-13T18:17:14.307Z"
+  "updatedAt": "2026-06-13T18:18:42.695Z"
 }
