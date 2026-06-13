@@ -7422,6 +7422,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS转发V8概念照",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-09": [
@@ -7467,6 +7476,15 @@
         "type": "brand",
         "members": [
           "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS转发「peek at 𝗩𝟴」",
+        "type": "ins",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -7789,5 +7807,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-13T18:25:02.693Z"
+  "updatedAt": "2026-06-13T18:27:38.963Z"
 }
