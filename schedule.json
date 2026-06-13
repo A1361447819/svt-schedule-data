@@ -7436,11 +7436,10 @@
         "note": ""
       },
       {
-        "title": "🐸🐻‍❄️ 微博转发「𝗩𝟴👀🎬🛞」",
+        "title": "🐸 微博转发「𝗩𝟴👀🎬🛞」",
         "type": "weibo",
         "members": [
-          "the8",
-          "vernon"
+          "the8"
         ],
         "time": "",
         "note": ""
@@ -7772,5 +7771,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-13T18:19:40.990Z"
+  "updatedAt": "2026-06-13T18:20:35.724Z"
 }
