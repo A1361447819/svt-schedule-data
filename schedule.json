@@ -7709,6 +7709,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Human Made开业活动",
+        "type": "collab",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-16": [
@@ -7763,5 +7772,5 @@
     "model": "gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-13T18:18:42.695Z"
+  "updatedAt": "2026-06-13T18:19:40.990Z"
 }
