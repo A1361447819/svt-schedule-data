@@ -8144,11 +8144,78 @@
     ],
     "2026-06-16": [
       {
-        "title": "🐸🐻‍❄️ V8 next gear...",
+        "title": "🐯 TikTok更新「𝚂𝚗𝚊𝚙 𝚋𝚊𝚌𝚔 𝚝𝚘 𝚢𝚘𝚞🧢」",
+        "type": "tiktok",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 TikTok更新「𝗦𝗻𝗮𝗽𝗯𝗮𝗰𝗸🧢」",
+        "type": "tiktok",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 弗吉尼亚国际军乐节采访",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ mechatok/Badtree/robb roy/willnotfearmusica/DPR ARTIC/numberninemade/kirara/han.jungin/hakaseee更新V8歌曲试听",
+        "type": "release",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《SALON DRIP2》下周播出预告",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 | in the sauna",
         "type": "official",
         "members": [
           "the8",
           "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 Hear the V8 曲目列表",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 peder更新🍜or🍝",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -8222,6 +8289,128 @@
         "time": "18:00",
         "note": ""
       }
+    ],
+    "2026-06-17": [
+      {
+        "title": "🐱 云归喜事更新",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [Choreography Video] HOSHI - ‘SNAPBACK'",
+        "type": "release",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新回复",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 TikTok更新「𝚂𝚗𝚊𝚙 𝚋𝚊𝚌𝚔 𝚝𝚘 𝚢𝚘𝚞🧢」",
+        "type": "tiktok",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛ 官方更新[EVERY WONWOO] VLOG Photo Sketch",
+        "type": "official",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ numberninemade更新",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 𝗩𝟴 Pre-Listening Party",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ teo更新《Salon Drip2》花絮照",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 惠利更新《惠's Club》预告",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ CHZZK LookSam频道直播预告",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "日推更新 SEVENTEEN Japan official fanclub CARAT 10周年祝贺视频信",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-06-24": [
+      {
+        "title": "🐻‍❄️ CHZZK LookSam频道直播",
+        "type": "vlive",
+        "members": [
+          "vernon"
+        ],
+        "time": "18:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -8240,5 +8429,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-16T02:54:57.762Z"
+  "updatedAt": "2026-06-17T11:47:47.986Z"
 }
