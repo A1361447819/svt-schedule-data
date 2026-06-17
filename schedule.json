@@ -8171,6 +8171,24 @@
         "note": ""
       },
       {
+        "title": "🐯 INS STORY转发SNAPBACK Challenge",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY转发知秀「洪浪嘿」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ mechatok/Badtree/robb roy/willnotfearmusica/DPR ARTIC/numberninemade/kirara/han.jungin/hakaseee更新V8歌曲试听",
         "type": "release",
         "members": [
@@ -8211,11 +8229,29 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY转发V8试听",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 peder更新🍜or🍝",
         "type": "other",
         "members": [
           "dk",
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS STORY转发V8试听",
+        "type": "ins",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -8328,6 +8364,15 @@
         "note": ""
       },
       {
+        "title": "🐯 INS STORY转发SNAPBACK Challenge",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐈‍⬛ 官方更新[EVERY WONWOO] VLOG Photo Sketch",
         "type": "official",
         "members": [
@@ -8367,6 +8412,15 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY转发V8Pre-Listening Party",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 士力架更新",
         "type": "brand",
         "members": [
@@ -8387,6 +8441,15 @@
       {
         "title": "🐻‍❄️ CHZZK LookSam频道直播预告",
         "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS STORY转发V8Pre-Listening Party",
+        "type": "ins",
         "members": [
           "vernon"
         ],
@@ -8429,5 +8492,5 @@
     "model": "量gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-17T11:47:47.986Z"
+  "updatedAt": "2026-06-17T11:56:27.659Z"
 }
