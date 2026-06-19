@@ -8356,6 +8356,16 @@
     ],
     "2026-06-17": [
       {
+        "title": "🦌🐻‍❄️ fedtan更新合影",
+        "type": "other",
+        "members": [
+          "joshua",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 云归喜事更新",
         "type": "variety",
         "members": [
@@ -8458,6 +8468,33 @@
         "note": ""
       },
       {
+        "title": "🍊 WVS更新「什么呀 为什么发了三个呀.....好吓人」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新「🥲」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「好好睡哟🫂」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ 惠利更新《惠's Club》预告",
         "type": "variety",
         "members": [
@@ -8481,6 +8518,13 @@
         "members": [
           "vernon"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[INSIDE SEVENTEEN] JOSHUA VOGUE Vacation 幕后花絮",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       },
@@ -8712,5 +8756,5 @@
     "model": "[特特价次kiro]claude-opus-4-6-thinking",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-19T15:21:55.044Z"
+  "updatedAt": "2026-06-19T15:25:10.879Z"
 }
