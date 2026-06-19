@@ -1323,6 +1323,15 @@
         ],
         "time": "16:00",
         "note": "法国巴黎联合国教科文组织总部"
+      },
+      {
+        "title": "🐸 《Teach Me Baby》播出",
+        "type": "variety",
+        "members": [
+          "the8"
+        ],
+        "time": "17:00",
+        "note": ""
       }
     ],
     "2026-05-22": [
@@ -8516,6 +8525,16 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ gongjuboi更新 FRIEND试听片段",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 INS更新「In May😂」",
         "type": "ins",
         "members": [
@@ -8562,6 +8581,119 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-06-18": [
+      {
+        "title": "🍒 INS Story更新「💪🏻」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「克拉们~~~COUPLAY等克拉岛结束后 礼拜一晚上再做哦」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 NumeroTOKYO更新《Numéro TOKYO》9月刊特装版封面",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": "Numéro TOKYO × JOSHUA × 尚美巴黎"
+      },
+      {
+        "title": "🐱 云归喜事更新 618物料合集",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 𝗖𝗛𝗘𝗖𝗞 𝗢𝗨𝗧",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新 time to 𝗖𝗛𝗘𝗖𝗞 𝗢𝗨𝗧",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 slam更新《Teach Me Baby》预告",
+        "type": "variety",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ gongjuboi更新 FRIEND试听片段",
+        "type": "release",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 CK活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bibidi babidi boo下期预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": "嘉宾 fromis_9池原 采映"
+      }
     ]
   },
   "customTypes": {},
@@ -8580,5 +8712,5 @@
     "model": "[特特价次kiro]claude-opus-4-6-thinking",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-19T15:12:54.190Z"
+  "updatedAt": "2026-06-19T15:21:55.044Z"
 }
