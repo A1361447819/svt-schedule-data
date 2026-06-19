@@ -8333,6 +8333,16 @@
         ],
         "time": "18:00",
         "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《Halmyungsoo》播出",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "16:30",
+        "note": ""
       }
     ],
     "2026-06-17": [
@@ -8483,6 +8493,75 @@
         "time": "18:00",
         "note": ""
       }
+    ],
+    "2026-06-19": [
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新V8 singasong Challenge",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《Halmyungsoo》播出预告",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「In May😂」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 秀雅更新",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 回复官方INS「我现在已经从梦里醒来了」",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS更新「Graphic design by @mechatok」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦🐸🐻‍❄️ LESSERAFIM更新 BOOMPALA Challenge Behind",
+        "type": "other",
+        "members": [
+          "dino",
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -8498,8 +8577,8 @@
   "apiCfg": {
     "url": "https://xn--vduyey89e.com/v1",
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
-    "model": "量gemini-2.5-flash",
+    "model": "[特特价次kiro]claude-opus-4-6-thinking",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-17T11:57:55.999Z"
+  "updatedAt": "2026-06-19T15:12:54.190Z"
 }
