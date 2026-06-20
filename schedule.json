@@ -8673,6 +8673,15 @@
         "note": ""
       },
       {
+        "title": "🐯 2026护国音乐会演出",
+        "type": "concert",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ 官推更新 𝗖𝗛𝗘𝗖𝗞 𝗢𝗨𝗧",
         "type": "official",
         "members": [
@@ -8756,5 +8765,5 @@
     "model": "量gemini-3.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-20T01:58:09.895Z"
+  "updatedAt": "2026-06-20T01:58:44.983Z"
 }
