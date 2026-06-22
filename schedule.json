@@ -2497,6 +2497,15 @@
         "note": ""
       },
       {
+        "title": "🍊 WVS更新「克拉们今天能来真的非常感谢:)」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ WVS更新「🫶」",
         "type": "wvs",
         "members": [
@@ -2530,6 +2539,120 @@
       }
     ],
     "2026-06-20": [
+      {
+        "title": "🐯 回复拿铁INS「😍」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「待会儿见💎希望雨能停 🥺」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ ramzoid更新 BEAT试听片段",
+        "type": "release",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「克拉们今天能来真的非常感谢◡̈」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「Good morning◡̈ 等会儿见克拉们❛˓◞˂̵ 路上小心💟」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS回复瀚率「ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ可爱」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「本来想发彩排照片的 但是怕会剧透就没发...ㅎ 我们克拉们从早上开始就辛苦了呢ㅠㅠ」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新「大家都辛苦了 🥲 这么辛苦了 我们一起尽情享受吧！！」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「今天整场演出 一直都满满地感受到被爱的心情和给予爱的喜悦🥰」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们~~!!ㅎㅎ 终于到了克拉岛的日子啦啊啊」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "韩振更新合影📷",
+        "type": "other",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S] SEVENTEEN in 👏👏 克拉岛🎡",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
       {
         "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
         "type": "fan",
@@ -8835,5 +8958,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-22T02:16:57.350Z"
+  "updatedAt": "2026-06-22T02:26:30.523Z"
 }
