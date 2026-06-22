@@ -8976,6 +8976,51 @@
         "time": "",
         "note": "嘉宾 fromis_9池原 采映"
       }
+    ],
+    "2026-06-22": [
+      {
+        "title": "🍒 WVS更新「克拉们 虽然我不是会食言的人 但今天休息一天可以吗❤️」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 韩国→中国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #39",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「Bubble Vernon兽」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "TikTok更新「最重要的是我们的现在💎」",
+        "type": "tiktok",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -8994,5 +9039,5 @@
     "model": "量gemini-3.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-22T10:42:29.573Z"
+  "updatedAt": "2026-06-22T10:44:09.240Z"
 }
