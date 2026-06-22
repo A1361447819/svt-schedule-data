@@ -8742,6 +8742,33 @@
     ],
     "2026-06-19": [
       {
+        "title": "🍒 WVS更新「大家都要好好带上雨衣或者雨伞 明天见哦！」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 官推更新「大家今天吃“粽子”了吗？😆下雨天记得带伞🌂穿好雨衣哦!!!」",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 微博更新「大家今天吃“粽子”了吗？😆下雨天记得带伞🌂穿好雨衣哦!!!」",
+        "type": "weibo",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ 官方INS更新V8 singasong Challenge",
         "type": "ins",
         "members": [
@@ -8781,7 +8808,7 @@
         "note": ""
       },
       {
-        "title": "🍊 秀雅更新",
+        "title": "🍊 秀雅更新📷",
         "type": "other",
         "members": [
           "seungkwan"
@@ -8800,6 +8827,15 @@
       },
       {
         "title": "🐻‍❄️ INS更新「Graphic design by @mechatok」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS Story更新 @kirara",
         "type": "ins",
         "members": [
           "vernon"
@@ -8958,5 +8994,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-22T02:26:30.523Z"
+  "updatedAt": "2026-06-22T02:32:37.765Z"
 }
