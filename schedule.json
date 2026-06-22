@@ -2452,6 +2452,76 @@
     ],
     "2026-06-21": [
       {
+        "title": "🍒 WVS更新「多亏了克拉们的笑容 我今天非常幸福 :)」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 WVS更新「今天托大家的福非常地幸福💎✨☺️期待未来的我吧！！！加油！！！💪⛽️」",
+        "type": "wvs",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 微博更新「今天托大家的福非常地幸福💎✨☺️期待未来的我吧！！！加油！！！💪⛽️」",
+        "type": "weibo",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「平安回家 做个好梦。我们很快再见🥰」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「克拉们 第10次克拉岛真的非常幸福☺️」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新「🫶」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们 真的是会久久留在记忆里的克拉岛☺️」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S] SEVENTEEN in 👏👏 克拉岛🎡",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND>",
         "type": "fan",
         "members": [],
@@ -8765,5 +8835,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-22T02:06:28.859Z"
+  "updatedAt": "2026-06-22T02:16:57.350Z"
 }
