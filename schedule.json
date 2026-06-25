@@ -1334,6 +1334,15 @@
         "note": ""
       },
       {
+        "title": "🦌 巴黎时装周AMIRI2027春夏大秀",
+        "type": "collab",
+        "members": [
+          "joshua"
+        ],
+        "time": "22:00",
+        "note": ""
+      },
+      {
         "title": "🐸 《Teach Me Baby》播出",
         "type": "variety",
         "members": [
@@ -9353,5 +9362,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-25T02:36:13.559Z"
+  "updatedAt": "2026-06-25T02:38:57.321Z"
 }
