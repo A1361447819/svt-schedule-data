@@ -8263,6 +8263,98 @@
         ],
         "time": "17:00",
         "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ on a drive",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「就是现在呀~」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「V8」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S] Salon Drip",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ teo更新《Salon Drip》花絮照",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新「REV the engine」",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 BOYNEXTDOOR更新 VIRAL Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "WVS更新 [17contact] 2026 SEVENTEEN 10TH FAN MEETING <SEVENTEEN in CARAT LAND> - BONUS📸",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-09": [
@@ -9153,6 +9245,15 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ jung_____pro更新合影",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "TikTok更新「最重要的是我们的现在💎」",
         "type": "tiktok",
         "members": [],
@@ -9177,5 +9278,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-25T02:20:16.408Z"
+  "updatedAt": "2026-06-25T02:29:25.880Z"
 }
