@@ -1325,12 +1325,30 @@
         "note": "法国巴黎联合国教科文组织总部"
       },
       {
+        "title": "🦌 INS STORY更新「See You at The Show! @.amiri」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 《Teach Me Baby》播出",
         "type": "variety",
         "members": [
           "the8"
         ],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 《bonjour面包店》预告",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -8545,6 +8563,15 @@
         ],
         "time": "16:30",
         "note": ""
+      },
+      {
+        "title": "🦦 《bonjour面包店》播出",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "15:00",
+        "note": ""
       }
     ],
     "2026-06-17": [
@@ -9039,5 +9066,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-25T02:09:40.237Z"
+  "updatedAt": "2026-06-25T02:13:33.771Z"
 }
