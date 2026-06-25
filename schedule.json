@@ -7257,6 +7257,15 @@
     ],
     "2026-07-18": [
       {
+        "title": "🐯 春川国际跆拳道大赛开幕式示范表演",
+        "type": "concert",
+        "members": [
+          "hoshi"
+        ],
+        "time": "10:00",
+        "note": "松岩体育城气膜馆赛场内"
+      },
+      {
         "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 香港",
         "type": "concert",
         "members": [
@@ -8758,12 +8767,114 @@
     ],
     "2026-06-24": [
       {
+        "title": "🦌⚔️🦦 disneykorea更新 SEVENTEEN和《玩具总动员5》合作的特别Challenge",
+        "type": "tiktok",
+        "members": [
+          "joshua",
+          "dk",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新「我会好好表现回来的 克拉们!! 💎」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS STORY更新「See you in Paris✈️」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 韩国→巴黎",
+        "type": "airport",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] HOSHI ‘SNAPBACK’ 幕后花絮",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 army_rok更新 陆军护国音乐会的《无敌陆军》表演",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新 [V8] POP-UP使用指南",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「singasong #V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 采访《创意行为：存在即答案》阅读分享",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《Halmyungsoo》更新「小分队Let's go Let's go Let's go Come on🔥」",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ CHZZK LookSam频道直播",
         "type": "vlive",
         "members": [
           "vernon"
         ],
         "time": "18:00",
+        "note": ""
+      },
+      {
+        "title": "官方更新 2026克拉岛舞蹈挑战直拍",
+        "type": "official",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -9066,5 +9177,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-25T02:13:33.771Z"
+  "updatedAt": "2026-06-25T02:20:00.610Z"
 }
