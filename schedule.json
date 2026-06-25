@@ -7290,6 +7290,16 @@
     ],
     "2026-06-27": [
       {
+        "title": "🐸🐻‍❄️ V8 next gear",
+        "type": "comeback",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 《全国歌唱大赛》庆州篇邀请歌手",
         "type": "collab",
         "members": [
@@ -9236,6 +9246,26 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ 官推更新 𝗥𝗘𝗩",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新 𝗥𝗘𝗩 the engine",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 WVS更新「Bubble Vernon兽」",
         "type": "wvs",
         "members": [
@@ -9245,7 +9275,43 @@
         "note": ""
       },
       {
-        "title": "🐻‍❄️ jung_____pro更新合影",
+        "title": "🍊 评论官方ins「Woozi哥 我想你了」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「克拉们 今天拍摄收到了咖啡车」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「感谢Pledis🤗」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bookkeu更新合影📷",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ jung_____pro更新合影📷",
         "type": "other",
         "members": [
           "vernon"
@@ -9254,7 +9320,16 @@
         "note": ""
       },
       {
-        "title": "TikTok更新「最重要的是我们的现在💎」",
+        "title": "🦦 ILLIT更新 ICONIC Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "TikTok更新「比任何事都重要的是我们的现在💎」",
         "type": "tiktok",
         "members": [],
         "time": "",
@@ -9278,5 +9353,5 @@
     "model": "[企业量cli]gemini-2.5-flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-25T02:29:25.880Z"
+  "updatedAt": "2026-06-25T02:35:17.980Z"
 }
