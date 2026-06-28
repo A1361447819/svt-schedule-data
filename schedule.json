@@ -9979,6 +9979,16 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 𝗩𝟴 Pre-Listening Party",
+        "type": "comeback",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "21:00",
+        "note": ""
       }
     ]
   },
@@ -9993,10 +10003,10 @@
     }
   ],
   "apiCfg": {
-    "url": "https://xn--vduyey89e.com/v1",
-    "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
-    "model": "[特特价次kiro]claude-opus-4-8-thinking",
+    "url": "https://api.deepseek.com/anthropic",
+    "key": "sk-76b5677438cc45409a3546ce684e9fdd",
+    "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-28T04:24:14.491Z"
+  "updatedAt": "2026-06-28T06:56:16.915Z"
 }
