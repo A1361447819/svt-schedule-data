@@ -10002,15 +10002,6 @@
     ],
     "2026-07-02": [
       {
-        "title": "💎 2026年度「BillboardTopK-Artists」最终结果公布",
-        "type": "other",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": "男子团体：SEVENTEEN《THUNDER》；男子SOLO：徐明浩《ColdLove》"
-      },
-      {
         "title": "🐸 DazedChina创刊号封面人物",
         "type": "magazine",
         "members": [
@@ -10298,6 +10289,15 @@
     ],
     "2026-06-30": [
       {
+        "title": "💎 Billboard TopK-Artists年度男子团体奖项",
+        "type": "other",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰 ins story更新「赢不了道兼 腹肌疯了…ㅠㅠ」",
         "type": "ins",
         "members": [
@@ -10444,6 +10444,15 @@
         "note": ""
       },
       {
+        "title": "🐸 Billboard TopK-Artists年度男子SOLO奖项",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 Harper's Bazaar Japan更新 Calvin Klein原宿店活动幕后花絮",
         "type": "other",
         "members": [
@@ -10548,5 +10557,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-02T04:01:13.987Z"
+  "updatedAt": "2026-07-02T04:04:09.712Z"
 }
