@@ -7460,6 +7460,15 @@
         ],
         "time": "",
         "note": "KINTEX HALL 1"
+      },
+      {
+        "title": "🦦 《全国歌唱大赛》庆北庆州市篇播出",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-18": [
@@ -9990,6 +9999,26 @@
         "time": "21:00",
         "note": ""
       }
+    ],
+    "2026-07-02": [
+      {
+        "title": "🐸 DazedChina创刊号封面人物",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 全国歌唱大赛更新《全国歌唱大赛》彩排",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -10008,5 +10037,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-06-28T06:56:16.915Z"
+  "updatedAt": "2026-07-02T01:38:36.691Z"
 }
