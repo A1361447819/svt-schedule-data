@@ -6704,6 +6704,15 @@
         "note": ""
       },
       {
+        "title": "🍒 INS STORY转发V8 MV「v8 SINGASONG V8」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰 评论V8回归直播「那Vernon啊 冷静一下!! 八xi去睡会儿  总之恭喜啦 活动顺利 拜拜 」",
         "type": "wvs",
         "members": [
@@ -6731,6 +6740,15 @@
         "note": ""
       },
       {
+        "title": "🦌 INS STORY转发V8 MV「Let's go!!!V8 singasong」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 微博转发V8回归MV「🚶🎵跟着v8的步伐～👏」",
         "type": "weibo",
         "members": [
@@ -6740,8 +6758,26 @@
         "note": ""
       },
       {
+        "title": "🐱 INS STORY转发V8 MV「V8👟」",
+        "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #40",
         "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY转发V8 MV「SINGASONG V8 girlsnboys」",
+        "type": "ins",
         "members": [
           "hoshi"
         ],
@@ -7032,6 +7068,15 @@
         "note": ""
       },
       {
+        "title": "🐶 INS STORY转发V8 MV「V8」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ WVS更新「昨天的听歌会超级棒✰ V8活动加油!」",
         "type": "wvs",
         "members": [
@@ -7043,6 +7088,15 @@
       {
         "title": "⚔️ WVS更新「Vernon和明浩太辛苦啦啦啦 ㅎㅎ 克拉们要多多去听哦💟 歌真的太好听啦啦啦啦」",
         "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY转发V8 MV「V8 singasong」",
+        "type": "ins",
         "members": [
           "dk"
         ],
@@ -7106,6 +7160,15 @@
       {
         "title": "🦦 WVS更新「克拉们 非常非常感谢大家来庆州应援 ㅎㅎ」",
         "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS STORY转发V8 MV「v8 SINGASONG」",
+        "type": "ins",
         "members": [
           "dino"
         ],
@@ -10999,5 +11062,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-02T06:13:18.660Z"
+  "updatedAt": "2026-07-02T06:20:28.801Z"
 }
