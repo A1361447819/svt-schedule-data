@@ -10477,7 +10477,34 @@
     ],
     "2026-06-28": [
       {
-        "title": "🦌 AMIRI更新",
+        "title": "🐰 官方INS更新「哈尼嘿~~🤍」",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 dailyfashion_news更新[DFN EXCLUSIVE] Jeonghan’s Photo Dump 📸",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 mikeamiri（AMIRI创始人/创意总监）更新合影",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 AMIRI更新「与出席AMIRI 2027春夏系列时装秀的SEVENTEEN JOSHUA共享这一刻」",
         "type": "brand",
         "members": [
           "joshua"
@@ -10500,6 +10527,33 @@
         "type": "variety",
         "members": [
           "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新「今晚🔥12:00 am ​​​」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「V8 太棒了✰」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「V8 好骄傲啊!!」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -10533,6 +10587,26 @@
           "vernon"
         ],
         "time": "12:00",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ Mnet M Countdown《rat race》播出",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ Mnet M Countdown《singasong》播出",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "17:00",
         "note": ""
       },
       {
@@ -10958,6 +11032,26 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ Mnet M Countdown 事前录制《rat race》",
+        "type": "shoot",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "08:00",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ Mnet M Countdown 事前录制《singasong》",
+        "type": "shoot",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "13:00",
+        "note": ""
+      },
+      {
         "title": "🐶 Harper's Bazaar Japan更新 Calvin Klein原宿店活动幕后花絮",
         "type": "other",
         "members": [
@@ -11062,5 +11156,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-02T06:20:28.801Z"
+  "updatedAt": "2026-07-02T06:27:51.152Z"
 }
