@@ -11132,6 +11132,18 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-04": [
+      {
+        "title": "🐸🐻‍❄️ 音乐中心《singasong》播出",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "14:15",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -11156,5 +11168,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-02T06:27:51.152Z"
+  "updatedAt": "2026-07-03T08:31:52.645Z"
 }
