@@ -10864,6 +10864,15 @@
         ],
         "time": "16:25",
         "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 《惠's Club》播出",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "17:00",
+        "note": ""
       }
     ],
     "2026-06-30": [
@@ -11168,5 +11177,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-03T08:31:52.645Z"
+  "updatedAt": "2026-07-03T08:35:56.814Z"
 }
