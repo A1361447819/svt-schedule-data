@@ -10717,16 +10717,6 @@
         "note": ""
       },
       {
-        "title": "🐸🐻‍❄️ MCD 《rat race》《singasong》打歌舞台",
-        "type": "musicshow",
-        "members": [
-          "the8",
-          "vernon"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐸🐻‍❄️ MBC Show! 音乐中心 事前录制(1)",
         "type": "shoot",
         "members": [
@@ -10808,15 +10798,6 @@
       {
         "title": "🐸 Dazed中文版更新「明浩Dazed创刊大片生成中」",
         "type": "magazine",
-        "members": [
-          "the8"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
-        "title": "🐸 官推更新[17'S THE 8] Photo by Dazed China",
-        "type": "official",
         "members": [
           "the8"
         ],
@@ -12113,5 +12094,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:39:03.031Z"
+  "updatedAt": "2026-07-06T18:40:44.905Z"
 }
