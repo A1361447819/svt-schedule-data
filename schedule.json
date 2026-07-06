@@ -10699,20 +10699,29 @@
     ],
     "2026-07-02": [
       {
-        "title": "🐸🐻‍❄️ MCD 《rat race》《singasong》打歌舞台",
-        "type": "musicshow",
+        "title": "🐰 WVS更新「不知道!!被拍到照片的时机就是那样 怎么办呀!!! 我发出来也觉得很尴尬呀!」",
+        "type": "wvs",
         "members": [
-          "the8",
-          "vernon"
+          "jeonghan"
         ],
         "time": "",
         "note": ""
       },
       {
-        "title": "🐸 DazedChina创刊号封面人物",
-        "type": "magazine",
+        "title": "🐰 WVS评论胜宽「一直在你身边~💕我要删了 太肉麻了💕」",
+        "type": "wvs",
         "members": [
-          "the8"
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ MCD 《rat race》《singasong》打歌舞台",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -10815,6 +10824,63 @@
         "note": ""
       },
       {
+        "title": "🐸 官推更新[17'S THE 8] Photo by Dazed China",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 DazedChina创刊号封面人物",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新 #singasong V8",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《Halmyungsoo》更新《singasong》独家MV",
+        "type": "release",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ wooyatop更新📸",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「💪 刚结束了一个录制 正在稍微休息呢」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 INS STORY更新「士力架广告」",
         "type": "ins",
         "members": [
@@ -10878,8 +10944,17 @@
         "note": ""
       },
       {
-        "title": "🐻‍❄️ 《非要Date》",
-        "type": "variety",
+        "title": "🐻‍❄️ INS story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS头像更新",
+        "type": "ins",
         "members": [
           "vernon"
         ],
@@ -12003,6 +12078,17 @@
         "time": "",
         "note": "一山 KINTEX"
       }
+    ],
+    "2026-07-07": [
+      {
+        "title": "🐸 WVS更新「💪 刚结束了一个录制 正在稍微休息呢」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -12027,5 +12113,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:32:22.827Z"
+  "updatedAt": "2026-07-06T18:38:47.178Z"
 }
