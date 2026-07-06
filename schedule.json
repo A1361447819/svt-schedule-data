@@ -9128,6 +9128,33 @@
     ],
     "2026-07-05": [
       {
+        "title": "🐰 WVS更新「雨下得太大了ㅠ 克拉们带伞了吗ㅠ」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 示范团成员更新合影📸",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 TikTok更新 #singasong with EVAN",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ 1st Mini Album《V8》SPECIAL FAN PARTY",
         "type": "fan",
         "members": [
@@ -9135,6 +9162,108 @@
           "vernon"
         ],
         "time": "18:00",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS直播",
+        "type": "vlive",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新 #singasong with CARATs V8",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 微博直播",
+        "type": "vlive",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 抖音更新「V8 party #v8」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS简介更新「V8」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新「V8 Party🔥」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新「V8 Party🔥」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「Long time no see paris~💋」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ RIIZE更新 do your dance Challenge",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS更新「Design by @ wooyatop & HONG」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 HARIMU更新 Dc @ brotherhoodcrew_ with @ feat.dino ✨",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -9243,6 +9372,15 @@
       }
     ],
     "2026-07-09": [
+      {
+        "title": "🐶 圣水士力架快闪店拍照会",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "9:00",
+        "note": ""
+      },
       {
         "title": "🍊 《Bibbidi Babidi Boo》SEVENTEEN专场",
         "type": "variety",
@@ -11183,6 +11321,15 @@
         "note": ""
       },
       {
+        "title": "🐯 示范团成员更新合影📸",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐈‍⬛🐶 sajalbhatnagar（Allo Bank CDO）更新合影📸",
         "type": "other",
         "members": [
@@ -11370,5 +11517,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T17:48:13.587Z"
+  "updatedAt": "2026-07-06T17:56:03.646Z"
 }
