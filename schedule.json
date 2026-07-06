@@ -12059,17 +12059,6 @@
         "time": "",
         "note": "一山 KINTEX"
       }
-    ],
-    "2026-07-07": [
-      {
-        "title": "🐸 WVS更新「💪 刚结束了一个录制 正在稍微休息呢」",
-        "type": "wvs",
-        "members": [
-          "the8"
-        ],
-        "time": "",
-        "note": ""
-      }
     ]
   },
   "customTypes": {},
@@ -12094,5 +12083,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:40:44.905Z"
+  "updatedAt": "2026-07-06T18:40:51.357Z"
 }
