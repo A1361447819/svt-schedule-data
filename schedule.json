@@ -11282,13 +11282,195 @@
     ],
     "2026-07-04": [
       {
-        "title": "🐸🐻‍❄️ 音乐中心《singasong》播出",
+        "title": "🐰 INS更新「🖤」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY转发净汉SNAPBACK Challenge「真的太好太喜欢啦」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新 singasong 编舞教学",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 音乐中心 《rat race》《singasong》打歌舞台",
         "type": "musicshow",
         "members": [
           "the8",
           "vernon"
         ],
-        "time": "14:15",
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新 singasong with MINAMI ZENA",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 Archive #2",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ MCD更新「Ending Fairy Collection」",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S] back to 2011",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新 singasong V8",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 舞者老师更新合影📸",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S]back to 2011",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 音乐中心《rat race》《singasong》打歌舞台",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 《Phone A Fangirl》",
+        "type": "variety",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ GQ Germany幕后采访",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 韩国→巴黎",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「减肥是啥？哈…… 饭后犯困let's go……」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「让人抓狂的ISTP」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「早上好~~！！ㅎㅎ 天气阴沉沉的呢」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 官推更新[17'S Vernon]👩‍🏫：瀚率啊 要不退学吧 👦：好哒",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ looksam_official更新合影📸",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -11517,5 +11699,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T17:56:03.646Z"
+  "updatedAt": "2026-07-06T18:07:53.551Z"
 }
