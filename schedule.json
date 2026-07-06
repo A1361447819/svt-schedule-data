@@ -10699,6 +10699,16 @@
     ],
     "2026-07-02": [
       {
+        "title": "🐸🐻‍❄️ MCD 《rat race》《singasong》打歌舞台",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 DazedChina创刊号封面人物",
         "type": "magazine",
         "members": [
@@ -10748,6 +10758,72 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ TikTok更新 #singasong with MARTIN JUHOON",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S]260702 MCD",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ MCD更新自拍",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版更新「明浩Dazed创刊大片生成中」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 官推更新[17'S THE 8] Photo by Dazed China",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「士力架广告」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ WVS更新「今天谢谢大家来事前录制🫶🫶🫶 啊 不过我忘了吃麻辣串串了」",
         "type": "wvs",
         "members": [
@@ -10757,8 +10833,71 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ ILLIT更新 It's Me Challenge 幕后",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ M2MPD更新「封面图投票 OPEN」",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 《非要Date》",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ c_woodzofficial更新「非要Date with VERNON」",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ TikTok更新 singasong with WOODZ",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 《非要Date》",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 全国歌唱大赛更新《全国歌唱大赛》彩排",
         "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「V8呀~~真帅呀✨」",
+        "type": "wvs",
         "members": [
           "dino"
         ],
@@ -10975,6 +11114,15 @@
       {
         "title": "🦦 INS Story更新「SVT&CARAT💖💙」",
         "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 斯凯奇更新",
+        "type": "brand",
         "members": [
           "dino"
         ],
@@ -11879,5 +12027,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:18:06.224Z"
+  "updatedAt": "2026-07-06T18:32:22.827Z"
 }
