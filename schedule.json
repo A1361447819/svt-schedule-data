@@ -11153,6 +11153,199 @@
         "time": "14:15",
         "note": ""
       }
+    ],
+    "2026-07-06": [
+      {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS Story更新「诶??是谁呢....?!?!啊 原来是我呀~☺️」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #41",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛🐶 sajalbhatnagar（Allo Bank CDO）更新合影📸",
+        "type": "other",
+        "members": [
+          "wonwoo",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 EVAN更新Ride or Die Challenge",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新「Girls and boys are so tired」",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新「看似不同 却别无二致」",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新 'girlsnboys' Official Visualizer",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「#girlsnboys V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「#singasong V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Dior巴黎时装周",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「See ya🇫🇷」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 CALVIN KLEIN更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「🕶️」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「出门记得带好伞″̮ 饭也要好好吃哦！」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ alice longyu gao更新「这是Vernon告诉我有关于V8的事的那天的胳膊肘子的样子」",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ TikTok更新 singasong with WONBIN",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-07-08": [
+      {
+        "title": "🐸🐻‍❄️ next gear",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-09": [
+      {
+        "title": "🦦 2026 SBS歌谣大战SUMMER",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "一山 KINTEX"
+      }
     ]
   },
   "customTypes": {},
@@ -11177,5 +11370,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-03T08:35:56.814Z"
+  "updatedAt": "2026-07-06T17:48:13.587Z"
 }
