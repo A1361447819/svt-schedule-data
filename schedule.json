@@ -10984,6 +10984,43 @@
     ],
     "2026-07-03": [
       {
+        "title": "🍒 直播",
+        "type": "vlive",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 TikTok更新「虎浪嘿🧢」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 「打败海绵宝宝角色的方法」Challenge",
+        "type": "tiktok",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S] #音乐银行",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ KBS2音乐银行《singasong》预录",
         "type": "shoot",
         "members": [
@@ -11004,12 +11041,155 @@
         "note": ""
       },
       {
+        "title": "🐸 XCSS更新 #Dazed中文版创刊封面",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ GQ德国更新幕后采访",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐶 《虽没菜》",
+        "type": "variety",
+        "members": [
+          "the8",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐶 TikTok更新 #singasong with SHOWNU HYUNGWON YOUNGJI The8 Mingyu",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 音乐银行《singasong》打歌舞台",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版采访：频率切换",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 M2MPD更新「封面图投票 OPEN」",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版更新「徐明浩会用哪些字母介绍现在的自己？」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ mechatok更新合影📸",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版更新",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「💎😌」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS评论dino「❤️」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ The FADER幕后采访「VERNON与THE 8谈创作自由 合作 以及V8的诞生」",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️🦦 TikTok更新 #singasong with DINO",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ 《惠's Club》播出",
         "type": "variety",
         "members": [
           "vernon"
         ],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 官推更新 [17'S Vernon] #惠's Club",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -11699,5 +11879,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:07:53.551Z"
+  "updatedAt": "2026-07-06T18:18:06.224Z"
 }
