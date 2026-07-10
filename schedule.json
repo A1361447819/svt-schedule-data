@@ -4380,6 +4380,16 @@
     ],
     "2026-07-10": [
       {
+        "title": "🍒🐶 NÜTRL更新",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 realbarrier 日本东京见面会",
         "type": "fan",
         "members": [
@@ -4387,6 +4397,33 @@
         ],
         "time": "",
         "note": "东京 250人"
+      },
+      {
+        "title": "🦌 NumeroTOKYO更新《Numéro TOKYO》9月号特装版（增刊）数字限定版封面",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 韩国→中国香港",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《忙内集合所》",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "17:30",
+        "note": ""
       }
     ],
     "2026-05-26": [
@@ -9373,6 +9410,91 @@
     ],
     "2026-07-09": [
       {
+        "title": "🐰 celebfashion更新芭妮兰拍摄花絮",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 韩国→日本",
+        "type": "airport",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 官推更新 [17'S JUN] 衷心祝贺获得第38届大众电影百花奖(The 38th Hundred Flowers Awards)最佳男配角提名！ ​​​",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 恭喜俊辉凭借电影捕风追影 「胡枫」一角提名第38届大众电影百花奖「最佳男配角」",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 第38届大众电影百花奖最佳男配角提名 《捕风追影》饰胡枫",
+        "type": "award",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ dy更新「girlsnboys 一起🙌」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 音乐中心更新《rat race》《singasong》现场花絮照",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新「Archive Photo」",
+        "type": "wvs",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「girlsnboys V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 圣水士力架快闪店拍照会",
         "type": "collab",
         "members": [
@@ -9382,11 +9504,55 @@
         "note": ""
       },
       {
+        "title": "🐶 INS更新「💙 Dior DiorCouture」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 isaactoast_kr更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 《Bibbidi Babidi Boo》SEVENTEEN专场",
         "type": "variety",
         "members": [
           "seungkwan"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🦦 RESCENE更新 PrettyGirl Challenge",
+        "type": "tiktok",
+        "members": [
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ tobilou更新合影📷",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新[17'S]260709 夫胜宽的bibidi babidi boo",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -12059,6 +12225,30 @@
         "time": "",
         "note": "一山 KINTEX"
       }
+    ],
+    "2026-08-14": [
+      {
+        "title": "⚔️🍊 T1 Home Ground演出",
+        "type": "concert",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "15:00–15:30",
+        "note": ""
+      }
+    ],
+    "2026-07-27": [
+      {
+        "title": "🍒🐶 NÜTRL官宣",
+        "type": "other",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -12083,5 +12273,5 @@
     "model": "DeepSeek-V4-Flash",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-06T18:40:51.357Z"
+  "updatedAt": "2026-07-10T04:52:27.490Z"
 }
