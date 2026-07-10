@@ -4417,7 +4417,7 @@
         "note": ""
       },
       {
-        "title": "🦦 《忙内集合所》",
+        "title": "🦦 《忙内集合所》播出",
         "type": "variety",
         "members": [
           "dino"
@@ -12515,6 +12515,134 @@
         "time": "17:00",
         "note": ""
       }
+    ],
+    "2026-07-07": [
+      {
+        "title": "🐱 中国→韩国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 kimmy_kimberley更新合影📸",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 巴黎→韩国",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「Yeeeeahhh #badbunny ✌️」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS/INS STORY更新「好久不见呀¨̮啊呜😋」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「谢谢大家喜欢今天手忙脚乱/吵吵闹闹的Game Bbooi 我的爱们~🥰」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 直播",
+        "type": "vlive",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「有要玩《泡泡堂》的吗..☠️」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「今天6点半《泡泡堂》GAME Bbooi来啦🎈」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ kizukush/ryoga_murakami更新📷",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS Story更新",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Open Concert录制",
+        "type": "shoot",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「今天去录制《开放音乐会》回来了 大家这么用心地应援给了我很大的力量」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -12536,8 +12664,8 @@
   "apiCfg": {
     "url": "https://api.deepseek.com/anthropic",
     "key": "sk-76b5677438cc45409a3546ce684e9fdd",
-    "model": "DeepSeek-V4-Flash",
+    "model": "deepseek-v4-pro",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-10T06:26:20.049Z"
+  "updatedAt": "2026-07-10T06:38:54.107Z"
 }
