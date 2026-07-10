@@ -7979,7 +7979,7 @@
         "members": [
           "mingyu"
         ],
-        "time": "",
+        "time": "11:00",
         "note": ""
       }
     ],
@@ -8011,7 +8011,7 @@
         "members": [
           "hoshi"
         ],
-        "time": "10:00",
+        "time": "10:47-11:00",
         "note": "松岩体育城气膜馆赛场内"
       },
       {
@@ -12667,5 +12667,5 @@
     "model": "deepseek-v4-pro",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-10T06:38:54.107Z"
+  "updatedAt": "2026-07-10T06:44:51.141Z"
 }
