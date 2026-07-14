@@ -12662,10 +12662,10 @@
     }
   ],
   "apiCfg": {
-    "url": "https://api.deepseek.com/anthropic",
-    "key": "sk-76b5677438cc45409a3546ce684e9fdd",
-    "model": "deepseek-v4-pro",
+    "url": "https://xn--vduyey89e.com/v1",
+    "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
+    "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-10T06:45:43.787Z"
+  "updatedAt": "2026-07-14T10:15:54.115Z"
 }
