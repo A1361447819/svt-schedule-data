@@ -12643,6 +12643,177 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-14": [
+      {
+        "title": "🐰 直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 中国→韩国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新「Hoshi Woozi通过了陆军地上军庆典的选拔呀 是因为续约了才这样吗~😎」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「me whenever ’#singasong‘ hits V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 官推更新 [17'S THE 8] Photo by Super ELLE China",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 SuperELLE更新 #SuperELLE七月刊 🎬 徐明浩 | 凡是可以触动我的",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 SuperELLE更新 #SuperELLE七月刊 “听到这首歌，跳起来就对了。”",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 SuperELLE更新 #SuperELLE七月刊封面&动态封面",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️🦦 STAN:A更新节目海报",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「👍🏻」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS STORY更新「哕🤮」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「9879 谢谢你们🤍」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bibidi babidi boo [未公开]夫瑜美的男性朋友珉奎 惊喜客串幕后花絮",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS回复顺荣「ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 bibidi babidi boo [未公开]爱宝乐园幕后花絮 险些成为第二个《哈利波特》事件（？）",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-16": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》发售纪念SPECIAL FAN PARTY",
+        "type": "fan",
+        "members": [
+          "dino"
+        ],
+        "time": "17:00",
+        "note": "Cube Convention Center（首尔市麻浦区上岩山路34，3楼）"
+      }
+    ],
+    "2026-07-23": [
+      {
+        "title": "🐻‍❄️ 《环环相扣的老故事》播出",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "21:20",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -12667,5 +12838,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-14T10:15:54.115Z"
+  "updatedAt": "2026-07-14T10:31:47.174Z"
 }
