@@ -6072,8 +6072,17 @@
         "note": ""
       },
       {
-        "title": "🦦 Picheolin 1st Mini Album '吉BOARD'",
-        "type": "comeback",
+        "title": "🦦 Picheolin 1st Mini Album 倒计时Weverse/YouTube直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "16:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album 正式发行及MV公开",
+        "type": "release",
         "members": [
           "dino"
         ],
@@ -13579,6 +13588,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《没有不痛苦的离别》官方预告",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "23:00",
+        "note": ""
       }
     ],
     "2026-07-15": [
@@ -13608,6 +13626,103 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《没有不痛苦的离别》官方MV",
+        "type": "release",
+        "members": [
+          "dino"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
+    ],
+    "2026-07-20": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album 歌单公开",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "21:00",
+        "note": ""
+      }
+    ],
+    "2026-07-21": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album《疯了 疯了》官方预告",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "11:00",
+        "note": ""
+      }
+    ],
+    "2026-07-22": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album《疯了 疯了》官方MV",
+        "type": "release",
+        "members": [
+          "dino"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
+    ],
+    "2026-08-01": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album 主打TITLE TRACK 官方预告1",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "21:00",
+        "note": ""
+      }
+    ],
+    "2026-08-02": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album 主打TITLE TRACK 官方预告2",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "21:00",
+        "note": ""
+      }
+    ],
+    "2026-08-21": [
+      {
+        "title": "🦦 DINO X PICHEOLIN Fan Con",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-22": [
+      {
+        "title": "🦦 DINO X PICHEOLIN Fan Con",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-23": [
+      {
+        "title": "🦦 DINO X PICHEOLIN Fan Con",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ]
   },
@@ -13633,5 +13748,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T02:55:56.185Z"
+  "updatedAt": "2026-07-15T03:20:03.326Z"
 }
