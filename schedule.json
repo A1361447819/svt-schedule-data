@@ -13724,6 +13724,18 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-16": [
+      {
+        "title": "🐸🐻‍❄️ V8 北京Friends & BEATs大型声场共振派对",
+        "type": "concert",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -13748,5 +13760,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T03:20:43.826Z"
+  "updatedAt": "2026-07-15T03:34:56.808Z"
 }
