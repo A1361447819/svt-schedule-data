@@ -4129,10 +4129,9 @@
         "note": "ASIAWORLD-EXPO HALL 10"
       },
       {
-        "title": "🦦🐸🐻‍❄️ 《STAN:A》节目上线",
-        "type": "other",
+        "title": "🐸🐻‍❄️ 《STAN: A》Episode V8",
+        "type": "variety",
         "members": [
-          "dino",
           "the8",
           "vernon"
         ],
@@ -12975,6 +12974,15 @@
         ],
         "time": "15:00–15:30",
         "note": ""
+      },
+      {
+        "title": "🦦 《STAN: A》Episode PICHEOLIN (with BUMZU)",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "18:00",
+        "note": ""
       }
     ],
     "2026-07-27": [
@@ -13736,6 +13744,26 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-31": [
+      {
+        "title": "《STAN: A》特别篇",
+        "type": "variety",
+        "members": [],
+        "time": "18:00",
+        "note": ""
+      }
+    ],
+    "2026-08-28": [
+      {
+        "title": "🦦 《STAN: A》Episode DINO",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "18:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -13760,5 +13788,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T03:34:56.808Z"
+  "updatedAt": "2026-07-15T03:40:38.100Z"
 }
