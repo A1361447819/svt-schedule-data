@@ -4401,6 +4401,24 @@
         "note": ""
       },
       {
+        "title": "🐰 TikTok更新「克拉们..?」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「在干嘛呢?!」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 realbarrier 日本东京见面会",
         "type": "fan",
         "members": [
@@ -4428,10 +4446,130 @@
         "note": ""
       },
       {
+        "title": "🐸 TikTok更新 singasong with YEONJUN",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ [Choreography Video] V8 - ‘singasong’",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 音乐中心幕后花絮",
+        "type": "musicshow",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新「[17contact] 1st Mini Album 'V8' Behind」",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 dy更新「练习室的 #girlsnboys V8」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 韩国→中国香港",
         "type": "airport",
         "members": [
           "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Dior更新「MINGYU arriving at the Dior Fall Winter 2026-2027 Haute Couture Show.」",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS评论净汉「我也做了 ㅋㅋㅋㅋ」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS评论胜宽「辛苦啦😉」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 磪有情更新 Perfect Target Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新「夫胜宽的Bibidi Babidi Boo🤗能和大家在一起真的太幸福了！谢谢大家 再见💫」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ BOYNEXTDOOR更新 VIRAL Challenge",
+        "type": "tiktok",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -4443,6 +4581,24 @@
           "dino"
         ],
         "time": "17:30",
+        "note": ""
+      },
+      {
+        "title": "🦦 安昭熙更新合影📷",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S Dino] #忙内集合所",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -8081,11 +8237,20 @@
       },
       {
         "title": "🐸🐻‍❄️🦦 STAN:A更新[预告] 💎 WHO DO YOU STAN?",
-        "type": "other",
+        "type": "variety",
         "members": [
           "the8",
           "vernon",
           "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「낼 만나요!!!!!!💎明天见🔥🙏💎」",
+        "type": "wvs",
+        "members": [
+          "the8"
         ],
         "time": "",
         "note": ""
@@ -8156,6 +8321,15 @@
       {
         "title": "🐻‍❄️ TikTok更新 #singasong with SUNGHO WOONHAK",
         "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS回复明浩「我现在简直不敢相信这个现实…」",
+        "type": "wvs",
         "members": [
           "vernon"
         ],
@@ -13411,5 +13585,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T02:32:18.674Z"
+  "updatedAt": "2026-07-15T02:42:20.811Z"
 }
