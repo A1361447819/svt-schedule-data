@@ -13283,6 +13283,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🍊 评论珉奎直播「老公/老婆/亲爱的 一大早你在做些什么呀 我想吃辣炒猪肉盖饭 做给我吃嘛 安定型男友 1等新郎人选 啊 好饿 昨天很晚才结束的呢ㅠ ㅋㅋㅋㅋ之后见♡」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-16": [
@@ -13624,5 +13633,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T02:54:38.858Z"
+  "updatedAt": "2026-07-15T02:55:56.185Z"
 }
