@@ -7994,6 +7994,15 @@
     ],
     "2026-07-12": [
       {
+        "title": "🐰 INS STORY更新「只是想让你看看我😜」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 高阳",
         "type": "concert",
         "members": [
@@ -8004,8 +8013,100 @@
         "note": "KINTEX HALL 1"
       },
       {
+        "title": "🐸🐻‍❄️ 官方INS更新「Girls and boys are so tired🔥」",
+        "type": "ins",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S] 谢谢你们为我们创造了意义非凡的瞬间 ❤️ 我们会和克拉们一直奔跑到最后 一起喊出V! 8!",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「我爱你像天空的颜色💎💎💎💎💎 最近第一次这样看天空🥺谢谢你们的支持 期待未来」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 中国香港→韩国",
+        "type": "airport",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 TWS更新「All the Possibilities Challenge幕后📸」",
+        "type": "tiktok",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": "TWS账号更新"
+      },
+      {
+        "title": "🐶 INS更新「singasong v8 演唱会怀挺ㅠ」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「V8好帅啊🖤🤍 虽然只有一小会儿 但能在一起很开心 ㅋㅋㅋㅋㅋ」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「没有不痛苦的离别 没有不为客串铁人着迷的人😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「🎵 疯了疯了 一起为客串铁人疯了疯了—̳͟͞͞♥」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 《全国歌唱大赛》庆北庆州市篇播出",
         "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S Dino] #全国歌唱大赛",
+        "type": "official",
         "members": [
           "dino"
         ],
@@ -13130,5 +13231,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T01:32:16.254Z"
+  "updatedAt": "2026-07-15T02:19:53.972Z"
 }
