@@ -4127,6 +4127,17 @@
         ],
         "time": "19:00",
         "note": "ASIAWORLD-EXPO HALL 10"
+      },
+      {
+        "title": "🦦🐸🐻‍❄️ WHO DO YOU STAN? 上线",
+        "type": "other",
+        "members": [
+          "dino",
+          "the8",
+          "vernon"
+        ],
+        "time": "18:00",
+        "note": ""
       }
     ],
     "2026-11-22": [
@@ -4401,6 +4412,15 @@
       {
         "title": "🦌 NumeroTOKYO更新《Numéro TOKYO》9月号特装版（增刊）数字限定版封面",
         "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 日本→韩国",
+        "type": "airport",
         "members": [
           "joshua"
         ],
@@ -7973,6 +7993,25 @@
     ],
     "2026-07-11": [
       {
+        "title": "🐱 钱锟更新 Feel Love And Talk舞蹈挑战",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方INS更新「singasong🎶」",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 高阳",
         "type": "concert",
         "members": [
@@ -7983,12 +8022,153 @@
         "note": "KINTEX HALL 1"
       },
       {
+        "title": "🐸 WVS更新 裂痕歌词",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官推更新 [17'S] 有克拉们在的地方 就是V8在的地方 直到最后的最后都要sing a song",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「설레요~激动😬」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「#girlsnboys V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新「[17ehind] V8 'singasong' MV Behind」",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新「[17ehind] 1st Mini Album 'V8' Behind」",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️🦦 STAN:A更新[预告] 💎 WHO DO YOU STAN?",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 香港Nescafe Cafe Collection新品推介会",
         "type": "collab",
         "members": [
           "mingyu"
         ],
         "time": "11:00",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「帅哥时髦精们 ㅠㅜ 好好加油 ㅠㅠ 想你们啦ㅠㅜ」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS评论明浩「好好表现 玩得开心点ㅠㅜ」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「如果在这个世上可以尽情炫耀某个人的话 我想炫耀的人就是你 瀚率 Vernon 崔 脆骨」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「我也爱明浩哥💙🫂」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「令人骄傲的我们V8」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ TikTok更新 #singasong with SUNGHO WOONHAK",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TXT更新 IceCream Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -13231,5 +13411,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T02:19:53.972Z"
+  "updatedAt": "2026-07-15T02:32:18.674Z"
 }
