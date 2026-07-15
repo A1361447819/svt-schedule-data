@@ -13137,6 +13137,24 @@
         "note": ""
       },
       {
+        "title": "🍚 WVS头像更新",
+        "type": "wvs",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍚 WVS更新「大家怎么都这么嘚瑟呀 是因为续约了才这样吗?」",
+        "type": "wvs",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ TikTok更新「me whenever ’#singasong‘ hits V8」",
         "type": "tiktok",
         "members": [
@@ -13189,6 +13207,16 @@
           "the8",
           "vernon",
           "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 Archive #3",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -13336,15 +13364,6 @@
         "note": ""
       },
       {
-        "title": "🐯 WVS更新「Hoshi Woozi通过了陆军地上军庆典的选拔呀 是因为续约了才这样吗~😎」",
-        "type": "wvs",
-        "members": [
-          "hoshi"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #42",
         "type": "official",
         "members": [
@@ -13358,15 +13377,6 @@
         "type": "wvs",
         "members": [
           "hoshi"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
-        "title": "🍚 WVS更新「大家怎么都这么嘚瑟呀 是因为续约了才这样吗?」",
-        "type": "wvs",
-        "members": [
-          "woozi"
         ],
         "time": "",
         "note": ""
@@ -13561,6 +13571,35 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-15": [
+      {
+        "title": "🐈‍⬛ HAPPY WONWOO DAY BIRTHDAY MERCH ver.5",
+        "type": "official",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ dailyfashion_news更新「POV:说喜欢我的《我剩余的恋爱》嘉宾」",
+        "type": "other",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS回复知勋「扑腾扑腾」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -13585,5 +13624,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-15T02:42:20.811Z"
+  "updatedAt": "2026-07-15T02:54:38.858Z"
 }
