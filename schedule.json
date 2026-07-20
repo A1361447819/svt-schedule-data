@@ -3699,6 +3699,13 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "GGOING ZIP EP.13 ⛱️夏日特辑⛱️ 恐怖特辑",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-15": [
@@ -11435,6 +11442,13 @@
         "note": ""
       },
       {
+        "title": "GOING SEVENTEEN经典怀旧综艺特辑ㅣ#GGOINGZIP EP.14",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": "保证爆笑"
+      },
+      {
         "title": "[INSIDE SEVENTEEN] JOSHUA VOGUE Vacation 幕后花絮",
         "type": "official",
         "members": [],
@@ -11552,6 +11566,13 @@
           "vernon"
         ],
         "time": "18:00",
+        "note": ""
+      },
+      {
+        "title": "一听就自动脑补画面的GOING SEVENTEEN经典名台词合集 #GGOINGZIP EP.15",
+        "type": "official",
+        "members": [],
+        "time": "",
         "note": ""
       },
       {
@@ -14673,16 +14694,6 @@
         "note": ""
       },
       {
-        "title": "🐸🐻‍❄️ STAN:A更新「先公开」等一下 The 8 Vernon.. 两位.. 不是在吵架吧？",
-        "type": "other",
-        "members": [
-          "the8",
-          "vernon"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🦦 Picheolin 1st Mini Album 歌单公开",
         "type": "official",
         "members": [
@@ -14995,5 +15006,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T08:08:49.381Z"
+  "updatedAt": "2026-07-20T08:12:49.429Z"
 }
