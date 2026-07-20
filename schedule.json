@@ -4327,6 +4327,33 @@
         "note": ""
       },
       {
+        "title": "🐈‍⬛ WVS更新「HAPPY_WONWOO_DAY」",
+        "type": "wvs",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛ WVS更新「等假期结束了 我们带着幸福的笑容相见吧 我爱你们 克拉们」",
+        "type": "wvs",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛ 官推更新 Happy WONWOO’s Day🐈⬛",
+        "type": "official",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ VERNON THE 8 [V8] LIVE - 香港",
         "type": "concert",
         "members": [
@@ -4434,10 +4461,11 @@
         "note": ""
       },
       {
-        "title": "🐸 TikTok更新「DORIDORI JAMJAM🎧🎤」",
+        "title": "🐸🐻‍❄️ TikTok更新「DORIDORI JAMJAM🎧🎤」",
         "type": "tiktok",
         "members": [
-          "the8"
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -14266,6 +14294,26 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ 小红书更新「V8声场共振派对📡我们明天见！」",
+        "type": "xhs",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": "夜乐园xhs"
+      },
+      {
+        "title": "🐸🐻‍❄️ dy更新「明天见#V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ dailyfashion_news更新「POV:说喜欢我的《我剩余的恋爱》嘉宾」",
         "type": "other",
         "members": [
@@ -14277,6 +14325,15 @@
       {
         "title": "🐻‍❄️ WVS回复知勋「扑腾扑腾」",
         "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ hyells.club更新",
+        "type": "other",
         "members": [
           "vernon"
         ],
@@ -14411,11 +14468,162 @@
     ],
     "2026-07-16": [
       {
+        "title": "🐯 __wooga更新",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ V8 北京Friends & BEATs大型声场共振派对",
         "type": "concert",
         "members": [
           "the8",
           "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ Dazed更新采访",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 官方更新 𝗧𝗛𝗘 𝟴 '8DM' Official Video",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 官方更新 V8丨at dinner",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博更新「#v8#」",
+        "type": "weibo",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「我们任何时候都要打起精神 #singasong V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「#singasong V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ Weverse Magazine更新：V8 在燃尽青春的舞池中肆意摇摆 以独特审美与灵魂共鸣拓宽K-pop全新边界",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 SuperELLE欣漾 画报采访",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 UNOVE更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ SBS更新「在不说『我爱你』的情况下表达『我爱你』」",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS Story更新",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「🌻🌃 #没有不痛苦的离别」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方INS更新「可爱的人很忙的原因」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「当初不该爱上你🌻」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦⚔️🍊 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "dino",
+          "dk",
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -14475,5 +14683,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T07:25:30.333Z"
+  "updatedAt": "2026-07-20T07:47:42.594Z"
 }
