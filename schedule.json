@@ -14681,7 +14681,7 @@
         "members": [
           "scoups"
         ],
-        "time": "09:00",
+        "time": "20:00",
         "note": ""
       },
       {
@@ -15006,5 +15006,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T08:12:49.429Z"
+  "updatedAt": "2026-07-20T11:40:44.564Z"
 }
