@@ -14285,6 +14285,16 @@
     ],
     "2026-07-15": [
       {
+        "title": "🍒🐰 直播",
+        "type": "vlive",
+        "members": [
+          "scoups",
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐈‍⬛ HAPPY WONWOO DAY BIRTHDAY MERCH ver.5",
         "type": "official",
         "members": [
@@ -14314,6 +14324,34 @@
         "note": ""
       },
       {
+        "title": "🐸 WVS更新「明天见💎」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 芭莎电影更新",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新「📍 Beijing China」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "北京"
+      },
+      {
         "title": "⚔️ dailyfashion_news更新「POV:说喜欢我的《我剩余的恋爱》嘉宾」",
         "type": "other",
         "members": [
@@ -14341,12 +14379,94 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ INS STORY更新「📍beijing china」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ BODA频道",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 官推更新 [17'S Vernon] #BODA频道",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album《没有不痛苦的离别》官方MV",
         "type": "release",
         "members": [
           "dino"
         ],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方INS更新「想念现在再也见不到的你的夜晚🌃」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方INS更新「没有不痛苦的离别 𝙈𝙑 𝘽𝙚𝙝𝙞𝙣𝙙 🎞️」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 allurekorea更新",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "bibidi babidi boo [未公开]因为怕克拉们倒穿胶鞋所以非常担心的Dino",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "bibidi babidi boo [未公开]虽然梦想着成为东方神起 但现实却是嘎吱嘎吱舞",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "bibidi babidi boo [未公开]极其嫌弃彼此萌化形象的小十七们",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]名作即便知道了结局也会让人想要重温🦀🐚",
+        "type": "official",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -14683,5 +14803,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T07:47:42.594Z"
+  "updatedAt": "2026-07-20T07:53:59.524Z"
 }
