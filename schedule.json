@@ -14295,8 +14295,26 @@
         "note": ""
       },
       {
+        "title": "🐰 PuzzleSVT更新「直播预告」",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 INS STORY转发Dino《没有不痛苦的离别》「🎤🎶」",
         "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 韩国→中国",
+        "type": "airport",
         "members": [
           "jun"
         ],
@@ -14322,14 +14340,14 @@
         "note": ""
       },
       {
-        "title": "🐸🐻‍❄️ 小红书更新「V8声场共振派对📡我们明天见！」",
+        "title": "🐸🐻‍❄️ 夜乐园更新「V8声场共振派对📡我们明天见！」",
         "type": "xhs",
         "members": [
           "the8",
           "vernon"
         ],
         "time": "",
-        "note": "夜乐园xhs"
+        "note": ""
       },
       {
         "title": "🐸🐻‍❄️ dy更新「明天见#V8」",
@@ -14379,6 +14397,36 @@
         "note": ""
       },
       {
+        "title": "🐸🐻‍❄️ STAN:A更新「先公开」等一下 The 8 Vernon.. 两位.. 不是在吵架吧？",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ TikTok更新「这下不会忘了 #singasong V8」",
+        "type": "tiktok",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 韩国→中国",
+        "type": "airport",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 INS STORY转发DINO《没有不痛苦的离别》「真好~」",
         "type": "ins",
         "members": [
@@ -14399,6 +14447,15 @@
       {
         "title": "⚔️ INS STORY转发DINO《没有不痛苦的离别》「Picheolin🖤太喜欢了🖤」",
         "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Baseline更新",
+        "type": "brand",
         "members": [
           "dk"
         ],
@@ -14551,6 +14608,13 @@
         "note": ""
       },
       {
+        "title": "[GOING SEVENTEEN] EP.151 泥滩上狼狈不尴尬游戏大挑战 #2",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "bibidi babidi boo [未公开]因为怕克拉们倒穿胶鞋所以非常担心的Dino",
         "type": "variety",
         "members": [],
@@ -14604,6 +14668,16 @@
         "type": "official",
         "members": [
           "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ STAN:A更新「先公开」等一下 The 8 Vernon.. 两位.. 不是在吵架吧？",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -14860,6 +14934,15 @@
     ],
     "2026-07-31": [
       {
+        "title": "🐰 Puzzle SEVENTEEN直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "《STAN: A》特别篇",
         "type": "variety",
         "members": [],
@@ -14912,5 +14995,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T08:02:37.079Z"
+  "updatedAt": "2026-07-20T08:08:49.381Z"
 }
