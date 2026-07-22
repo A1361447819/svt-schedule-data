@@ -14021,6 +14021,15 @@
     ],
     "2026-07-23": [
       {
+        "title": "🦌 《耳朵》翻唱版本音源公开",
+        "type": "release",
+        "members": [
+          "joshua"
+        ],
+        "time": "00:00",
+        "note": "知秀全新翻唱版本"
+      },
+      {
         "title": "🐻‍❄️ 《环环相扣的老故事》播出",
         "type": "variety",
         "members": [
@@ -14681,7 +14690,7 @@
         "members": [
           "scoups"
         ],
-        "time": "20:00",
+        "time": "09:00",
         "note": ""
       },
       {
@@ -14705,6 +14714,144 @@
     ],
     "2026-07-21": [
       {
+        "title": "🍒🐶 Nutrl更新「STAY TÜNED…」",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 myidol_miim更新「[独家] SEVENTEEN净汉的水果花菜/水果花茶制作ASMR EP1 🍉」",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「来办大事」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 太合音乐更新 《耳朵》翻唱版预告",
+        "type": "release",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INSIDE SEVENTEEN：JOSHUA in Paris for UNESCO & AMIRI Behind",
+        "type": "official",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed更新 Dazed中文版创刊派对",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed China中文版创刊派对活动",
+        "type": "collab",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 Archive #4",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 dy更新「☀️☔️☀️🌧️#上海 大城市 我喜欢」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新「V8 'girlsnboys' Official Visualizer Photo Sketch」",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 直播",
+        "type": "vlive",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 雀巢咖啡更新 新品宣傳會 – 精華片段重溫",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 新人教练金软景录制",
+        "type": "shoot",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 《环环相扣的老故事》预告视频",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album《疯了 疯了》官方预告",
         "type": "official",
         "members": [
@@ -14715,6 +14862,15 @@
       }
     ],
     "2026-07-22": [
+      {
+        "title": "🐻‍❄️ 《环环相扣的老故事》更新预告照",
+        "type": "variety",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
       {
         "title": "🦦 Picheolin 1st Mini Album《疯了 疯了》官方MV",
         "type": "release",
@@ -14963,6 +15119,17 @@
     ],
     "2026-08-28": [
       {
+        "title": "⚔️🍊🦦 斯凯奇马来西亚门店开幕活动",
+        "type": "collab",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": "Sunway Pyramid，200人"
+      },
+      {
         "title": "🦦 《STAN: A》Episode DINO",
         "type": "variety",
         "members": [
@@ -15006,5 +15173,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-20T11:40:44.564Z"
+  "updatedAt": "2026-07-22T02:11:02.355Z"
 }
