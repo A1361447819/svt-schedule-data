@@ -13692,6 +13692,15 @@
         ],
         "time": "17:00",
         "note": ""
+      },
+      {
+        "title": "⚔️ brothers space台北首间品牌形象店开幕活动",
+        "type": "collab",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-07": [
@@ -14694,10 +14703,93 @@
         "note": ""
       },
       {
+        "title": "🐰⚔️ 蔡亨源更新 和净汉硕珉合影📷",
+        "type": "other",
+        "members": [
+          "jeonghan",
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS STORY转发蔡亨源「ㅎㅎㅎㅎㅎㅎ💕」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS Story更新「💕」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新「💎💎ㅋㅋㅋㅋㅋㅋㅋㅋ」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 官方更新 [HOSHI TAMTAM] Weekly Hoshi #43",
         "type": "official",
         "members": [
           "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ [SSSS CAM] V8 - 'Friend' Rehearsal Cam [V8] LIVE",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 TXT更新 IceCream with THE8",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ brothers space更新「道兼将出席brothers space台北首间品牌形象店」",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS评论Dino Picheolin 1st Mini Album Track List 「我们忙内宝真的非常努力地准备了!真的又可爱懂事又让人骄傲」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Sofia更新",
+        "type": "other",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -14709,6 +14801,24 @@
           "dino"
         ],
         "time": "21:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「Picheolin 'Love Sick (narr. Lee Moon Sae)' Photo Sketch」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -15173,5 +15283,5 @@
     "model": "[个人次cli]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-22T02:11:02.355Z"
+  "updatedAt": "2026-07-22T02:18:57.933Z"
 }
