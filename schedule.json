@@ -7220,6 +7220,54 @@
     ],
     "2026-07-24": [
       {
+        "title": "🍒🐶 Nutrl更新「Something for Ü Just for Ü」",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 Nutrl更新「__Ü__ X _____Ü ‘For yoÜ’ MV Teaser」",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Numéro TOKYO 9月刊特装版封面&内页预览",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 抖音更新「🤖🥳」",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 百威韩国更新 与𝗕𝗨𝗗𝗪𝗘𝗜𝗦𝗘𝗥一起的𝗩𝟴 Pre-Listening Party的瞬间",
+        "type": "brand",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 [SERENADE] ON STAGE - 高雄",
         "type": "concert",
         "members": [
@@ -7228,6 +7276,60 @@
         ],
         "time": "",
         "note": "KAOHSIUNG ARENA"
+      },
+      {
+        "title": "🍊 INS更新「Boo社长✒️」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新 #MicheoMicheo 😵 💫",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「一二 🙌 一二🙌」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「准备了鱼鳃三行诗」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新 #MicheoMicheo 😵💫",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「☕️🍃 #疯了疯了」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-26": [
@@ -15265,6 +15367,15 @@
     ],
     "2026-08-28": [
       {
+        "title": "🐰 《ELLE Japan》10月刊特别版发行",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊🦦 斯凯奇马来西亚门店开幕活动",
         "type": "collab",
         "members": [
@@ -15319,5 +15430,5 @@
     "model": "gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-25T09:24:36.847Z"
+  "updatedAt": "2026-07-25T09:26:26.013Z"
 }
