@@ -1133,6 +1133,24 @@
     ],
     "2026-07-25": [
       {
+        "title": "🐰 MIIM更新 [独家] SEVENTEEN净汉的水果花茶制作ASMR EP.3",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 dy日常更新",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 DXS [SERENADE] ON STAGE - 高雄",
         "type": "concert",
         "members": [
@@ -1141,6 +1159,24 @@
         ],
         "time": "",
         "note": "高雄 KAOHSIUNG ARENA"
+      },
+      {
+        "title": "⚔️ Baseline更新",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新 #MicheoMicheo挑战",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-04-21": [
@@ -15280,8 +15316,8 @@
   "apiCfg": {
     "url": "https://xn--vduyey89e.com/v1",
     "key": "sk-2SJuCLpWRsyrxsfa5Q3Udh6OxwMR3KJTUXtOX2NuEct2Yaeu",
-    "model": "[个人次cli]gemini-3.1-flash-lite",
+    "model": "gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-22T02:18:57.933Z"
+  "updatedAt": "2026-07-25T09:01:54.317Z"
 }
