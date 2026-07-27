@@ -15476,7 +15476,7 @@
         "note": ""
       },
       {
-        "title": "🦦 dip_magazine更新 POV: SEVENTEEN忙内+副角Picheolin出道 忙到疯了疯了的Dino",
+        "title": "🦦 dip_magazine更新 「POV: SEVENTEEN忙内+副角Picheolin出道 忙到疯了疯了的Dino」",
         "type": "magazine",
         "members": [
           "dino"
@@ -15865,5 +15865,5 @@
     "model": "gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-27T10:18:47.186Z"
+  "updatedAt": "2026-07-27T10:20:17.800Z"
 }
