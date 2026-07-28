@@ -7334,6 +7334,15 @@
     ],
     "2026-07-26": [
       {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 [SERENADE] ON STAGE - 高雄",
         "type": "concert",
         "members": [
@@ -9787,6 +9796,15 @@
       {
         "title": "⚔️ brothersspace更新「Baseline品牌代言人SEVENTEEN DK巡店感受Brothers Space全新样貌」",
         "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩余的恋爱》节目预告",
+        "type": "other",
         "members": [
           "dk"
         ],
@@ -13859,8 +13877,8 @@
         "members": [
           "dino"
         ],
-        "time": "",
-        "note": "一山 KINTEX"
+        "time": "19:00",
+        "note": ""
       }
     ],
     "2026-08-14": [
@@ -13887,7 +13905,7 @@
     "2026-07-27": [
       {
         "title": "🍒🐶 NÜTRL官宣",
-        "type": "other",
+        "type": "brand",
         "members": [
           "scoups",
           "mingyu"
@@ -13896,10 +13914,267 @@
         "note": ""
       },
       {
+        "title": "🍒🐶 Nutrl更新「ARE Ü READY?」",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 Nutrl更新《For Ü》Official MV",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 Nutrl更新 15S版本广告片",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 Nutrl更新海报",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS STORY更新「给我们哥拍男友照💕」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Numero TOKYO更新 来自JOSHUA的寄语💌",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 Cerwin陈琢更新《捕风追影》剧照",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #44",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版更新 创刊派对回顾",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 QQ音乐更新 泰嗨巅峰音乐节阵容官宣",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ brothers space台北首间品牌形象店开幕活动",
         "type": "collab",
         "members": [
           "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 中国台湾→韩国",
+        "type": "airport",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「道兼胜宽Serenade演唱会全部落幕了呢 真心感谢所有陪我们走到这里的克拉们」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 转发Picheolin Album Spotlight「Picheolin dingo Live ٩(´ᗜ`)و」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY更新📸",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Brothers Space更新 问候",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY更新「请多多收听Stay with me🤍」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩余的恋爱》节目预告",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🐻‍❄️ 履行兵役义务相关公告",
+        "type": "official",
+        "members": [
+          "dk",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「@李东海 哥🥰」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 中国台湾→韩国",
+        "type": "airport",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 宣美更新 Forever July Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#MicheoMicheo 😵 💫 大概是为Picheolin发了疯—̳͟͞͞♥」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 [INSIDE SEVENTEEN]《Beyond the Dream（Dream To You OST）》录音幕后花絮",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 宣美更新 Forever July Challenge",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Dingo更新 问候",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S Dino] #Dingo Music",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 转发Picheolin Album Spotlight「爱的眼神🧡💙」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》举办通知",
+        "type": "official",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -15630,6 +15905,17 @@
     ],
     "2026-08-02": [
       {
+        "title": "🐰⚔️🍊 《星期日的初耳学》播出",
+        "type": "variety",
+        "members": [
+          "jeonghan",
+          "dk",
+          "seungkwan"
+        ],
+        "time": "21:15",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album 主打TITLE TRACK 官方预告2",
         "type": "official",
         "members": [
@@ -15641,35 +15927,24 @@
     ],
     "2026-08-21": [
       {
-        "title": "🦦 DINO X PICHEOLIN Fan Con",
+        "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》Fan Con",
         "type": "concert",
         "members": [
           "dino"
         ],
-        "time": "",
+        "time": "19:00",
         "note": ""
       }
     ],
     "2026-08-22": [
       {
-        "title": "🦦 DINO X PICHEOLIN Fan Con",
+        "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》Fan Con",
         "type": "concert",
         "members": [
           "dino"
         ],
-        "time": "",
-        "note": ""
-      }
-    ],
-    "2026-08-23": [
-      {
-        "title": "🦦 DINO X PICHEOLIN Fan Con",
-        "type": "concert",
-        "members": [
-          "dino"
-        ],
-        "time": "",
-        "note": ""
+        "time": "18:00",
+        "note": "蚕室室内体育馆（+线上直播）"
       }
     ],
     "2026-07-16": [
@@ -15846,9 +16121,12 @@
         "note": ""
       },
       {
-        "title": "《STAN: A》特别篇",
+        "title": "🐸🐻‍❄️ 《STAN: A》特别篇",
         "type": "variety",
-        "members": [],
+        "members": [
+          "the8",
+          "vernon"
+        ],
         "time": "18:00",
         "note": ""
       }
@@ -15905,6 +16183,17 @@
         "time": "19:00",
         "note": "韩国首尔"
       }
+    ],
+    "2026-08-23": [
+      {
+        "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》Fan Con",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -15929,5 +16218,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-28T09:58:19.633Z"
+  "updatedAt": "2026-07-28T10:58:13.360Z"
 }
