@@ -9737,6 +9737,70 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦌 Numéro TOKYO更新「Numéro TOKYO × JOSHUA × CHAUMET」",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 《Numéro TOKYO》9月刊画报采访&一问一答",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ WVS更新 [17ehind] 2026 VERNON THE 8 [V8] LIVE Behind Photo",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Dazed中文版更新「戴上耳机 接管控制台」",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ SBS更新《我剩余的恋爱》节目海报",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ brothersspace更新「Baseline品牌代言人SEVENTEEN DK巡店感受Brothers Space全新样貌」",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 直播",
+        "type": "vlive",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-06-02": [
@@ -15865,5 +15929,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-28T09:33:18.836Z"
+  "updatedAt": "2026-07-28T09:58:19.633Z"
 }
