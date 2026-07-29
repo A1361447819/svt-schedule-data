@@ -16380,6 +16380,50 @@
         "time": "",
         "note": "湖州·长兴太湖9号公路·星聚场"
       }
+    ],
+    "2026-08-20": [
+      {
+        "title": "🐻‍❄️ 开始履行兵役义务（替代役）",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-09-08": [
+      {
+        "title": "⚔️ 陆军现役入伍",
+        "type": "other",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2028-03-07": [
+      {
+        "title": "⚔️ 退伍",
+        "type": "other",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2028-05-19": [
+      {
+        "title": "🐻‍❄️ 退伍",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -16404,5 +16448,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:43:52.967Z"
+  "updatedAt": "2026-07-29T03:45:33.921Z"
 }
