@@ -16357,6 +16357,15 @@
         ],
         "time": "19:00",
         "note": "韩国首尔"
+      },
+      {
+        "title": "🦦 《家大声》播出",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-23": [
@@ -16379,6 +16388,15 @@
         ],
         "time": "",
         "note": "湖州·长兴太湖9号公路·星聚场"
+      },
+      {
+        "title": "🦦 《MADLY MEDLEY 2026》音乐节",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "首尔文化储备基地"
       }
     ],
     "2026-08-20": [
@@ -16448,5 +16466,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:46:01.362Z"
+  "updatedAt": "2026-07-29T03:48:12.523Z"
 }
