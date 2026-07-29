@@ -16107,6 +16107,13 @@
         "note": ""
       },
       {
+        "title": "[GOING SEVENTEEN] EP.152 No Rules #1",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "[GGOYO-ILER] EP.152 珉奎&道兼同盟❓",
         "type": "official",
         "members": [],
@@ -16540,5 +16547,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:52:36.380Z"
+  "updatedAt": "2026-07-29T03:54:14.787Z"
 }
