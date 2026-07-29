@@ -9914,6 +9914,15 @@
     ],
     "2026-07-28": [
       {
+        "title": "🍒 WVS更新「想太多的时候就直接开跑~~~」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 《Numéro TOKYO》9月刊封面",
         "type": "magazine",
         "members": [
@@ -9978,8 +9987,17 @@
         "note": ""
       },
       {
-        "title": "⚔️ 《我剩余的恋爱》节目预告",
-        "type": "other",
+        "title": "⚔️ Brothers Space更新 「Baseline Private Preview品牌预览活动」",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ SBS更新《我剩余的恋爱》节目海报",
+        "type": "official",
         "members": [
           "dk"
         ],
@@ -9991,6 +10009,42 @@
         "type": "vlive",
         "members": [
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 宣美更新 Forever July Challenge",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新 📷",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#MicheoMicheo 😵 💫 大概是为Picheolin发了疯—̳͟͞͞♥」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#Picheolin 一起 玩吧 玩吧」",
+        "type": "tiktok",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -16442,6 +16496,26 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-07-29": [
+      {
+        "title": "⚔️ WVS更新「克拉们 Good morning″̮ 今天一天也要开心度过哦🩵🩷」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「#吉BOARD」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -16466,5 +16540,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:48:12.523Z"
+  "updatedAt": "2026-07-29T03:52:36.380Z"
 }
