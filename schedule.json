@@ -16369,6 +16369,17 @@
         "time": "17:00",
         "note": ""
       }
+    ],
+    "2026-09-06": [
+      {
+        "title": "🐸 2026泰嗨巅峰音乐节",
+        "type": "concert",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": "湖州·长兴太湖9号公路·星聚场"
+      }
     ]
   },
   "customTypes": {},
@@ -16393,5 +16404,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:42:01.519Z"
+  "updatedAt": "2026-07-29T03:43:52.967Z"
 }
