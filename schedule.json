@@ -16506,6 +16506,61 @@
     ],
     "2026-07-29": [
       {
+        "title": "🐰🦌 直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「克拉们 天气这么热 都过得好吗?! ㅠ 」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 官推更新[17'S JUN] 🌙💡 ​​​",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 微博更新「🌙💡」",
+        "type": "weibo",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新「借着国际老虎日 来自老虎的🐯虎浪嘿~🫶🏻🧡」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM]《你曾是我的世界》（原曲：脸红的思春期）",
+        "type": "release",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ WVS更新「克拉们 Good morning″̮ 今天一天也要开心度过哦🩵🩷」",
         "type": "wvs",
         "members": [
@@ -16515,8 +16570,162 @@
         "note": ""
       },
       {
+        "title": "⚔️ Brothers Space更新",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ VOGUE TAIWAN更新采访",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ ELLE TAIWAN更新采访",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ GQ TAIWAN更新采访",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Marie Claire TAIWAN更新采访",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 fromis_9更新 应援咖啡车Behind",
+        "type": "other",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 TikTok更新「singasong with YENA」",
+        "type": "tiktok",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": "YENA"
+      },
+      {
         "title": "🦦 INS更新「#吉BOARD」",
         "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP.153 获得勺子的悄无声息的强者❓",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GOING SEVENTEEN] EP.152 No Rules #2",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]干什么都「行」 这里是GOING SEVENTEEN No Rules 🥄 ​​​",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-07-30": [
+      {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 RealBarrier更新",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 UNOVE更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新 新系列公开",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Sofia更新",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「set me free 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-30": [
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》上海线下签名会",
+        "type": "fan",
         "members": [
           "dino"
         ],
@@ -16547,5 +16756,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-29T03:54:14.787Z"
+  "updatedAt": "2026-07-30T09:16:07.839Z"
 }
