@@ -16624,14 +16624,13 @@
         "note": ""
       },
       {
-        "title": "🐻‍❄️🐸 TikTok更新「singasong with YENA」",
+        "title": "🐻‍❄️ TikTok更新「singasong with YENA」",
         "type": "tiktok",
         "members": [
-          "vernon",
-          "the8"
+          "vernon"
         ],
         "time": "",
-        "note": "YENA"
+        "note": ""
       },
       {
         "title": "🦦 INS更新「#吉BOARD」",
@@ -16756,5 +16755,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-07-30T09:16:07.839Z"
+  "updatedAt": "2026-07-30T09:16:28.008Z"
 }
