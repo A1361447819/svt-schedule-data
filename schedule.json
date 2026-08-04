@@ -16427,6 +16427,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 《猜猜看Kany》",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "19:00",
+        "note": ""
       }
     ],
     "2026-08-23": [
@@ -16665,6 +16674,16 @@
     ],
     "2026-07-30": [
       {
+        "title": "🍒🐶 [INSIDE SEVENTEEN] CXM AsiaTop Music Festival幕后花絮",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰 芭妮兰更新",
         "type": "brand",
         "members": [
@@ -16678,6 +16697,53 @@
         "type": "brand",
         "members": [
           "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 夜乐园更新 「听见徐明浩VERNON的更多可能」",
+        "type": "other",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新 📷",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博更新 📷",
+        "type": "weibo",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新 📷",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 : Archive #Challenge Special",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -16712,11 +16778,54 @@
         "note": ""
       },
       {
+        "title": "🐻‍❄️ YENA更新「Catch my heart with SEVENTEEN Vernon」",
+        "type": "tiktok",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": "YENA账号更新"
+      },
+      {
         "title": "🦦 TikTok更新「set me free 😎」",
         "type": "tiktok",
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《M Countdown》打歌预告",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《猜猜看Kany》节目预告",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok「玩起来吧😉」",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "TikTok更新「和哥哥们一起玩吧玩吧#PartyRockRock」",
+        "type": "tiktok",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -16761,5 +16870,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-08-03T10:30:28.766Z"
+  "updatedAt": "2026-08-04T02:28:51.908Z"
 }
