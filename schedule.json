@@ -16357,6 +16357,24 @@
         "note": ""
       },
       {
+        "title": "🐰 MIIM更新「净汉啊 你就是我的夏天🍉🌊」",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「哇 Dino在练习呢ㅎㅎㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸🐻‍❄️ 《STAN: A》特别篇",
         "type": "variety",
         "members": [
@@ -16364,6 +16382,182 @@
           "vernon"
         ],
         "time": "18:00",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 bilibili更新 V8 : Friends & BEATs in BEIJING",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶🐸 《虽没菜》未公开片段",
+        "type": "variety",
+        "members": [
+          "mingyu",
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 DIOR新世界百货精品店开幕仪式",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 WVS更新 [17ehind] DxS《SERENADE》Behind Photo",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩余的恋爱》发布会",
+        "type": "collab",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Brothers Space更新",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ SBS更新「MC的一天都是怎么过的呢?⏳道兼的24小时记录💕」",
+        "type": "other",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 유재필更新📸",
+        "type": "other",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「🏃🏻‍♂️」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 官方INS更新「until the next gear…」",
+        "type": "official",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 官推更新 [#17_background] V8",
+        "type": "official",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🐸 Memories of V8📺📔🎧",
+        "type": "official",
+        "members": [
+          "vernon",
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#MicheoMicheo 😵 💫 大概是为TWS申惟 炅潣发了疯—̳͟͞͞♥」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD（Gilboard）》COUNTDOWN LIVE通知",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 hybe_merch更新 [2026 DINO×PICHEOLIN 吉BOARD SHOW]周边",
+        "type": "brand",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《音乐银行》打歌预告",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MADLY MEDLEY更新 音乐节海报",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS回复净汉「这是什么时候拍的呀呀呀ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -16870,5 +17064,5 @@
     "model": "[反重力次]gemini-3.1-flash-lite",
     "weiboProxy": "https://svt-weibo-proxy.tingz1295.workers.dev"
   },
-  "updatedAt": "2026-08-04T02:28:51.908Z"
+  "updatedAt": "2026-08-04T02:42:37.744Z"
 }
