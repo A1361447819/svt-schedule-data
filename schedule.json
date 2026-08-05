@@ -16637,6 +16637,15 @@
     ],
     "2026-08-02": [
       {
+        "title": "🍒 INS更新「nutrl.official 💛」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰⚔️🍊 《星期日的初耳学》播出",
         "type": "variety",
         "members": [
@@ -16648,12 +16657,110 @@
         "note": ""
       },
       {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 日推更新 #日曜日の初耳学",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 中国电影报道更新",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 抖音更新「😋📺🎧#V8 逛吃北京」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新📸",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS评论胜宽「好口耐」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Brothers Space更新",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 直播",
+        "type": "vlive",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album 主打TITLE TRACK 官方预告2",
         "type": "official",
         "members": [
           "dino"
         ],
         "time": "21:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和#Picheolin一起玩吧玩吧 #PartyRockRock😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "团体直播",
+        "type": "vlive",
+        "members": [],
+        "time": "",
         "note": ""
       }
     ],
@@ -17558,5 +17665,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-05T04:29:46.653Z"
+  "updatedAt": "2026-08-05T04:32:06.441Z"
 }
