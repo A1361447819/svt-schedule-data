@@ -17657,6 +17657,68 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-08-05": [
+      {
+        "title": "🍒🐶 NÜTRL更新📷",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 SEVENTEEN DxS《One - Spotify Singles》音源发行公告",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS更新「💙Skechers Hotshot Collaboration 🐶🍕⚾️ - Drawn by DK」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Spotify更新 T1 STARS出道企划",
+        "type": "media",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 TVING更新《大逃脱》2026年下半年回归预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-10": [
+      {
+        "title": "⚔️🍊 SEVENTEEN DxS《One - Spotify Singles》正式发行",
+        "type": "musicrelease",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -17665,5 +17727,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-05T04:32:06.441Z"
+  "updatedAt": "2026-08-05T04:36:36.038Z"
 }
