@@ -17242,6 +17242,33 @@
         ],
         "time": "19:00",
         "note": ""
+      },
+      {
+        "title": "🦦 KBS2音乐银行《Party Rock Rock》预录",
+        "type": "shoot",
+        "members": [
+          "dino"
+        ],
+        "time": "11:05",
+        "note": "参与人数：300人"
+      },
+      {
+        "title": "🦦 KBS2音乐银行《Party Rock Rock》播出",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "16:15",
+        "note": ""
+      },
+      {
+        "title": "🦦 《Self-On KODE》",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "17:30",
+        "note": ""
       }
     ],
     "2026-08-23": [
@@ -17861,6 +17888,24 @@
         "note": ""
       },
       {
+        "title": "🍒 WVS更新「今天也跑完步了 哇…确实热啊」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 「巨星薯」更新 知秀回答",
+        "type": "media",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🍊 SEVENTEEN DxS《One - Spotify Singles》音源发行公告",
         "type": "official",
         "members": [
@@ -17890,10 +17935,47 @@
         "note": ""
       },
       {
+        "title": "⚔️ 回复胜宽「不愧是夫演员👏」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 TVING更新《大逃脱》2026年下半年回归预告",
         "type": "variety",
         "members": [
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 评论《Party Rock Rock》Challenge「参考了饰演奶奶的金信英前辈的演技」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新「Skechers Hotshot Collab ✨ ft. my doodles🍊☕️🏐」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🦦 RESCENE更新 Pretty Girl、singasong、Party Rock Rock Challenge幕后📸",
+        "type": "tiktok",
+        "members": [
+          "vernon",
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -17906,6 +17988,120 @@
         ],
         "time": "23:00",
         "note": "参与人数：210人"
+      },
+      {
+        "title": "🦦 Cosmopolitan Indonesia幕后采访「SEVENTEEN DINO通过Picheolin与首张迷你专辑《吉BOARD（Gilboard）》拓展音乐版图」",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和YEONJUN一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和RESCENE LIV、MAY一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》KBS2音乐银行预录通知",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦🍊 TikTok更新「和胜宽一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《Self-On KODE》出演预告",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「POV：听着《Party Rock Rock》等地铁的我」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Mnet Plus更新 MCD待机室直播出演预告",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《职场Beautyfool》「鸡飞狗跳的职场共鸣 公司聚餐时的那些事」",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S Dino] 260805 #职场beautyfool",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「Can you guess what I drew? ✨ Skechers Hotshot Collab collection」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP.154 拍摄中紧紧拥抱彼此的原因是?🐸🦦",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]「信任与背叛之间 这场尔虞我诈的选择游戏 结局将会如何？」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-10": [
@@ -17921,6 +18117,15 @@
       }
     ],
     "2026-08-06": [
+      {
+        "title": "🐰 芭妮兰更新「BANILA CO with JEONGHAN」",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
       {
         "title": "🦦 Mnet M Countdown《没有不痛苦的离别》预录",
         "type": "shoot",
@@ -17947,6 +18152,24 @@
         ],
         "time": "17:00",
         "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「真心感谢大家来应援ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD待机室直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "14:33",
+        "note": ""
       }
     ]
   },
@@ -17956,5 +18179,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-05T04:47:18.317Z"
+  "updatedAt": "2026-08-06T03:41:58.535Z"
 }
