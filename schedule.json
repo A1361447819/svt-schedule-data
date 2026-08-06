@@ -18169,6 +18169,15 @@
         "time": "14:33",
         "note": ""
       }
+    ],
+    "2026-08-11": [
+      {
+        "title": "test",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -18177,5 +18186,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-06T08:40:39.725Z"
+  "updatedAt": "2026-08-06T08:51:38.612Z"
 }
