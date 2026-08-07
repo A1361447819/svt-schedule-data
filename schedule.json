@@ -3478,6 +3478,24 @@
         ],
         "time": "",
         "note": "생일 축하해요!"
+      },
+      {
+        "title": "🦦 MBC Show! 音乐中心《Party Rock Rock》预录",
+        "type": "shoot",
+        "members": [
+          "dino"
+        ],
+        "time": "03:00",
+        "note": "参与人数：400人"
+      },
+      {
+        "title": "🦦 MBC Show! 音乐中心《Party Rock Rock》播出",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "14:15",
+        "note": ""
       }
     ],
     "2026-10-04": [
@@ -17215,6 +17233,34 @@
     ],
     "2026-08-07": [
       {
+        "title": "🐰⚔️ 日本→韩国",
+        "type": "airport",
+        "members": [
+          "jeonghan",
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「晚安哦!! 今天太热了ㅎ我稍微睡会儿起来后就要去跑行程啦」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS评论Dino「脆骨」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album《吉BOARD（Gilboard）》韩国首尔MUSICPLANT签售会",
         "type": "collab",
         "members": [
@@ -17260,12 +17306,21 @@
         "note": ""
       },
       {
-        "title": "🦦 《Self-On KODE》",
+        "title": "🦦 《Self-On KODE》播出",
         "type": "variety",
         "members": [
           "dino"
         ],
         "time": "17:30",
+        "note": ""
+      },
+      {
+        "title": "🦦 KBS上班",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -18125,6 +18180,72 @@
         "note": ""
       },
       {
+        "title": "🦌 [INSIDE SEVENTEEN]《耳朵（Ear）》翻唱曲录音幕后花絮",
+        "type": "official",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 INS更新「葫芦啊葫芦 你是几娃啊？（🌶️🫑友情出演）」",
+        "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 微博更新「葫芦啊葫芦 你是几娃啊？（🌶️🫑友情出演）」",
+        "type": "weibo",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「SvT 8月定期聚会 十个蜘蛛侠...ㅎ 想念Woozi Hoshi Jun❤️ 天气这么热ㅠ要健康呀」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶🦦 Bumzu更新",
+        "type": "other",
+        "members": [
+          "mingyu",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🦦 TikTok更新「和DK、CHOI YOUNG JUN一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️🦦 TikTok更新「和VERNON一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "vernon",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Mnet M Countdown《没有不痛苦的离别》预录",
         "type": "shoot",
         "members": [
@@ -18168,6 +18289,123 @@
         ],
         "time": "14:33",
         "note": ""
+      },
+      {
+        "title": "🦦 《猜猜看Kany》更新「[凶手就在我们中间] 最近又吵架了吗？」",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《猜猜看Kany》更新「[概率为 1/12]选择Dino最喜欢的哥哥！」",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「爱的眼神✨」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD更新「#入坑直拍 封面投票OPEN」",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和ILLIT WONHEE一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S] 260806 #MCD",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD采访📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 findyourKODE更新 下期预告",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD更新 #待机室直播花絮照",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD更新 打歌舞台自拍📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和#Picheolin一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》MBC Show! 音乐中心预录通知",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 fastpapermag更新 2026 SBS歌谣大战SUMMER幕后照片📸",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ]
   },
@@ -18177,5 +18415,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-06T09:18:37.391Z"
+  "updatedAt": "2026-08-07T01:48:14.977Z"
 }
