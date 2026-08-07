@@ -18283,7 +18283,7 @@
       },
       {
         "title": "🦦 MCD待机室直播",
-        "type": "vlive",
+        "type": "other",
         "members": [
           "dino"
         ],
@@ -18415,5 +18415,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-07T01:48:14.977Z"
+  "updatedAt": "2026-08-07T01:55:58.385Z"
 }
