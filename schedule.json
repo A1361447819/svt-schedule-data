@@ -3480,6 +3480,78 @@
         "note": "생일 축하해요!"
       },
       {
+        "title": "🍒 官推更新 20260808 Happy S.COUPS’s Day🍒",
+        "type": "birthday",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「哒嘟生日快乐!! 我要当第一名呀!!」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 WVS更新「CoupCoupCoupCoup~~~🎵Coups哥生日快乐!!!!!!😆👏🎂」",
+        "type": "wvs",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新「Coup哒Coups~ 生日快乐🎂🎉」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「队长生日快乐~~~~~🍒🍒🍒🥰」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「SEVENTEEN队长 CXM忙内 生日快乐 ㅎㅎㅎㅎ❤️」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「我们队长Coup哥生日快乐😏🤍」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「CoupalaCoup屁屁生日快乐呀ㅎㅎ♡」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 MBC Show! 音乐中心《Party Rock Rock》预录",
         "type": "shoot",
         "members": [
@@ -3495,6 +3567,15 @@
           "dino"
         ],
         "time": "14:15",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「Coups哥哥哥哥 生日快乐呀呀呀🥳🥳 怀着祝福哥生日的心意 准备去录制《Party Rock Rock》了🫠🫶🏻」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -18586,5 +18667,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-09T05:33:15.167Z"
+  "updatedAt": "2026-08-09T05:41:32.601Z"
 }
