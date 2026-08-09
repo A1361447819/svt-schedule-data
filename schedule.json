@@ -18558,24 +18558,6 @@
     ],
     "2026-08-10": [
       {
-        "title": "🐱 北京第38届大众电影百花奖 红毯入场",
-        "type": "collab",
-        "members": [
-          "jun"
-        ],
-        "time": "17:00",
-        "note": ""
-      },
-      {
-        "title": "🐱 北京第38届大众电影百花奖 颁奖典礼及闭幕式",
-        "type": "collab",
-        "members": [
-          "jun"
-        ],
-        "time": "19:30",
-        "note": ""
-      },
-      {
         "title": "⚔️🍊 SEVENTEEN DxS《One - Spotify Singles》正式发行",
         "type": "musicrelease",
         "members": [
@@ -18841,5 +18823,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-09T05:58:14.985Z"
+  "updatedAt": "2026-08-09T10:03:33.349Z"
 }
