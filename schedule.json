@@ -17233,10 +17233,64 @@
     ],
     "2026-08-07": [
       {
+        "title": "🍒 NÜTRL更新「Behind the Scenes with S.COUPS 💛」",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「蒸完桑拿后 正在喝Nutrl… 大家明天见哦❤️」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰⚔️ 日本→韩国",
         "type": "airport",
         "members": [
           "jeonghan",
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新「我权顺荣 是对待外出比任何人都更真心的男人」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博自动回复更新「欢迎一个新的秋天」",
+        "type": "weibo",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 NÜTRL更新「Behind the Scenes with MINGYU 💛」",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Brothers Space更新「Baseline Behind The Scenes」",
+        "type": "brand",
+        "members": [
           "dk"
         ],
         "time": "",
@@ -17256,6 +17310,15 @@
         "type": "wvs",
         "members": [
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ MARITHÉ FRANÇOIS GIRBAUD新大使公开预告",
+        "type": "brand",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -17297,7 +17360,7 @@
         "note": "参与人数：300人"
       },
       {
-        "title": "🦦 KBS2音乐银行《Party Rock Rock》播出",
+        "title": "🦦 KBS2音乐银行《Party Rock Rock》《真的（prod. 李贤道 of DEUX）》播出",
         "type": "musicshow",
         "members": [
           "dino"
@@ -17315,8 +17378,107 @@
         "note": ""
       },
       {
-        "title": "🦦 KBS上班",
-        "type": "other",
+        "title": "🦦 WVS更新「克拉们 今天专门来音乐银行录制现场给我应援 真的太感谢了ㅠㅠ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TWS更新「SODASODA with SEVENTEEN DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S Dino] 260807 家大声",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S] 260807 音乐银行",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S Dino] 260807 #self-on kode",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和NEXZ TOMOYA一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S Dino] 260807 #猜猜看Kany",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和Kany一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和DAESUNG一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和BOYNEXTDOOR JAEHYUN、RIWOO一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 日本放送 K-TRACKS留言",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD更新 Ending Fairy Collection🧚",
+        "type": "musicshow",
         "members": [
           "dino"
         ],
@@ -18167,6 +18329,15 @@
         ],
         "time": "17:00",
         "note": ""
+      },
+      {
+        "title": "🐻‍❄️ MARITHÉ FRANÇOIS GIRBAUD新大使正式公开",
+        "type": "brand",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-06": [
@@ -18415,5 +18586,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-07T01:56:44.043Z"
+  "updatedAt": "2026-08-09T05:33:15.167Z"
 }
