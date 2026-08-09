@@ -3489,10 +3489,75 @@
         "note": ""
       },
       {
+        "title": "🍒 WVS更新「哇 生日广告好多呀……谢谢大家啦」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 生日直播",
+        "type": "vlive",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 官推更新 [17’S Coups]「一直和我一起庆祝生日吧❤️」",
+        "type": "official",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新 [FOR CARAT] HAPPY BIRTHDAY S.COUPS 🍒💎",
+        "type": "official",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 napolimatfia更新「感觉自己好像成了SEVENTEEN(?)」",
+        "type": "other",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰 WVS更新「哒嘟生日快乐!! 我要当第一名呀!!」",
         "type": "wvs",
         "members": [
           "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 芭妮兰更新🫧",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌🦦 TikTok更新「#MicheoMicheo 😵‍💫 大概是为净汉 & JOSHUA发了疯—̳͟͞͞♥」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan",
+          "joshua",
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -3534,6 +3599,25 @@
         "note": ""
       },
       {
+        "title": "🐶 INS STORY更新「Happy Birthday」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶🦦 TikTok更新「和珉奎一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "mingyu",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ WVS更新「我们队长Coup哥生日快乐😏🤍」",
         "type": "wvs",
         "members": [
@@ -3561,7 +3645,7 @@
         "note": "参与人数：400人"
       },
       {
-        "title": "🦦 MBC Show! 音乐中心《Party Rock Rock》播出",
+        "title": "🦦 MBC Show! 音乐中心《疯了疯了》《Party Rock Rock》播出",
         "type": "musicshow",
         "members": [
           "dino"
@@ -3572,6 +3656,69 @@
       {
         "title": "🦦 WVS更新「Coups哥哥哥哥 生日快乐呀呀呀🥳🥳 怀着祝福哥生日的心意 准备去录制《Party Rock Rock》了🫠🫶🏻」",
         "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 SEVENTEEN更新 回归问候",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 CLASH幕后采访「SEVENTEEN DINO：从Picheolin中获得的人生启示」",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S] 260808 音乐中心",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们看了音乐中心舞台了吗~~??ㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和#DINO父母一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 findyourKODE更新📸",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和LE SSERAFIM SAKURA、HONG EUNCHAE一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
         "members": [
           "dino"
         ],
@@ -18667,5 +18814,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-09T05:41:32.601Z"
+  "updatedAt": "2026-08-09T05:53:49.563Z"
 }
