@@ -17702,12 +17702,84 @@
     ],
     "2026-08-13": [
       {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 UNESCO更新「永不言弃 勇于行动」",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 EVE LOM伊芙珑更新「开启品牌大使的七夕柔光臻礼🎁」",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ 《文明特快》播出",
         "type": "variety",
         "members": [
           "dk"
         ],
         "time": "17:00",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS更新「☘️」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ VISLA FM/han.jungin更新「mia never stop」",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ VISLA FM直播",
+        "type": "vlive",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 官推更新 [17'S Vernon] 260813 #VISLAFM",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「聊天用错emoji时」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -19204,5 +19276,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-10T08:41:48.163Z"
+  "updatedAt": "2026-08-13T07:39:00.199Z"
 }
