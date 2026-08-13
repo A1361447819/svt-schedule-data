@@ -18891,6 +18891,15 @@
         "note": ""
       },
       {
+        "title": "🐰 曼城足球俱乐部更新「When 47 met SEVENTEEN 🎤🎶」",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 XCSS更新 #第38届大众电影百花奖🎞",
         "type": "official",
         "members": [
@@ -18909,10 +18918,38 @@
         "note": ""
       },
       {
+        "title": "🐱 宝诗龙更新 文俊辉佩戴宝诗龙珠宝出席第38届大众电影百花奖提名者表彰仪式",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #46",
         "type": "official",
         "members": [
           "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典出演公告",
+        "type": "official",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
         ],
         "time": "",
         "note": ""
@@ -18940,6 +18977,42 @@
       },
       {
         "title": "⚔️ 《我剩下的恋爱》第2集预告📸",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 官推更新 [17'S DK] 260810《我剩下的恋爱》",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「克拉们ෆ⸒⸒ 道胜《One》出来了🤍 大家都去听听看吧❛˓◞˂̵」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ MMTG更新《我剩下的恋爱》节目组做客《文明特快》预告",
         "type": "variety",
         "members": [
           "dk"
@@ -18977,6 +19050,42 @@
       {
         "title": "🦦 WVS回复胜宽「I love uu🫶🏻」",
         "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和Stray Kids Lee Know一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和RAIN一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新 Picheolin《吉BOARD》Photo Dump",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和Ahn SoHee一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
         "members": [
           "dino"
         ],
@@ -19601,6 +19710,18 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-10-01": [
+      {
+        "title": "🐯🍚 忠南2026地上军庆典",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "",
+        "note": "10月1日-10月5日；鸡龙台跑道；陆军表演队高品质原创音乐剧、开幕式限定特别公演"
+      }
     ]
   },
   "customTypes": {},
@@ -19609,5 +19730,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-13T07:51:07.617Z"
+  "updatedAt": "2026-08-13T07:55:55.317Z"
 }
