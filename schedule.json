@@ -19722,6 +19722,110 @@
         "time": "",
         "note": "10月1日-10月5日；鸡龙台跑道；陆军表演队高品质原创音乐剧、开幕式限定特别公演"
       }
+    ],
+    "2026-08-17": [
+      {
+        "title": "🍒 Ongredients更新「GUESS WHO? New Ambassador」",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 小红书更新「净汉来啦~ 今后在小红书多多见面吧!! 哈尼嘿~💕」",
+        "type": "xhs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #47",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 TikTok更新「T1 Home Ground✨」",
+        "type": "tiktok",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Brothers Space更新「一份来自DK日常的快乐：从零开始的手绘联名系列🎨」",
+        "type": "brand",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新「Skechers move with you. Just Slip-In 💙」",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩下的恋爱》EP.3预告🩵",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS更新「#广告」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S Dino] 260817 #AnyQuestions",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Billboard《Any Questions》",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「今天有想告诉大家的事ㅎㅎ <PicheolinXDino 吉BOARD SHOW Dress Code>」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -19730,5 +19834,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-13T07:55:55.317Z"
+  "updatedAt": "2026-08-17T09:46:21.274Z"
 }
