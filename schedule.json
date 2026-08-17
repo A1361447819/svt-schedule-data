@@ -15608,6 +15608,70 @@
     ],
     "2026-08-16": [
       {
+        "title": "🐰 开通小红书",
+        "type": "xhs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 芭妮兰更新",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 评论拿铁「胖墩墩拿铁🤎ㅋㅋㅋㅋㅋㅋ」",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新「这是什么呀ㅋㅋㅋㅋ 谢谢我的弟弟们♥️ 以后开演唱会的话 一定要真来一次」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Spotify Korea更新 #T1HomeGround",
+        "type": "media",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY更新「永晛哥 谢谢你带来这么精彩的演出٩('ᗜ')و 无比闪耀的瞬间!″̮ 这首歌真好听呢🤍」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ The Hollywood Reporter更新",
+        "type": "media",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album《吉BOARD》发售纪念SPECIAL FAN PARTY",
         "type": "collab",
         "members": [
@@ -15615,6 +15679,69 @@
         ],
         "time": "17:00",
         "note": "Cube Convention Center（首尔市麻浦区上岩山路34，3楼）"
+      },
+      {
+        "title": "🦦 TikTok更新「和CARAT们一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS评论「克拉们 灿浪嘿😉💕」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「Coups哥 爱你哟🫶🏻」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 10cm_official_kr更新📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们 今天的Fan Party太太太太太好玩了 也很令人感动🥹」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 10CM STUDIO更新《Crushed》",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「吉BOARD 2」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-23": [
@@ -17704,6 +17831,15 @@
       {
         "title": "🐰 芭妮兰更新",
         "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 PUZZLE SEVENTEEN更新「直播自拍特别装饰礼物💕」",
+        "type": "other",
         "members": [
           "jeonghan"
         ],
@@ -19834,5 +19970,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-17T09:46:21.274Z"
+  "updatedAt": "2026-08-17T09:51:39.356Z"
 }
