@@ -18636,8 +18636,8 @@
     ],
     "2026-08-20": [
       {
-        "title": "🐻‍❄️ 开始履行兵役义务（替代役）",
-        "type": "other",
+        "title": "🐻‍❄️ 未公开新曲正式发行",
+        "type": "musicrelease",
         "members": [
           "vernon"
         ],
@@ -18645,12 +18645,12 @@
         "note": ""
       },
       {
-        "title": "🐻‍❄️ 未公开新曲正式发行",
-        "type": "musicrelease",
+        "title": "🐻‍❄️ 陆军训练所入所",
+        "type": "other",
         "members": [
           "vernon"
         ],
-        "time": "",
+        "time": "13:00",
         "note": ""
       }
     ],
@@ -19915,6 +19915,15 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 陆军训练所结业式",
+        "type": "other",
+        "members": [
+          "vernon"
+        ],
+        "time": "09:00",
+        "note": ""
       }
     ],
     "2028-06-09": [
@@ -20856,5 +20865,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-19T09:18:52.291Z"
+  "updatedAt": "2026-08-20T07:01:43.791Z"
 }
