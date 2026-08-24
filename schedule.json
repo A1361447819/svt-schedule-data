@@ -17635,6 +17635,15 @@
     ],
     "2026-08-21": [
       {
+        "title": "⚔️ WVS更新「我们忙内宝的演唱会 真.的超级精彩」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》Fan Con",
         "type": "concert",
         "members": [
@@ -17655,6 +17664,24 @@
     ],
     "2026-08-22": [
       {
+        "title": "🐰 《ELLE Japan》10月刊特别版 两款封面视觉图公开✨",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「翻了翻最近的相册🎧好久不见 ><」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 DINO×PICHEOLIN《吉BOARD SHOW》Fan Con",
         "type": "concert",
         "members": [
@@ -17662,6 +17689,42 @@
         ],
         "time": "18:00",
         "note": "蚕室室内体育馆（+线上直播）"
+      },
+      {
+        "title": "🦦 TikTok更新「Please don't tell me, \"Wait\" 🎶💎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S]「在这一生所遇见的人当中 最璀璨闪耀的是克拉们💎」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「要平平安安地过来ㅎㅎ 这样我们才能开开心心地玩嘛ㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS评论硕珉「♥️♥️♥️」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-07-16": [
@@ -21094,5 +21157,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-24T02:05:32.967Z"
+  "updatedAt": "2026-08-24T02:12:54.964Z"
 }
