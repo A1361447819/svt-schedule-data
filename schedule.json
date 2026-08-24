@@ -18998,10 +18998,113 @@
     ],
     "2026-08-20": [
       {
-        "title": "🐻‍❄️ 未公开新曲正式发行",
-        "type": "musicrelease",
+        "title": "🍒🐰 [Dang9chillae5（要打台球吗）] EP.3「时隔2年看谁回来啦」",
+        "type": "official",
         "members": [
-          "vernon"
+          "scoups",
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐰 WVS更新《要打台球吗》EP.3 Photo Sketch📸",
+        "type": "official",
+        "members": [
+          "scoups",
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 INS更新「💛」",
+        "type": "ins",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 dailyfashion_news更新「How to make laugh S-COUPS」",
+        "type": "media",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 PUZZLE SEVENTEEN更新 直播幕后花絮照",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 [INSIDE SEVENTEEN] DxS《SERENADE》ON STAGE BEHIND #2",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS更新「@dazedkorea @cartier」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《Dazed Korea》九月刊封面🖤🤍",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「非常感谢今天来现场观赛的克拉们」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 《新人教练金软景》录制",
+        "type": "shoot",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「我现在要去跑Wonder Dogs现场录制行程了」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS评论Vernon「会做好的」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -19013,6 +19116,69 @@
           "vernon"
         ],
         "time": "13:00",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ GQ Korea更新 #GQBEHIND WITH VERNON",
+        "type": "magazine",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ 《I'll Be Back》正式发行",
+        "type": "musicrelease",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方INS STORY更新 DINO演唱会彩排",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 NEXZ更新「和#SEVENTEEN DINO前辈一起SAUCIN SAUCIN 🥫」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LoveSick by 10CM」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和可靠的安保team一起玩吧玩吧 #PartyRockRock」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「和#Picheolin一起玩吧玩吧 #PartyRockRock 😎」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -20683,6 +20849,15 @@
         "note": ""
       },
       {
+        "title": "🍊 INS STORY更新📷",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 TikTok更新「到这集合吧 哎哟真好😎🙌」",
         "type": "tiktok",
         "members": [
@@ -21276,5 +21451,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-24T02:18:10.015Z"
+  "updatedAt": "2026-08-24T02:24:57.713Z"
 }
