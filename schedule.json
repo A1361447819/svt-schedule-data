@@ -19747,15 +19747,6 @@
     ],
     "2026-08-05": [
       {
-        "title": "💎 [GOING SEVENTEEN] EP.154 Red Ball #1",
-        "type": "official",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🍒🐶 NÜTRL更新📷",
         "type": "brand",
         "members": [
@@ -19964,6 +19955,13 @@
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GOING SEVENTEEN] EP.154 Red Ball #1",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       },
@@ -20500,15 +20498,6 @@
     ],
     "2026-08-12": [
       {
-        "title": "💎 [GOING SEVENTEEN] EP.155 Red Ball #2",
-        "type": "official",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🦌 UNESCO更新「一个词就能讲述一个充满力量的故事。」",
         "type": "other",
         "members": [
@@ -20649,6 +20638,13 @@
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GOING SEVENTEEN] EP.155 Red Ball #2",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       },
@@ -20829,15 +20825,6 @@
       }
     ],
     "2026-08-19": [
-      {
-        "title": "💎 [GOING SEVENTEEN] EP.156 即兴抛梗 : 上流社会 #1",
-        "type": "official",
-        "members": [
-          "all"
-        ],
-        "time": "",
-        "note": ""
-      },
       {
         "title": "🍒🐶 NÜTRL特别观影派对",
         "type": "collab",
@@ -21070,6 +21057,13 @@
         "members": [
           "dino"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GOING SEVENTEEN] EP.156 即兴抛梗 : 上流社会 #1",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       },
@@ -21647,5 +21641,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-24T02:35:15.247Z"
+  "updatedAt": "2026-08-24T16:12:05.650Z"
 }
