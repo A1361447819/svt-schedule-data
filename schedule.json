@@ -17635,10 +17635,93 @@
     ],
     "2026-08-21": [
       {
+        "title": "🍒 Ongredients更新 全新代言人S.COUPS首张画报预告照🤫",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 ELLE KOREA采访",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 ELLE KOREA更新「THE SIREN'S CALL」",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 《ELLE KOREA》D Edition数字特别版封面",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 MIIM更新「[独家] 先不管别的 来看净汉跳的让人感到幸福的舞💗」",
+        "type": "media",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 GUCCI更新「Generation Gucci｜释放文俊辉的不羁腔调」",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS评论Dino「忙内宝加油❤️‍🔥 没能去很抱歉🥹」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ WVS更新「我们忙内宝的演唱会 真.的超级精彩」",
         "type": "wvs",
         "members": [
           "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ GQ Korea更新 #GQBEHIND WITH VERNON",
+        "type": "magazine",
+        "members": [
+          "vernon"
         ],
         "time": "",
         "note": ""
@@ -17659,6 +17742,42 @@
           "dino"
         ],
         "time": "19:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「爱的眼神😎✨」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S]「用充满爱的眼神😎 点亮克拉们心中的光✨」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们 终于到今天了呢ㅎㅎ 居然是Solo演唱会….🥹 真的非常期待!!!」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS回复顺荣「哥也很辛苦呢ㅠㅠ 真的很谢谢来着🫶🏻ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -21157,5 +21276,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-24T02:12:54.964Z"
+  "updatedAt": "2026-08-24T02:18:10.015Z"
 }
