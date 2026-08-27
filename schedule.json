@@ -18859,6 +18859,16 @@
         "note": ""
       },
       {
+        "title": "🐸🦦 TXT更新《Ice Cream》&《Party Rock Rock》&《singasong》Challenge Behind📸",
+        "type": "other",
+        "members": [
+          "the8",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ WVS更新「拆Kancho饼干 胜宽和yijin一次性全开出来了 太神奇了😳」",
         "type": "wvs",
         "members": [
@@ -21391,6 +21401,15 @@
         ],
         "time": "16:00",
         "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》线上签名会终场",
+        "type": "collab",
+        "members": [
+          "dino"
+        ],
+        "time": "17:30",
+        "note": ""
       }
     ],
     "2026-08-18": [
@@ -21605,6 +21624,52 @@
         "note": ""
       },
       {
+        "title": "🍒🐶 [PREVIEW] CxM [DOUBLE UP] LIVE PARTY DC SPOT #1",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 Ongredients更新",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS更新「📸」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 ELLE Korea更新 净汉的画报Behind花絮",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #48",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐸 DICON_SVT更新 [DICON] THE 8TH SENSE : Sight (THE 8) DICON vol.36",
         "type": "magazine",
         "members": [
@@ -21623,12 +21688,111 @@
         "note": ""
       },
       {
+        "title": "🐸 INS STORY更新「@koreless_」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 DICON_SVT版头更新",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 官推更新 [17'S DK] 260824 #我剩下的恋爱",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩下的恋爱》",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 DINO《LIKE IT》Official MV公开",
         "type": "official",
         "members": [
           "dino"
         ],
         "time": "16:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 舞者老师更新📷",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 RIIZE更新《Party Rock Rock》&《Sunburst》Challenge Behind📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 BUMZU更新「💗我们灿尼真棒💗」",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Picheolin 1st Mini Album《吉BOARD》线上签名会终场公告",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 2026 DINOxPICHEOLIN [吉BOARD SHOW] 澳门举办公告",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -22069,6 +22233,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-10-10": [
+      {
+        "title": "🦦 2026 DINOxPICHEOLIN [吉BOARD SHOW] 澳门",
+        "type": "concert",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": "STUDIO CITY EVENT CENTER"
+      }
     ]
   },
   "customTypes": {},
@@ -22077,5 +22252,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-27T07:21:03.580Z"
+  "updatedAt": "2026-08-27T07:26:50.462Z"
 }
