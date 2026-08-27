@@ -21632,6 +21632,188 @@
         ],
         "time": "13:00",
         "note": ""
+      },
+      {
+        "title": "🦦 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-27": [
+      {
+        "title": "🐰 《ELLE Japan》10月刊特别版",
+        "type": "magazine",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 DICON_SVT采访",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🦦 韩国→马来西亚",
+        "type": "airport",
+        "members": [
+          "dk",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《DAZED KOREA》2026年9月刊",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「2026 DINOxPICHEOLIN [吉BOARD SHOW] 2026.08.21 ~ 2026.08.23」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "十五夜INS更新 9月18日EP.3预告「hint: 💎」",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-08-26": [
+      {
+        "title": "🍒 WVS更新「祝大家度过美好的一天呦...《Allure》拍得真的特别好 请多多期待呦」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒🐶 CxM [DOUBLE UP] LIVE PARTY DC Coming Soon 🚘",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 《Allure Korea》10月刊",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯🍚 地上军庆典更新练习幕后影片",
+        "type": "other",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 DICON_SVT更新 [DICON] THE 8TH SENSE : Taste (THE 8)",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 士力架更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 微博直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦🐶 微博直播",
+        "type": "vlive",
+        "members": [
+          "dino",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方INS更新《LIKE IT》MV Behind📸",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP.157「今天也继续进行的高品格辩论现场🗣️」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]「充满教养与品位 以及各种梗齐飞的 社交派对 感谢一起参与的各位☕📚」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-09-18": [
+      {
+        "title": "《十五夜》EP.3",
+        "type": "variety",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ]
   },
@@ -21641,5 +21823,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-24T16:12:05.650Z"
+  "updatedAt": "2026-08-27T07:11:48.522Z"
 }
