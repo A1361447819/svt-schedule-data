@@ -22458,7 +22458,17 @@
     ],
     "2026-08-27": [
       {
-        "title": "🐰 《ELLE Japan》10月刊特别版",
+        "title": "🍒🐶 [PREVIEW] CxM [DOUBLE UP] LIVE PARTY DC SPOT #2",
+        "type": "official",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 《ELLE Japan》10月刊特别版预告",
         "type": "magazine",
         "members": [
           "jeonghan"
@@ -22476,6 +22486,24 @@
         "note": ""
       },
       {
+        "title": "🐸 小芒更新【DICON】THE 8TH SENSE｜徐明浩",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「Dior in Jakarta」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️🦦 韩国→马来西亚",
         "type": "airport",
         "members": [
@@ -22486,7 +22514,7 @@
         "note": ""
       },
       {
-        "title": "⚔️ 《DAZED KOREA》2026年9月刊",
+        "title": "⚔️ 《DAZED KOREA》2026年9月刊预告",
         "type": "magazine",
         "members": [
           "dk"
@@ -22495,8 +22523,71 @@
         "note": ""
       },
       {
+        "title": "🍊 WVS更新「谢谢来现场看比赛的克拉们!」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 韩国→马来西亚",
+        "type": "airport",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 《新人教练金软景》录制",
+        "type": "shoot",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ VISLA Magazine更新📸",
+        "type": "media",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 INS更新「2026 DINOxPICHEOLIN [吉BOARD SHOW] 2026.08.21 ~ 2026.08.23」",
         "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 DAY6更新「PartyRockRock Challenge Behind📸」",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方dy更新「DINO ‘爱的眼神’限定版，请查收😎」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT DINO」",
+        "type": "tiktok",
         "members": [
           "dino"
         ],
@@ -22622,9 +22713,11 @@
     ],
     "2026-09-18": [
       {
-        "title": "《十五夜》EP.3",
+        "title": "🐰 十五夜频道节目EP.3",
         "type": "variety",
-        "members": [],
+        "members": [
+          "jeonghan"
+        ],
         "time": "",
         "note": ""
       }
@@ -22897,5 +22990,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-31T08:51:00.121Z"
+  "updatedAt": "2026-08-31T08:58:35.232Z"
 }
