@@ -18255,6 +18255,17 @@
         "note": "Sunway Pyramid，200人"
       },
       {
+        "title": "⚔️🍊🦦 L'Officiel Singapore更新",
+        "type": "magazine",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 《STAN: A》Episode DINO",
         "type": "variety",
         "members": [
@@ -22542,6 +22553,124 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-08-29": [
+      {
+        "title": "🐰 [COVER] 净汉《晩餐歌》｜原曲：tuki.",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 ELLEMEN更新 封面预告",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 《Numéro TOKYO》创刊200期纪念祝词",
+        "type": "media",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 金九150周年活动",
+        "type": "collab",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ V8 Pre-Listening Party Highlight",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新「@tuide_abd_」",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 小芒更新【DICON】THE 8TH SENSE",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 DICON_SVT更新「[DICON] BEHIND THE DICON 📸」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 leejung更新",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 Citta Bella Malaysia更新",
+        "type": "magazine",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 马来西亚→韩国",
+        "type": "airport",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -22550,5 +22679,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-31T08:33:41.809Z"
+  "updatedAt": "2026-08-31T08:40:03.953Z"
 }
