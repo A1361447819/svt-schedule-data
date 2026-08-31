@@ -22244,6 +22244,138 @@
         "time": "",
         "note": "STUDIO CITY EVENT CENTER"
       }
+    ],
+    "2026-08-31": [
+      {
+        "title": "🐰🦌 ELLEMEN更新「封面人物｜JEONGHAN X JOSHUA：幕后碎片」",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 ELLEMEN更新 视频",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 ELLEMEN更新 内页",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 ELLEMEN更新 封面",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 白百何更新",
+        "type": "other",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 New Balance更新「ABZORB 1890｜步入专属他的能量场域」",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 dy更新「🚲金九刚向你打了一个招呼👋」",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《再给我一个暑假》更新📷",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《再给我一个暑假》海报",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《再给我一个暑假》先导预告",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #49",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 dicon_by_dispatch更新「POV : 露出真实笑容的瞬间(*≧∀≦*)｜POV : 身高180.0的男人」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 TUIDE更新「#GRLS with SEVENTEEN SEUNGKWAN」",
+        "type": "tiktok",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 DINO《LIKE IT》应援法🪄",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -22252,5 +22384,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-08-27T07:26:50.462Z"
+  "updatedAt": "2026-08-31T08:28:58.422Z"
 }
