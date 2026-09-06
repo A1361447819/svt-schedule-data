@@ -23155,6 +23155,24 @@
         ],
         "time": "",
         "note": ""
+      },
+      {
+        "title": "🦦 MBC《Show! 音乐中心》《LIKE IT》预录",
+        "type": "shoot",
+        "members": [
+          "dino"
+        ],
+        "time": "02:00",
+        "note": "参与人数共400人"
+      },
+      {
+        "title": "🦦 MBC《Show! 音乐中心》《LIKE IT》播出",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "14:15",
+        "note": ""
       }
     ],
     "2026-09-04": [
@@ -23302,6 +23320,163 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-03": [
+      {
+        "title": "🍒 WVS更新「大家都过得好吗?! 希望大家能度过幸福的一天呀 :)」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 Allure Korea更新「S.COUPS的香水One Pick是?👀」",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 矢野志保更新 节目预告",
+        "type": "variety",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 ELLEMEN睿士画报采访「在『我们』与『我』之间 净汉和JOSHUA寻找新的平衡」",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Hypebeast Korea更新 #宝可梦themgood派对",
+        "type": "media",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 figg.unofficial更新 #宝可梦themgood派对",
+        "type": "media",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ MTV Studio Pass",
+        "type": "media",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 SIMMONS活动",
+        "type": "collab",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩下的恋爱》二选一游戏",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 吉RECORDS #5｜Picheolin｜DINO（SEVENTEEN）",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT with ENHYPEN SUNGHOON」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Waterbomb_KHH更新 高雄水弹音乐节问候",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S] 260903 #MCD",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 MCD更新📸",
+        "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS STORY更新📸",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「🍯」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 ENHYPEN更新「BloodyParadise Challenge with SEVENTEEN DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -23310,5 +23485,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-06T02:45:19.033Z"
+  "updatedAt": "2026-09-06T02:51:38.859Z"
 }
