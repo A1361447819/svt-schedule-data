@@ -23112,15 +23112,6 @@
         "note": ""
       },
       {
-        "title": "🦦 音乐中心《LIKE IT》打歌舞台💙",
-        "type": "musicshow",
-        "members": [
-          "dino"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🦦 官推更新 [17’S] 260905 #音乐中心",
         "type": "official",
         "members": [
@@ -23303,8 +23294,8 @@
         "note": ""
       },
       {
-        "title": "🦦 音乐银行《LIKE IT》打歌舞台",
-        "type": "musicshow",
+        "title": "🦦 官推更新 [17’S] 260904 #音乐银行",
+        "type": "official",
         "members": [
           "dino"
         ],
@@ -23312,12 +23303,21 @@
         "note": ""
       },
       {
-        "title": "🦦 官推更新 [17’S] 260904 #音乐银行",
-        "type": "official",
+        "title": "🦦 KBS2《音乐银行》《LIKE IT》预录",
+        "type": "shoot",
         "members": [
           "dino"
         ],
-        "time": "",
+        "time": "11:50",
+        "note": "参与人数共300人"
+      },
+      {
+        "title": "🦦 KBS2《音乐银行》《LIKE IT》播出",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "16:15",
         "note": ""
       }
     ],
@@ -23477,6 +23477,379 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-02": [
+      {
+        "title": "🐰 WVS更新「好想你们呀ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 睿骐睿骐更新 ELLEMEN杂志拍摄花絮",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS更新「☀️」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 小红书更新「☀️」",
+        "type": "xhs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS回复知秀「是你可爱呀😘」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「花絮📸」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS回复净汉「看起来超级幸福 ㅋㅋㅋㅋㅋ」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS回复净汉「❤️ ㅋㅋㅋ 我们笑着的照片真可爱呀」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS更新「BTS 📸」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 New Balance更新 ①",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 New Balance更新 ②",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新「Heon Seo《해바라기》 🐯：헌서呀 祝贺你 🌻🌻🌻🌻🌻 🤗」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新「Heon Seo《도망쳐버릴까》 🐯：我的One Pick歌曲🌻」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 INS STORY更新「Heon Seo《LIE X3》 🐯：这首歌也是🥹」",
+        "type": "ins",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] FASHION FILM 2026 F/W #2",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] 老虎运势 #7",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 ralachoi更新📸",
+        "type": "other",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新📸",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS更新📸",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 微博更新📸",
+        "type": "weibo",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新📸",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 fastpapermag更新 #Frieze Seoul 2026艺术展",
+        "type": "media",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 芭莎艺术in更新 #Frieze Seoul 2026艺术展",
+        "type": "media",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 悦诗风吟更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY更新「超级帅气的Ali池原 今后也要加油呀٩(ˊᗜˋ)و」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 WVS更新 DxS《T1 Home Ground Spotify Opening Stage》Photo Sketch📸",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新📸",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS更新「@dazed @cartier」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ INS STORY更新「本来想在5点26分发的 结果在27分发出去了捏.. 哎呀 哎呀❛˓◞˂̵」",
+        "type": "ins",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「9月也要加油呀🤗」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ [Vernoni Mohani?] Teaser",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新 [17contact]「Baby oh wow, I really like #SHANGHAI 🤳」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们 《LIKE IT》首场预录真的好心动激动呀🥰」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TUIDE更新「#SUNKISS with SEVENTEEN DINO 🦦☀️」",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S] #Dino的疯了疯了",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《🔥超绝炸猪排🔥吃完嗨翻了的DINOㅣDINO的疯了疯了》",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS ID更新「DINO😎 → DIN 💫」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP.158「回归的追击战 这次的题材是Noir黑色电影」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17’S]「藏好藏好 跑者卡要露出来咯🃏」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-10-02": [
+      {
+        "title": "🐻‍❄️ [Vernoni Mohani?] 公开",
+        "type": "official",
+        "members": [
+          "vernon"
+        ],
+        "time": "17:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -23485,5 +23858,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-06T02:51:38.859Z"
+  "updatedAt": "2026-09-06T03:03:14.326Z"
 }
