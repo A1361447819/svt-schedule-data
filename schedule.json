@@ -3735,6 +3735,26 @@
         ],
         "time": "",
         "note": "생일 축하해요!"
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "10:00",
+        "note": "忠南 鸡龙台跑道；10:00-10:50"
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "13:00",
+        "note": "忠南 鸡龙台跑道；13:00-13:30"
       }
     ],
     "2026-12-30": [
@@ -21507,14 +21527,14 @@
     ],
     "2026-10-01": [
       {
-        "title": "🐯🍚 忠南2026地上军庆典",
+        "title": "🐯🍚 2026地上军庆典 开幕式",
         "type": "collab",
         "members": [
           "hoshi",
           "woozi"
         ],
-        "time": "",
-        "note": "10月1日-10月5日；鸡龙台跑道；陆军表演队高品质原创音乐剧、开幕式限定特别公演"
+        "time": "18:00",
+        "note": "忠南 鸡龙台跑道；18:00-19:30；陆军演出队预定参与 待后续确认；可能仅出演原创音乐剧"
       }
     ],
     "2026-08-17": [
@@ -22793,6 +22813,16 @@
         "note": ""
       },
       {
+        "title": "🐰🦌 ELLEMEN更新「封面人物｜JEONGHAN X JOSHUA：默契大挑战」",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 白百何更新",
         "type": "other",
         "members": [
@@ -22847,7 +22877,52 @@
         "note": ""
       },
       {
+        "title": "🐱 [INSIDE SEVENTEEN] 俊辉第38届大众电影百花奖提名者表彰仪式幕后花絮",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 #电影再给我一个暑假",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 [HOSHI TAMTAM] Weekly Hoshi #49",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 评论拿铁今日泳装OOTD🍍「ㅋㅋㅋㅋㅋㅋㅋ」",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新 [HOSHI TAMTAM] EP.3~4：射击&攀岩 Photo Sketch📸",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 [HOSHI TAMTAM] EP.4 虎爱你：权Spider",
         "type": "official",
         "members": [
           "hoshi"
@@ -22865,6 +22940,51 @@
         "note": ""
       },
       {
+        "title": "🐸 TikTok更新「singasong with SEOHEE」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 小芒更新 DICON中国限定礼盒内页预览✨",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 评论胜宽GRLS挑战「怎么跳得这么好…?」",
+        "type": "other",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《我剩下的恋爱》",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 官推更新 [17’S DK] 260831 #我剩下的恋爱",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍊 TUIDE更新「#GRLS with SEVENTEEN SEUNGKWAN」",
         "type": "tiktok",
         "members": [
@@ -22876,6 +22996,24 @@
       {
         "title": "🦦 DINO《LIKE IT》应援法🪄",
         "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官方dy更新「什么？CARAT也在？！😎」",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT DINO」",
+        "type": "tiktok",
         "members": [
           "dino"
         ],
@@ -23860,6 +23998,35 @@
     ],
     "2026-10-02": [
       {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "10:00",
+        "note": "忠南 鸡龙台跑道；10:00-10:50"
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "14:00",
+        "note": "忠南 鸡龙台跑道；14:00-14:30"
+      },
+      {
+        "title": "🐯 2026地上军庆典 跆拳道示范团",
+        "type": "collab",
+        "members": [
+          "hoshi"
+        ],
+        "time": "14:30",
+        "note": "忠南 鸡龙台跑道；14:30-15:00；顺荣出演待定"
+      },
+      {
         "title": "🐻‍❄️ [Vernoni Mohani?] 公开",
         "type": "official",
         "members": [
@@ -24109,6 +24276,68 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-10-03": [
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "10:00",
+        "note": "忠南 鸡龙台跑道；10:00-10:50"
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "12:30",
+        "note": "忠南 鸡龙台跑道；12:30-13:00"
+      },
+      {
+        "title": "🐯 2026地上军庆典 跆拳道示范团",
+        "type": "collab",
+        "members": [
+          "hoshi"
+        ],
+        "time": "13:00",
+        "note": "忠南 鸡龙台跑道；13:00-13:30；顺荣出演待定"
+      }
+    ],
+    "2026-10-05": [
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "10:00",
+        "note": "忠南 鸡龙台跑道；10:00-10:50"
+      },
+      {
+        "title": "🐯🍚 2026地上军庆典 陆军演出队",
+        "type": "collab",
+        "members": [
+          "hoshi",
+          "woozi"
+        ],
+        "time": "12:30",
+        "note": "忠南 鸡龙台跑道；12:30-13:00"
+      },
+      {
+        "title": "🐯 2026地上军庆典 跆拳道示范团",
+        "type": "collab",
+        "members": [
+          "hoshi"
+        ],
+        "time": "13:00",
+        "note": "忠南 鸡龙台跑道；13:00-13:30；顺荣出演待定"
+      }
     ]
   },
   "customTypes": {},
@@ -24117,5 +24346,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-06T03:13:52.839Z"
+  "updatedAt": "2026-09-06T03:20:01.696Z"
 }
