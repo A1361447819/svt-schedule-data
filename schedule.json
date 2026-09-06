@@ -19233,6 +19233,24 @@
         ],
         "time": "",
         "note": "首尔文化储备基地"
+      },
+      {
+        "title": "🦦 SBS《人气歌谣》《LIKE IT》预录",
+        "type": "shoot",
+        "members": [
+          "dino"
+        ],
+        "time": "06:45",
+        "note": ""
+      },
+      {
+        "title": "🦦 SBS《人气歌谣》《LIKE IT》播出",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "14:20",
+        "note": ""
       }
     ],
     "2026-08-20": [
@@ -23138,6 +23156,152 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-04": [
+      {
+        "title": "🐰 矢野志保频道更新",
+        "type": "other",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 官推更新 [17’S 净汉] 260904 #矢野志保频道",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 JUN’s VLOG｜夏",
+        "type": "xhs",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 New Balance更新",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新 #泰嗨巅峰音乐节 ①",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新 #泰嗨巅峰音乐节 ②",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 韩国→中国",
+        "type": "airport",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「全都收拾好了 面包扔掉了…呜呜」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Cosmopolitan Korea更新 #SIMMONS活动",
+        "type": "media",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 82MAJOR更新「Like Fire Challenge with SEVENTEEN DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT with TUIDE SEOHEE SEOYEON」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 Hweek更新 #许卿焕的流行Show",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《许卿焕的流行Show》更新预告",
+        "type": "variety",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 音乐银行《LIKE IT》打歌舞台",
+        "type": "musicshow",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17’S] 260904 #音乐银行",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -23146,5 +23310,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-06T02:36:39.345Z"
+  "updatedAt": "2026-09-06T02:45:19.033Z"
 }
