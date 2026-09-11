@@ -19473,15 +19473,6 @@
         "note": ""
       },
       {
-        "title": "🦦 《人气歌谣》《LIKE IT》打歌舞台🤍",
-        "type": "musicshow",
-        "members": [
-          "dino"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🦦 官推更新 [17'S] 260906 #人气歌谣",
         "type": "official",
         "members": [
@@ -19509,7 +19500,7 @@
         "note": ""
       },
       {
-        "title": "🦦 《人气歌谣》更新🤍",
+        "title": "🦦 《人气歌谣》更新",
         "type": "other",
         "members": [
           "dino"
@@ -25405,5 +25396,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-11T07:26:29.405Z"
+  "updatedAt": "2026-09-11T07:27:29.323Z"
 }
