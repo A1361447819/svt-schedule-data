@@ -19461,10 +19461,120 @@
     ],
     "2026-09-08": [
       {
+        "title": "🐰 WVS评论硕珉「道兼米 平平安安好去好回呀ㅎㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 长官杯跆拳道锦标赛",
+        "type": "other",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS评论硕珉「♥️」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍚 WVS回复硕珉「我们道兼能做好的 加油加油」",
+        "type": "wvs",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新「The8 DM：Music」#泰嗨巅峰音乐节",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 dy更新「下次见🍁」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 悦诗风吟更新「珉奎的水润充能 随时随地 💚⚡️」",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ 陆军现役入伍",
         "type": "other",
         "members": [
           "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「终于到了今天呢 我现在真的要去军队了! 我会健健康康 平平安安回来的🫡」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊🦦 斯凯奇更新「The Grand Opening of Skechers Sunway Pyramid💙✨」",
+        "type": "brand",
+        "members": [
+          "dk",
+          "seungkwan",
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TikTok更新「#LIKE_IT with TEMPEST HANBIN」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《人气歌谣》更新 现场照片",
+        "type": "other",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -24685,5 +24795,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-11T06:58:40.230Z"
+  "updatedAt": "2026-09-11T07:02:43.334Z"
 }
