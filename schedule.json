@@ -24338,6 +24338,63 @@
         "time": "13:00",
         "note": "忠南 鸡龙台跑道；13:00-13:30；顺荣出演待定"
       }
+    ],
+    "2026-09-11": [
+      {
+        "title": "🍒🐶 NÜTRL更新「NÜTRL with CxM『For Ü』拍摄现场幕后花絮🎬」",
+        "type": "brand",
+        "members": [
+          "scoups",
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 Ongredients更新「二选一平衡游戏Time!👀」",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 Allure Korea更新「S.COUPS笔下的Trudon Médie香气现在正式公开」",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 韩国→中国",
+        "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ Marithé更新「2026 F/W CAMPAIGN with VERNON」",
+        "type": "brand",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -24346,5 +24403,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-06T03:23:45.383Z"
+  "updatedAt": "2026-09-11T06:47:34.330Z"
 }
