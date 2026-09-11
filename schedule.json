@@ -20886,10 +20886,111 @@
     ],
     "2026-09-10": [
       {
+        "title": "🍒 Ongredients更新「让人1秒都移不开视线的总管队长气场😎」",
+        "type": "brand",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「不行不行 现在太冷了....」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 大众电影更新「很享受拍戏前期所做的大量准备工作，因为自己能在开机时真真正正地成为那个角色」",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 New Balance直播间直播预告",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ [INSIDE SEVENTEEN] 2026 VERNON THE 8 [V8] LIVE BEHIND #1",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 BamBam更新「A Challenge with SEVENTEEN The8」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 TikTok更新「#girlsnboys with BamBam」",
+        "type": "tiktok",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐶 开始履行兵役义务（替代役）",
         "type": "other",
         "members": [
           "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 直播",
+        "type": "vlive",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 [TEASER] DxS《SERENADE》ON STAGE in INCHEON",
+        "type": "official",
+        "members": [
+          "dk",
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ Dazed Korea九月刊画报采访",
+        "type": "magazine",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY更新「@dk_is_dokyeom @min9yu_k 健健康康 好去好回!」",
+        "type": "ins",
+        "members": [
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -20901,6 +21002,15 @@
           "vernon"
         ],
         "time": "09:00",
+        "note": ""
+      },
+      {
+        "title": "🦦 INS更新「#LIKE_IT」",
+        "type": "ins",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -24395,6 +24505,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-12": [
+      {
+        "title": "🐱 New Balance天猫官方直播间直播",
+        "type": "vlive",
+        "members": [
+          "jun"
+        ],
+        "time": "12:30",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -24403,5 +24524,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-11T06:47:34.330Z"
+  "updatedAt": "2026-09-11T06:51:39.879Z"
 }
