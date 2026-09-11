@@ -21928,6 +21928,124 @@
     ],
     "2026-09-09": [
       {
+        "title": "🍒 Allure Korea更新 #Allure_DigitalEdition",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 半月频道《定期杂谈会》预告",
+        "type": "variety",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「今天也要吃好吃的饭 克拉们ㅎㅎㅎ 哈尼嘿💕」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Murad慕拉得更新 全新品牌大使JOSHUA",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 小红书更新「以研塑廓，以柔焕新。很高兴成为@Murad慕拉得品牌大使，和我一起『SHUA』出轮廓年轻新篇章。」",
+        "type": "xhs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Murad慕拉得更新「从容赴约，答案已就位 慕拉得品牌大使JOSHUA」",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 大众电影更新「俊辉谈拍完《捕风追影》《镖人》后的收获：开始学会思考每个作品的独属频率」",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「💚🥰🙏」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ 2026 VERNON THE 8 [V8] LIVE RECAP",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「See ya💋 Thank you carats❤️ 约定💋」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 INS更新「💛#Dior」",
+        "type": "ins",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 WVS更新「克拉们 我也是从明天开始了!!ㅎ 会健健康康好好服役回来的」",
+        "type": "wvs",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 Picheolin 1st Mini Album《吉BOARD》线上签名会",
         "type": "collab",
         "members": [
@@ -21953,6 +22071,38 @@
         ],
         "time": "16:00",
         "note": "YouTube「ggzz」"
+      },
+      {
+        "title": "🦦 官推更新 [17'S Dino] 260909 #许卿焕的流行Show",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TAEMIN更新「FLOAT ☁️ with DINO」",
+        "type": "tiktok",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP.159「Jun的活跃表现仍将继续? 🐱」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]「将动作惊悚还有喜剧一网打尽的完美的追击战 <21> 🃏」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-18": [
@@ -24516,6 +24666,17 @@
         "time": "12:30",
         "note": ""
       }
+    ],
+    "2026-09-21": [
+      {
+        "title": "🍒 半月频道《定期杂谈会》",
+        "type": "variety",
+        "members": [
+          "scoups"
+        ],
+        "time": "08:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -24524,5 +24685,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-11T06:51:39.879Z"
+  "updatedAt": "2026-09-11T06:58:40.230Z"
 }
