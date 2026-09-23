@@ -3737,33 +3737,22 @@
         "note": "생일 축하해요!"
       },
       {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi",
-          "woozi"
-        ],
-        "time": "10:00",
-        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
-      },
-      {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
-        "type": "concert",
-        "members": [
-          "hoshi",
           "woozi"
         ],
         "time": "12:30",
         "note": "鸡龙台跑道；12:30-13:00"
       },
       {
-        "title": "🐯 2026地上军庆典 忠南跆拳道示范团",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi"
+          "woozi"
         ],
-        "time": "13:00",
-        "note": "鸡龙台跑道；13:00-13:30；顺荣出演待定"
+        "time": "10:00",
+        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
       }
     ],
     "2026-12-30": [
@@ -21618,10 +21607,74 @@
     ],
     "2026-09-13": [
       {
+        "title": "🍒 WVS更新「大家都在干嘛呀~~」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍒 WVS更新「要烫发吗? 想烫头发的季节来了呢...」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 大众电影采访",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 VOGUEplus更新",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 红秀GRAZIA更新",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍚 WVS评论顺荣「😢」",
         "type": "wvs",
         "members": [
           "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ [DK TIME] DK TIME Coming Soon!",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️🍊 Peder更新 首尔爵士音乐节幕后花絮",
+        "type": "other",
+        "members": [
+          "dk",
+          "seungkwan"
         ],
         "time": "",
         "note": ""
@@ -21634,6 +21687,42 @@
         ],
         "time": "",
         "note": "梦时代正对面广场"
+      },
+      {
+        "title": "🦦 Esquire Korea采访",
+        "type": "magazine",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「克拉们!!!! 今天Waterbomb🌊 痛快玩的准备做好了吗??ㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新「高雄Waterbomb真的太太太太好玩了💦😆」",
+        "type": "wvs",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 水弹音乐节更新",
+        "type": "media",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-08-11": [
@@ -24700,23 +24789,13 @@
     ],
     "2026-10-02": [
       {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi",
           "woozi"
         ],
         "time": "13:00",
         "note": "鸡龙台跑道；13:00-13:30"
-      },
-      {
-        "title": "🐯 2026地上军庆典 忠南跆拳道示范团",
-        "type": "concert",
-        "members": [
-          "hoshi"
-        ],
-        "time": "13:30",
-        "note": "鸡龙台跑道；13:30-14:00；顺荣出演待定"
       },
       {
         "title": "🐻‍❄️ [Vernoni Mohani?] 公开",
@@ -25516,10 +25595,9 @@
     ],
     "2026-10-01": [
       {
-        "title": "🐯🍚 2026地上军庆典 忠南主舞台开幕式",
+        "title": "🍚 2026地上军庆典 忠南主舞台开幕式",
         "type": "concert",
         "members": [
-          "hoshi",
           "woozi"
         ],
         "time": "15:00",
@@ -25528,64 +25606,42 @@
     ],
     "2026-10-03": [
       {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi",
-          "woozi"
-        ],
-        "time": "10:00",
-        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
-      },
-      {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
-        "type": "concert",
-        "members": [
-          "hoshi",
           "woozi"
         ],
         "time": "12:30",
         "note": "鸡龙台跑道；12:30-13:00"
       },
       {
-        "title": "🐯 2026地上军庆典 忠南跆拳道示范团",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi"
+          "woozi"
         ],
-        "time": "13:00",
-        "note": "鸡龙台跑道；13:00-13:30；顺荣出演待定"
+        "time": "10:00",
+        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
       }
     ],
     "2026-10-05": [
       {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi",
-          "woozi"
-        ],
-        "time": "10:00",
-        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
-      },
-      {
-        "title": "🐯🍚 2026地上军庆典 忠南陆军演出队",
-        "type": "concert",
-        "members": [
-          "hoshi",
           "woozi"
         ],
         "time": "12:30",
         "note": "鸡龙台跑道；12:30-13:00"
       },
       {
-        "title": "🐯 2026地上军庆典 忠南跆拳道示范团",
+        "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
-          "hoshi"
+          "woozi"
         ],
-        "time": "13:00",
-        "note": "鸡龙台跑道；13:00-13:30；顺荣出演待定"
+        "time": "10:00",
+        "note": "鸡龙台跑道；10:00-10:50；舞蹈·歌曲"
       }
     ],
     "2026-09-17": [
@@ -25764,6 +25820,15 @@
     ],
     "2026-10-11": [
       {
+        "title": "🍊 《新人教练金软景》第二季播出",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "19:10",
+        "note": ""
+      },
+      {
         "title": "🦦 2026 DINOxPICHEOLIN [吉BOARD SHOW] 澳门追加演出",
         "type": "concert",
         "members": [
@@ -25939,6 +26004,26 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-14": [
+      {
+        "title": "🍒 Allure Korea更新「有行程的早晨S.COUPS会做些什么来度过呢?」",
+        "type": "magazine",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 《新人教练金软景》第二季预告",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -25947,5 +26032,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-23T02:46:06.122Z"
+  "updatedAt": "2026-09-23T02:52:02.840Z"
 }
