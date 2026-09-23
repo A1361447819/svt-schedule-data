@@ -24990,8 +24990,55 @@
         "note": ""
       },
       {
+        "title": "🐰 WVS更新「怎么啦怎么啦 在干嘛呀 问你在干嘛呢呜呜」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 INS更新 东京VLOG📸",
+        "type": "ins",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 小红书更新 东京VLOG📸",
+        "type": "xhs",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS STORY转发东京VLOG「嘿💕」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 韩国→中国",
         "type": "airport",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 大众电影更新「俊辉谈自己的未来规划：把自己所坚持的东西做到更好」",
+        "type": "media",
         "members": [
           "jun"
         ],
@@ -25008,10 +25055,46 @@
         "note": ""
       },
       {
+        "title": "🐶 ISAAC TOAST更新 高清照片📷",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「今天一天真的辛苦啦~」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ Marithé更新「2026 F/W CAMPAIGN with VERNON」",
         "type": "brand",
         "members": [
           "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS更新「I’ll Be Back」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《舞动战国时代》更新 应援视频",
+        "type": "other",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -25025,6 +25108,24 @@
           "jun"
         ],
         "time": "12:30",
+        "note": ""
+      },
+      {
+        "title": "🐯 WVS更新「克拉们 大家好 我在地上军公演队练习的过程中伤到了膝盖 接受检查后被诊断为前十字韧带完全断裂」",
+        "type": "wvs",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 韩国→中国台湾",
+        "type": "airport",
+        "members": [
+          "dino"
+        ],
+        "time": "",
         "note": ""
       }
     ],
@@ -25783,5 +25884,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-18T08:46:45.859Z"
+  "updatedAt": "2026-09-23T02:43:25.921Z"
 }
