@@ -26345,10 +26345,129 @@
     ],
     "2026-09-19": [
       {
+        "title": "🍒 ch_halfmoon更新",
+        "type": "variety",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 XCSS更新 #New Balance ABZORB 1890活动Behind",
         "type": "official",
         "members": [
           "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 第十三届西安丝绸之路国际电影节更新",
+        "type": "media",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 第十三届西安丝绸之路国际电影节",
+        "type": "collab",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 #第十三届丝绸之路国际电影节",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐯 SEVENTEEN HOSHI健康状况相关公告",
+        "type": "official",
+        "members": [
+          "hoshi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ [INSIDE SEVENTEEN] 2026 VERNON THE 8 [V8] LIVE BEHIND #2",
+        "type": "official",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 悦诗风吟更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Dior更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「忠诚🫡 克拉们过得好吗~? 每个周末我都会来找大家的🫡」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新 DINO《Madly Medley》Photo Sketch",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 圭贤更新📷",
+        "type": "other",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -26361,5 +26480,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-23T03:59:15.964Z"
+  "updatedAt": "2026-09-23T09:45:38.664Z"
 }
