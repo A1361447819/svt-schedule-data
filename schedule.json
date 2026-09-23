@@ -23497,6 +23497,15 @@
     ],
     "2026-09-18": [
       {
+        "title": "💎 POP MART更新 MINITEEN联动手办盲盒预览",
+        "type": "brand",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍒 ch_halfmoon更新「克拉们好好过周末 周一见🥕」",
         "type": "variety",
         "members": [
@@ -23510,6 +23519,24 @@
         "type": "variety",
         "members": [
           "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 官推更新 [17'S] #我们现在见面Na",
+        "type": "official",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 BamBam更新《A》Challenge Behind",
+        "type": "other",
+        "members": [
+          "the8"
         ],
         "time": "",
         "note": ""
@@ -23533,6 +23560,42 @@
         "note": ""
       },
       {
+        "title": "⚔️ 官推更新 [17'S DK] #空家大声",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ [DK TIME] DK《再次, 爱情 It's Love》COVER｜原曲：D.O.",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新 [DK TIME]《再次, 爱情》COVER Photo Sketch",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ 《家大声》更新📷",
+        "type": "variety",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐻‍❄️ Marithé更新「2026 F/W CAMPAIGN with VERNON」",
         "type": "brand",
         "members": [
@@ -23544,6 +23607,15 @@
       {
         "title": "🦦 MADLY MEDLEY更新「DINO with @madly_medley」",
         "type": "other",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 吉RECORDS #6｜DINO（SEVENTEEN）",
+        "type": "official",
         "members": [
           "dino"
         ],
@@ -26270,6 +26342,17 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-19": [
+      {
+        "title": "🐱 XCSS更新 #New Balance ABZORB 1890活动Behind",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -26278,5 +26361,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-23T03:34:06.802Z"
+  "updatedAt": "2026-09-23T03:59:15.964Z"
 }
