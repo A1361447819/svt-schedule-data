@@ -21618,6 +21618,15 @@
     ],
     "2026-09-13": [
       {
+        "title": "🍚 WVS评论顺荣「😢」",
+        "type": "wvs",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦦 高雄水弹音乐节",
         "type": "concert",
         "members": [
@@ -25111,6 +25120,33 @@
         "note": ""
       },
       {
+        "title": "🐱 微博更新「在游乐场👟释放能量🥳」",
+        "type": "weibo",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 INS更新「🥳👟🧡」",
+        "type": "ins",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 #NewBalance活动🧡",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐯 WVS更新「克拉们 大家好 我在地上军公演队练习的过程中伤到了膝盖 接受检查后被诊断为前十字韧带完全断裂」",
         "type": "wvs",
         "members": [
@@ -25122,6 +25158,33 @@
       {
         "title": "🦦 韩国→中国台湾",
         "type": "airport",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 官推更新 [17'S] #Dino的疯了疯了",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 《🕺跳舞5小时 vs 制作OOO 🫨ㅣDINO的疯了疯了》",
+        "type": "official",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 TEMPEST更新 No Fear Challenge",
+        "type": "tiktok",
         "members": [
           "dino"
         ],
@@ -25884,5 +25947,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-23T02:43:25.921Z"
+  "updatedAt": "2026-09-23T02:46:06.122Z"
 }
