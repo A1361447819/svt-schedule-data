@@ -3747,15 +3747,6 @@
         "note": ""
       },
       {
-        "title": "🐱 电影《重生2》杭州路演",
-        "type": "collab",
-        "members": [
-          "jun"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
@@ -25874,6 +25865,15 @@
     ],
     "2026-10-05": [
       {
+        "title": "🐱 电影《重生2》杭州路演",
+        "type": "collab",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍚 2026地上军庆典 忠南陆军演出队",
         "type": "concert",
         "members": [
@@ -28351,5 +28351,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-28T09:46:30.110Z"
+  "updatedAt": "2026-09-28T09:54:14.871Z"
 }
