@@ -28132,12 +28132,109 @@
     ],
     "2026-09-23": [
       {
+        "title": "💎 POP MART更新「全套开箱🎈MINITEEN」",
+        "type": "brand",
+        "members": [
+          "all"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰🦌 JEONGHAN X JOSHUA 1st Mini Album《DREAMSCAPE》Promotion Scheduler",
         "type": "official",
         "members": [
           "jeonghan",
           "joshua"
         ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 JxJ 1st Mini Album《DREAMSCAPE》发售纪念 SPECIAL FAN PARTY活动公告",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 芭妮兰更新「轻如呼吸的超轻盈遮瑕🪽🤍」",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 Real Barrier更新",
+        "type": "brand",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新 ①",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新「狼狗杀手的养成日常🙌🏻」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 海飞丝更新「等你一起升级！这次升级，不止海飞丝！」",
+        "type": "brand",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Wallpaper中文版更新「👀敬请注目，徐明浩《Wallpaper中文版》九月刊」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸🐻‍❄️ NYLON FRANCE更新「V8 : HYPER(K-)POP」",
+        "type": "magazine",
+        "members": [
+          "the8",
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "[GGOYO-ILER] EP161「为了守住零花钱的一局抓石子 💥 究竟 胜宽vs Dino <12317韩元的幸福> 结果如何?👀」",
+        "type": "official",
+        "members": [],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "官推更新 [17'S]「靠12317韩元生活3天的挑战记 💸 为辛苦了的胜宽&Dino鼓掌 👏」",
+        "type": "official",
+        "members": [],
         "time": "",
         "note": ""
       }
@@ -28199,6 +28296,18 @@
         "time": "17:00",
         "note": ""
       }
+    ],
+    "2026-11-08": [
+      {
+        "title": "🐰🦌 JxJ 1st Mini Album《DREAMSCAPE》发售纪念 SPECIAL FAN PARTY",
+        "type": "collab",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "16:00",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -28207,5 +28316,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-28T09:37:48.943Z"
+  "updatedAt": "2026-09-28T09:41:07.133Z"
 }
