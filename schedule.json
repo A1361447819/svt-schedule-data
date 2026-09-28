@@ -27469,6 +27469,102 @@
         "time": "",
         "note": "ASIAWORLD-ARENA"
       }
+    ],
+    "2026-09-27": [
+      {
+        "title": "🐰🦌 JxJ WVS头像更新",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 JEONGHAN X JOSHUA 1st Mini Album《DREAMSCAPE》Daydreamers",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 #电影《重生2》",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新「车：真是一场酣畅淋漓的启动啊」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新「文俊辉变身『武』俊辉」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新「复仇路上，两个人就这样战力全开！」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 JUN《9》1st EP CHINA Key Object : The Altar of NINE",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 Wallpaper中文版画报采访「徐明浩，有一种直觉」",
+        "type": "magazine",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 INS STORY转发姐姐限动",
+        "type": "ins",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-11-09": [
+      {
+        "title": "🐶 《MEN’S NON-NO》12月增刊号发行",
+        "type": "magazine",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      }
     ]
   },
   "customTypes": {},
@@ -27477,5 +27573,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-28T09:23:05.676Z"
+  "updatedAt": "2026-09-28T09:25:37.650Z"
 }
