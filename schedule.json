@@ -27565,6 +27565,131 @@
         "time": "",
         "note": ""
       }
+    ],
+    "2026-09-26": [
+      {
+        "title": "🐱 JUN《9》1st EP CHINA Poster & Trailer 08 Inward",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 JUN《9》1st EP CHINA Poster & Trailer 07 Chaos",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 JUN《9》1st EP CHINA Poster & Trailer 06 Boredom",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 电影《重生2》更新「找到你了……」",
+        "type": "variety",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 JUN《9》1st EP CHINA Poster & Trailer 05 Doubt",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 XCSS更新 #Wallpaper中文版金九封面",
+        "type": "official",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 ISAAC TOAST更新",
+        "type": "brand",
+        "members": [
+          "mingyu"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「克拉们ෆ⸒⸒ 早上好″̮ 希望大家今天也能幸福度过! 好想你们ㅎㅎ」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ INS STORY更新「🌕」",
+        "type": "ins",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐻‍❄️ WVS更新「想拍张月亮照片发出来 在附近转了一圈 不知是不是被云遮住了 看不到呢 🥲 中秋快乐!」",
+        "type": "wvs",
+        "members": [
+          "vernon"
+        ],
+        "time": "",
+        "note": ""
+      }
+    ],
+    "2026-10-16": [
+      {
+        "title": "🍚 第13届漆谷洛东江和平庆典 陆军演出队演出",
+        "type": "collab",
+        "members": [
+          "woozi"
+        ],
+        "time": "11:00",
+        "note": "11:00-11:30"
+      }
+    ],
+    "2026-10-17": [
+      {
+        "title": "🍚 第13届漆谷洛东江和平庆典 陆军演出队演出",
+        "type": "collab",
+        "members": [
+          "woozi"
+        ],
+        "time": "13:00",
+        "note": "13:00-13:30"
+      }
+    ],
+    "2026-10-18": [
+      {
+        "title": "🍚 第13届漆谷洛东江和平庆典 陆军演出队演出",
+        "type": "collab",
+        "members": [
+          "woozi"
+        ],
+        "time": "11:30",
+        "note": "11:30-12:00"
+      }
     ]
   },
   "customTypes": {},
@@ -27573,5 +27698,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-09-28T09:25:37.650Z"
+  "updatedAt": "2026-09-28T09:31:09.643Z"
 }
