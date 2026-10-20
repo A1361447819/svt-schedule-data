@@ -28128,13 +28128,103 @@
         "note": ""
       },
       {
+        "title": "🦌 Vogue Korea更新 #TOM FORD Beauty",
+        "type": "magazine",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 XCSS更新 #电影《重生2》",
+        "type": "official",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 WVS头像更新",
+        "type": "wvs",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐈‍⬛ [EVERY WONWOO] 介绍我的相机们",
+        "type": "official",
+        "members": [
+          "wonwoo"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍚 第13届漆谷洛东江和平庆典 陆军演出队演出",
-        "type": "collab",
+        "type": "other",
         "members": [
           "woozi"
         ],
         "time": "13:00",
         "note": "13:00-13:30"
+      },
+      {
+        "title": "🍚 任昌均更新📷",
+        "type": "other",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍚 _dong_ii更新「🔮禁忌魔法」",
+        "type": "other",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 WVS更新「猫不理」「😣」",
+        "type": "wvs",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「克拉们 我顺利完成所有训练了🫡」",
+        "type": "wvs",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS更新「边录音边咔嚓一下ㅎ」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 WVS评论硕珉「真的真的太辛苦了ㅠㅠㅠ」",
+        "type": "wvs",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-10-18": [
@@ -28149,13 +28239,113 @@
         "note": ""
       },
       {
+        "title": "🐰🦌 官方INS更新「Dream Record 📸」",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 WVS更新「下雨啦 雨在下 雨在下 在我的心里」",
+        "type": "wvs",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 WVS更新「克拉们 今天来预录真的辛苦大家了 ㅠㅠ」",
+        "type": "wvs",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🍚 第13届漆谷洛东江和平庆典 陆军演出队演出",
-        "type": "collab",
+        "type": "other",
         "members": [
           "woozi"
         ],
         "time": "11:30",
         "note": "11:30-12:00"
+      },
+      {
+        "title": "🍚 WVS更新「洛东江和平庆典也圆满结束了 由衷感谢亲自到场为我们应援的克拉们 多亏了大家 直到最后我都获得了巨大的力量」",
+        "type": "wvs",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍚 姜丹尼尔、金东赫更新📸",
+        "type": "other",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍚 INS STORY更新《蜘蛛侠》互相指认表情包",
+        "type": "ins",
+        "members": [
+          "woozi"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ [DK TIME] 今日DK #1｜入伍前的日常合集.zip ⚾🫡",
+        "type": "official",
+        "members": [
+          "dk"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 《新人教练金软景2》",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 官推更新 [17'S 胜宽] 261018 #新人教练金软景2",
+        "type": "official",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🍊 tvingdotcom更新",
+        "type": "variety",
+        "members": [
+          "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 直播",
+        "type": "vlive",
+        "members": [
+          "dino"
+        ],
+        "time": "",
+        "note": ""
       }
     ],
     "2026-09-23": [
@@ -28837,6 +29027,15 @@
         "note": ""
       },
       {
+        "title": "🐱 电影《捕风追影2》开机",
+        "type": "shoot",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "⚔️ 结业仪式",
         "type": "other",
         "members": [
@@ -28908,5 +29107,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-10-20T06:52:28.443Z"
+  "updatedAt": "2026-10-20T07:01:41.504Z"
 }
