@@ -32010,10 +32010,123 @@
         "note": ""
       },
       {
+        "title": "🐰 直播",
+        "type": "vlive",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 JEONGHAN X JOSHUA（SEVENTEEN）《DREAMSCAPE》Jacket BEHIND THE SCENES",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 TikTok更新「目光交汇的瞬间 I’m so blessed #JxJ」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 TikTok更新「in a dreamscape 12PM ---> 12AM #JxJ」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 INS更新「JJ😄」",
+        "type": "ins",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 Marie Claire Korea更新 #MarieClaireKorea_SpecialPopEdition「在拍摄现场要是遇到这样的男人们 该怎么办呀..💭🎸」",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 TikTok更新「I want it 我会一直找寻着你 #JxJ」",
+        "type": "tiktok",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰 SW19更新「At Midnight, with JEONGHAN」",
+        "type": "brand",
+        "members": [
+          "jeonghan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 INS更新「JxJ 🩵」",
+        "type": "ins",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐱 电影《捕风追影2》开机",
         "type": "shoot",
         "members": [
           "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐱 dy更新「🐱𝟎𝟏 它说可以实现心愿💭」",
+        "type": "tiktok",
+        "members": [
+          "jun"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐸 INS STORY更新🎤",
+        "type": "ins",
+        "members": [
+          "the8"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "⚔️ WVS更新「忠诚🫡 二等兵李硕珉 顺利完成结业式啦!」",
+        "type": "wvs",
+        "members": [
+          "dk"
         ],
         "time": "",
         "note": ""
@@ -32032,6 +32145,15 @@
         "type": "wvs",
         "members": [
           "seungkwan"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦦 WVS更新 2026 DINO X PICHEOLIN [吉BOARD SHOW] Photo Sketch #2",
+        "type": "official",
+        "members": [
+          "dino"
         ],
         "time": "",
         "note": ""
@@ -32187,6 +32309,16 @@
           "joshua"
         ],
         "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 MBC Show! 音乐中心《DREAMSCAPE》预录",
+        "type": "shoot",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "06:00",
         "note": ""
       },
       {
@@ -33532,22 +33664,22 @@
         "note": ""
       },
       {
-        "title": "🐰🦌 音乐中心《12 o'clock》打歌舞台",
-        "type": "musicshow",
-        "members": [
-          "jeonghan",
-          "joshua"
-        ],
-        "time": "",
-        "note": ""
-      },
-      {
         "title": "🐰 TikTok更新「blew CARATs' stress away 🪽」",
         "type": "tiktok",
         "members": [
           "jeonghan"
         ],
         "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 MBC Show! 音乐中心《DREAMSCAPE》舞台",
+        "type": "musicshow",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "14:15",
         "note": ""
       },
       {
@@ -33771,5 +33903,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-10-24T10:07:48.687Z"
+  "updatedAt": "2026-11-07T09:39:13.208Z"
 }
