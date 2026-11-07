@@ -33781,6 +33781,15 @@
     ],
     "2026-10-24": [
       {
+        "title": "🍒 WVS更新「大家都过得好嘛?! 天气变得挺冷的呢 注意不要感冒 饭要好好吃哦!!!!」",
+        "type": "wvs",
+        "members": [
+          "scoups"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🐰🦌 TikTok更新「预知梦 #3 💭 早餐推荐」",
         "type": "tiktok",
         "members": [
@@ -33829,6 +33838,26 @@
         "note": ""
       },
       {
+        "title": "🐰🦌 JEONGHAN X JOSHUA（SEVENTEEN）《DREAMSCAPE : BETWEEN TWELVES》BEHIND THE SCENES",
+        "type": "official",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐰🦌 Marie Claire Korea更新 #MarieClaireKorea_SpecialPopEdition",
+        "type": "magazine",
+        "members": [
+          "jeonghan",
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
         "title": "🦌 TikTok更新「𝑵𝒐𝒘 𝒊𝒕'𝒔 𝒕𝒘𝒆𝒍𝒗𝒆⚡️」",
         "type": "tiktok",
         "members": [
@@ -33839,7 +33868,7 @@
       },
       {
         "title": "🦌 VOGUE采访",
-        "type": "magazine",
+        "type": "media",
         "members": [
           "joshua"
         ],
@@ -33848,9 +33877,36 @@
       },
       {
         "title": "🦌 VOGUE更新「Joshua带着一抹『绝色』来到了#VOGUE时尚之力盛会」",
-        "type": "magazine",
+        "type": "media",
         "members": [
           "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 陈妍希更新📸",
+        "type": "other",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🦌 中国→韩国",
+        "type": "airport",
+        "members": [
+          "joshua"
+        ],
+        "time": "",
+        "note": ""
+      },
+      {
+        "title": "🐶 Calvin Klein更新 16:9版本广告",
+        "type": "brand",
+        "members": [
+          "mingyu"
         ],
         "time": "",
         "note": ""
@@ -34059,5 +34115,5 @@
     "url": "https://xn--vduyey89e.com/v1",
     "model": "[反重力次]gemini-3.1-flash-lite"
   },
-  "updatedAt": "2026-11-07T09:49:07.584Z"
+  "updatedAt": "2026-11-07T09:54:49.021Z"
 }
